@@ -1,0 +1,1227 @@
+city_id,city_name,county_name,latitude,longitude,census_geoid,census_name,geocode_source,county_distance_miles,total_officials,filled_officials,female_officials,male_officials,unknown_officials,female_pct,has_female_mayor
+city-of-abbott--hill,City of Abbott,Hill,31.885139,-97.074106,4800100,Abbott city,census_gazetteer,7.54,8,8,3,5,0,37.5,False
+city-of-abernathy--hale-lubbock,City of Abernathy,"Hale, Lubbock",33.826785,-101.850885,4800160,Abernathy city,census_gazetteer,14.98,16,16,7,8,1,43.8,False
+city-of-abilene--taylor-jones,City of Abilene,"Taylor, Jones",32.454514,-99.738147,4801000,Abilene city,census_gazetteer,14.04,56,56,20,29,7,35.7,False
+city-of-ackerly--dawson-martin,City of Ackerly,"Dawson, Martin",32.525063,-101.715847,4801108,Ackerly city,census_gazetteer,20.23,8,8,1,5,2,12.5,False
+town-of-addison--dallas,Town of Addison,Dallas,32.963744,-96.833805,4801240,Addison town,census_gazetteer,13.97,46,46,17,20,9,37.0,False
+city-of-adrian--oldham,City of Adrian,Oldham,35.274119,-102.667247,4801324,Adrian city,census_gazetteer,9.66,7,7,4,3,0,57.1,True
+city-of-agua-dulce--nueces,City of Agua Dulce,Nueces,27.78273,-97.90985,4801396,Agua Dulce city,census_gazetteer,24.24,10,10,4,6,0,40.0,False
+city-of-alamo--hidalgo,City of Alamo,Hidalgo,26.181037,-98.117449,4801576,Alamo city,census_gazetteer,15.53,23,23,10,12,1,43.5,False
+city-of-alamo-heights--bexar,City of Alamo Heights,Bexar,29.482803,-98.468191,4801600,Alamo Heights city,census_gazetteer,3.92,18,18,7,9,2,38.9,False
+city-of-alba--wood-rains,City of Alba,"Wood, Rains",32.786667,-95.632463,4801636,Alba town,census_gazetteer,11.1,11,11,4,6,1,36.4,False
+city-of-albany--shackelford,City of Albany,Shackelford,32.727266,-99.295664,4801648,Albany city,census_gazetteer,3.2,11,11,3,7,1,27.3,True
+city-of-aledo--parker,City of Aledo,Parker,32.698282,-97.608341,4801744,Aledo city,census_gazetteer,12.71,14,14,7,7,0,50.0,True
+city-of-alice--jim-wells,City of Alice,Jim Wells,27.755616,-98.065812,4801852,Alice city,census_gazetteer,2.16,25,25,13,11,1,52.0,True
+city-of-allen--collin,City of Allen,Collin,33.107224,-96.674676,4801924,Allen city,census_gazetteer,8.17,45,45,20,20,5,44.4,False
+city-of-alma--ellis,City of Alma,Ellis,32.276227,-96.543181,4802044,Alma town,census_gazetteer,15.6,10,9,2,6,1,22.2,True
+city-of-alpine--brewster,City of Alpine,Brewster,30.363905,-103.664456,4802104,Alpine city,census_gazetteer,45.57,18,18,11,7,0,61.1,True
+city-of-alto--cherokee,City of Alto,Cherokee,31.650982,-95.070785,4802188,Alto town,census_gazetteer,14.24,11,11,4,5,2,36.4,False
+city-of-alton--hidalgo,City of Alton,Hidalgo,26.288775,-98.310581,4802212,Alton city,census_gazetteer,11.28,20,20,5,15,0,25.0,False
+city-of-alvarado--johnson,City of Alvarado,Johnson,32.410345,-97.210767,4802260,Alvarado city,census_gazetteer,9.24,18,18,9,8,1,50.0,False
+city-of-alvin--brazoria,City of Alvin,Brazoria,29.424772,-95.224432,4802272,Alvin city,census_gazetteer,21.81,30,30,14,13,3,46.7,False
+city-of-alvord--wise,City of Alvord,Wise,33.357052,-97.696224,4802284,Alvord town,census_gazetteer,9.84,18,18,5,12,1,27.8,False
+city-of-amarillo--potter-randall,City of Amarillo,"Potter, Randall",35.199903,-101.830194,4803000,Amarillo city,census_gazetteer,14.19,67,67,26,34,7,38.8,False
+city-of-ames--liberty,City of Ames,Liberty,30.045078,-94.737316,4803072,Ames city,census_gazetteer,12.03,9,9,3,4,2,33.3,True
+city-of-amherst--lamb,City of Amherst,Lamb,34.011982,-102.414776,4803084,Amherst city,census_gazetteer,5.48,5,5,1,4,0,20.0,False
+city-of-anahuac--chambers,City of Anahuac,Chambers,29.765163,-94.678502,4803144,Anahuac city,census_gazetteer,4.78,9,9,3,5,1,33.3,True
+town-of-anderson--grimes,Town of Anderson,Grimes,30.486755,-95.990321,4803192,Anderson city,census_gazetteer,3.9,7,7,3,4,0,42.9,False
+city-of-andrews--andrews,City of Andrews,Andrews,32.321336,-102.551846,4803216,Andrews city,census_gazetteer,5.2,21,21,5,14,2,23.8,False
+city-of-angleton--brazoria,City of Angleton,Brazoria,29.171774,-95.429311,4803264,Angleton city,census_gazetteer,0.42,18,18,6,11,1,33.3,False
+city-of-angus--navarro,City of Angus,Navarro,31.999468,-96.427686,4803288,Angus city,census_gazetteer,4.16,7,7,3,4,0,42.9,True
+city-of-anna--collin,City of Anna,Collin,33.348164,-96.553438,4803300,Anna city,census_gazetteer,10.72,30,30,15,14,1,50.0,False
+town-of-annetta--parker,Town of Annetta,Parker,32.701294,-97.66937,4803336,Annetta town,census_gazetteer,9.51,8,8,1,5,2,12.5,False
+city-of-annetta-north--parker,City of Annetta North,Parker,32.712846,-97.642379,4803340,Annetta North town,census_gazetteer,10.49,7,7,1,5,1,14.3,False
+city-of-annetta-south--parker,City of Annetta South,Parker,32.670768,-97.631864,4803342,Annetta South city,census_gazetteer,12.5,7,7,2,5,0,28.6,False
+city-of-annona--red-river,City of Annona,Red River,33.581811,-94.913079,4803360,Annona town,census_gazetteer,8.22,9,9,5,4,0,55.6,True
+city-of-anson--jones,City of Anson,Jones,32.754511,-99.896175,4803372,Anson city,census_gazetteer,1.3,13,13,5,7,1,38.5,True
+town-of-anthony-city--el-paso,Town of Anthony City,El Paso,31.986731,-106.598634,4803432,Anthony town,census_gazetteer_alias,26.08,13,13,4,9,0,30.8,False
+city-of-anton--hockley,City of Anton,Hockley,33.810736,-102.16221,4803540,Anton city,census_gazetteer,17.57,10,10,1,6,3,10.0,False
+city-of-appleby--nacogdoches,City of Appleby,Nacogdoches,31.717027,-94.60777,4803564,Appleby city,census_gazetteer,6.85,9,9,1,8,0,11.1,False
+city-of-aquilla--hill,City of Aquilla,Hill,31.853894,-97.21964,4803588,Aquilla city,census_gazetteer,10.35,6,6,0,5,1,0.0,False
+city-of-aransas-pass--nueces-aransas-san-patricio,City of Aransas Pass,"Nueces, Aransas, San Patricio",27.893108,-97.120993,4803600,Aransas Pass city,census_gazetteer,18.42,17,17,6,9,2,35.3,True
+city-of-archer-city--archer,City of Archer City,Archer,33.592689,-98.62683,4803696,Archer City city,census_gazetteer,3.84,11,11,4,5,2,36.4,True
+city-of-arcola--fort-bend,City of Arcola,Fort Bend,29.503789,-95.469568,4803708,Arcola city,census_gazetteer,18.19,17,17,8,5,4,47.1,True
+town-of-argyle--denton,Town of Argyle,Denton,33.105493,-97.17752,4803768,Argyle city,census_gazetteer,7.62,17,17,7,9,1,41.2,True
+city-of-arlington--tarrant,City of Arlington,Tarrant,32.700708,-97.124691,4804000,Arlington city,census_gazetteer,10.86,129,129,68,44,17,52.7,False
+city-of-arp--smith,City of Arp,Smith,32.226002,-95.052538,4804156,Arp city,census_gazetteer,16.25,10,10,1,5,4,10.0,False
+city-of-asherton--dimmit,City of Asherton,Dimmit,28.446118,-99.760322,4804300,Asherton city,census_gazetteer,1.59,7,7,2,5,0,28.6,False
+city-of-aspermont--stonewall,City of Aspermont,Stonewall,33.140921,-100.224867,4804408,Aspermont town,census_gazetteer,3.15,10,10,2,4,4,20.0,False
+city-of-athens--henderson,City of Athens,Henderson,32.202603,-95.830799,4804504,Athens city,census_gazetteer,1.49,24,24,9,10,5,37.5,False
+city-of-atlanta--cass,City of Atlanta,Cass,33.113238,-94.16761,4804516,Atlanta city,census_gazetteer,11.18,15,15,4,11,0,26.7,False
+city-of-aubrey--denton,City of Aubrey,Denton,33.30855,-96.979088,4804600,Aubrey city,census_gazetteer,10.88,22,22,6,13,3,27.3,False
+city-of-aurora--wise,City of Aurora,Wise,33.055942,-97.509615,4804672,Aurora city,census_gazetteer,14.25,9,9,3,6,0,33.3,False
+city-of-austin--travis-williamson-hays,City of Austin,"Travis, Williamson, Hays",30.298622,-97.754134,4805000,Austin city,census_gazetteer,5.55,135,135,77,45,13,57.0,False
+city-of-austwell--refugio,City of Austwell,Refugio,28.391101,-96.843715,4805036,Austwell city,census_gazetteer,19.96,4,4,3,1,0,75.0,False
+city-of-avery--red-river,City of Avery,Red River,33.551081,-94.780052,4805072,Avery town,census_gazetteer,16.16,10,10,3,5,2,30.0,False
+city-of-avinger--cass,City of Avinger,Cass,32.897443,-94.554122,4805084,Avinger town,census_gazetteer,17.19,8,8,3,5,0,37.5,False
+city-of-azle--tarrant-parker,City of Azle,"Tarrant, Parker",32.895547,-97.53923,4805168,Azle city,census_gazetteer,16.73,21,21,7,10,4,33.3,True
+city-of-bailey--fannin,City of Bailey,Fannin,33.433622,-96.165093,4805264,Bailey city,census_gazetteer,11.42,5,5,1,4,0,20.0,False
+village-of-bailey-s-prairie--brazoria,Village of Bailey's Prairie,Brazoria,29.147979,-95.500146,4805288,Bailey's Prairie village,census_gazetteer,4.18,7,7,4,3,0,57.1,True
+city-of-baird--callahan,City of Baird,Callahan,32.396067,-99.395993,4805336,Baird city,census_gazetteer,7.24,10,10,2,8,0,20.0,False
+city-of-balch-springs--dallas,City of Balch Springs,Dallas,32.713904,-96.618062,4805372,Balch Springs city,census_gazetteer,10.02,27,26,9,10,7,34.6,False
+city-of-balcones-heights--bexar,City of Balcones Heights,Bexar,29.490225,-98.549138,4805384,Balcones Heights city,census_gazetteer,3.36,22,22,6,15,1,27.3,False
+city-of-ballinger--runnels,City of Ballinger,Runnels,31.739146,-99.955413,4805456,Ballinger city,census_gazetteer,7.48,12,12,3,7,2,25.0,True
+city-of-balmorhea--reeves,City of Balmorhea,Reeves,30.982407,-103.744974,4805468,Balmorhea city,census_gazetteer,22.6,7,7,4,3,0,57.1,True
+city-of-bandera--bandera,City of Bandera,Bandera,29.725126,-99.074261,4805528,Bandera city,census_gazetteer,10.39,15,15,8,5,2,53.3,True
+city-of-bangs--brown,City of Bangs,Brown,31.71613,-99.13032,4805552,Bangs city,census_gazetteer,8.43,13,11,2,8,1,18.2,False
+city-of-bardwell--ellis,City of Bardwell,Ellis,32.267076,-96.695539,4805612,Bardwell city,census_gazetteer,8.09,7,7,3,4,0,42.9,False
+city-of-barry--navarro,City of Barry,Navarro,32.100437,-96.640532,4805708,Barry city,census_gazetteer,10.39,8,8,4,2,2,50.0,True
+city-of-barstow--ward,City of Barstow,Ward,31.461545,-103.395503,4805720,Barstow city,census_gazetteer,17.8,9,9,2,5,2,22.2,False
+city-of-bartlett--williamson-bell,City of Bartlett,"Williamson, Bell",30.794853,-97.432297,4805732,Bartlett city,census_gazetteer,14.38,11,11,3,7,1,27.3,False
+town-of-bartonville--denton,Town of Bartonville,Denton,33.086079,-97.148045,4805768,Bartonville town,census_gazetteer,8.37,12,12,2,8,2,16.7,True
+city-of-bastrop--bastrop,City of Bastrop,Bastrop,30.115184,-97.326562,4805864,Bastrop city,census_gazetteer,1.38,26,26,15,10,1,57.7,False
+city-of-bay-city--matagorda,City of Bay City,Matagorda,28.983543,-95.959872,4805984,Bay City city,census_gazetteer,14.64,29,29,16,11,2,55.2,False
+city-of-bayou-vista--galveston,City of Bayou Vista,Galveston,29.326695,-94.940914,4806060,Bayou Vista city,census_gazetteer,7.08,9,9,3,6,0,33.3,False
+town-of-bayside--refugio,Town of Bayside,Refugio,28.096046,-97.210873,4806104,Bayside town,census_gazetteer,15.9,8,8,4,4,0,50.0,True
+city-of-baytown--harris-chambers,City of Baytown,"Harris, Chambers",29.766272,-94.962678,4806128,Baytown city,census_gazetteer,18.24,66,66,35,23,8,53.0,False
+town-of-bayview--cameron,Town of Bayview,Cameron,26.133441,-97.397632,4806140,Bayview town,census_gazetteer,5.47,7,7,1,4,2,14.3,False
+city-of-beach-city--chambers,City of Beach City,Chambers,29.738882,-94.846504,4806200,Beach City city,census_gazetteer,11.02,8,8,1,6,1,12.5,False
+village-of-bear-creek--hays,Village of Bear Creek,Hays,30.182376,-97.940055,4806242,Bear Creek village,census_gazetteer,9.92,5,5,1,4,0,20.0,False
+city-of-beasley--fort-bend,City of Beasley,Fort Bend,29.495077,-95.915472,4806272,Beasley city,census_gazetteer,8.96,8,8,4,3,1,50.0,False
+city-of-beaumont--jefferson,City of Beaumont,Jefferson,30.084912,-94.14533,4807000,Beaumont city,census_gazetteer,15.95,49,49,24,20,5,49.0,False
+city-of-beckville--panola,City of Beckville,Panola,32.243549,-94.456054,4807108,Beckville city,census_gazetteer,10.39,8,8,3,5,0,37.5,False
+city-of-bedford--tarrant,City of Bedford,Tarrant,32.845838,-97.135076,4807132,Bedford city,census_gazetteer,10.4,36,36,18,13,5,50.0,False
+city-of-bedias--grimes,City of Bedias,Grimes,30.781636,-95.944581,4807144,Bedias city,census_gazetteer,16.67,7,7,3,4,0,42.9,True
+city-of-bee-cave--travis,City of Bee Cave,Travis,30.307684,-97.962591,4807156,Bee Cave city,census_gazetteer,16.87,21,21,12,7,2,57.1,True
+city-of-beeville--bee,City of Beeville,Bee,28.405244,-97.748931,4807192,Beeville city,census_gazetteer,0.84,19,19,8,10,1,42.1,False
+city-of-bellaire--harris,City of Bellaire,Harris,29.704019,-95.460905,4807300,Bellaire city,census_gazetteer,11.34,36,36,9,21,6,25.0,False
+city-of-bellevue--clay,City of Bellevue,Clay,33.633508,-98.016347,4807396,Bellevue city,census_gazetteer,15.44,8,8,1,6,1,12.5,False
+city-of-bellmead--mclennan,City of Bellmead,McLennan,31.601451,-97.089037,4807408,Bellmead city,census_gazetteer,7.45,15,15,1,12,2,6.7,False
+city-of-bells--grayson,City of Bells,Grayson,33.616495,-96.41274,4807420,Bells town,census_gazetteer,15.14,11,11,3,6,2,27.3,False
+city-of-bellville--austin,City of Bellville,Austin,29.946639,-96.258839,4807432,Bellville city,census_gazetteer,3.84,14,14,3,9,2,21.4,False
+city-of-belton--bell,City of Belton,Bell,31.052345,-97.479542,4807492,Belton city,census_gazetteer,1.06,34,34,11,22,1,32.4,False
+city-of-benavides--duval,City of Benavides,Duval,27.596867,-98.413776,4807528,Benavides city,census_gazetteer,7.75,11,11,3,8,0,27.3,False
+city-of-benbrook--tarrant,City of Benbrook,Tarrant,32.678284,-97.463601,4807552,Benbrook city,census_gazetteer,11.93,24,24,8,16,0,33.3,True
+city-of-benjamin--knox,City of Benjamin,Knox,33.583606,-99.792932,4807636,Benjamin city,census_gazetteer,4.1,10,10,7,3,0,70.0,True
+city-of-berryville--henderson,City of Berryville,Henderson,32.089249,-95.469807,4807852,Berryville town,census_gazetteer,24.0,9,9,2,6,1,22.2,False
+city-of-bertram--burnet,City of Bertram,Burnet,30.74198,-98.062355,4807864,Bertram city,census_gazetteer,8.88,12,12,3,8,1,25.0,False
+city-of-beverly-hills--mclennan,City of Beverly Hills,McLennan,31.522339,-97.156347,4808104,Beverly Hills city,census_gazetteer,3.3,10,10,1,8,1,10.0,False
+city-of-bevil-oaks--jefferson,City of Bevil Oaks,Jefferson,30.15071,-94.270948,4808128,Bevil Oaks city,census_gazetteer,21.75,9,8,2,5,1,25.0,True
+city-of-big-lake--reagan,City of Big Lake,Reagan,31.194112,-101.453406,4808212,Big Lake city,census_gazetteer,13.02,16,16,10,5,1,62.5,True
+city-of-big-sandy--upshur,City of Big Sandy,Upshur,32.58571,-95.112475,4808224,Big Sandy town,census_gazetteer,14.36,11,11,4,7,0,36.4,True
+city-of-big-spring--howard,City of Big Spring,Howard,32.238341,-101.485739,4808236,Big Spring city,census_gazetteer,5.27,27,27,14,12,1,51.9,False
+city-of-big-wells--dimmit,City of Big Wells,Dimmit,28.569882,-99.570178,4808260,Big Wells city,census_gazetteer,15.6,8,8,3,5,0,37.5,False
+city-of-bishop--nueces,City of Bishop,Nueces,27.585254,-97.797403,4808392,Bishop city,census_gazetteer,20.25,12,12,3,7,2,25.0,False
+village-of-bishop-hills--potter,Village of Bishop Hills,Potter,35.261439,-101.951908,4808398,Bishop Hills town,census_gazetteer,10.03,8,7,2,5,0,28.6,True
+city-of-blackwell--nolan-coke,City of Blackwell,"Nolan, Coke",32.085054,-100.319357,4808488,Blackwell city,census_gazetteer,16.73,7,7,4,2,1,57.1,True
+city-of-blanco--blanco,City of Blanco,Blanco,30.098594,-98.417106,4808536,Blanco city,census_gazetteer,11.63,14,14,4,10,0,28.6,True
+city-of-blanket--brown,City of Blanket,Brown,31.824444,-98.789668,4808596,Blanket town,census_gazetteer,12.95,8,7,2,4,1,28.6,True
+city-of-bloomburg--cass,City of Bloomburg,Cass,33.137797,-94.059076,4808752,Bloomburg town,census_gazetteer,17.68,8,8,5,2,1,62.5,True
+city-of-blooming-grove--navarro,City of Blooming Grove,Navarro,32.092362,-96.717295,4808788,Blooming Grove town,census_gazetteer,14.51,10,10,6,1,3,60.0,True
+city-of-bloomington--victoria,City of Bloomington,Victoria,28.650419,-96.902195,4808800,Bloomington city,census_gazetteer,10.92,3,3,2,1,0,66.7,True
+city-of-blossom--lamar,City of Blossom,Lamar,33.663197,-95.386279,4808812,Blossom city,census_gazetteer,10.59,9,9,4,4,1,44.4,False
+city-of-blue-mound--tarrant,City of Blue Mound,Tarrant,32.854257,-97.338369,4808860,Blue Mound city,census_gazetteer,6.3,11,11,6,5,0,54.5,True
+city-of-blue-ridge--collin,City of Blue Ridge,Collin,33.298359,-96.398807,4808872,Blue Ridge city,census_gazetteer,12.67,10,10,4,6,0,40.0,True
+city-of-blum--hill,City of Blum,Hill,32.141989,-97.397122,4809004,Blum town,census_gazetteer,19.08,9,9,2,4,3,22.2,False
+city-of-boerne--kendall,City of Boerne,Kendall,29.784938,-98.727949,4809160,Boerne city,census_gazetteer,11.01,41,41,17,22,2,41.5,False
+city-of-bogata--red-river,City of Bogata,Red River,33.469793,-95.21355,4809172,Bogata city,census_gazetteer,14.06,15,15,4,8,3,26.7,False
+city-of-bonham--fannin,City of Bonham,Fannin,33.587886,-96.190516,4809328,Bonham city,census_gazetteer,4.93,23,23,5,16,2,21.7,False
+village-of-bonney--brazoria,Village of Bonney,Brazoria,29.319996,-95.446663,4809388,Bonney village,census_gazetteer,10.54,8,8,4,4,0,50.0,False
+city-of-booker--lipscomb-ochiltree,City of Booker,"Lipscomb, Ochiltree",36.456143,-100.540224,4809448,Booker town,census_gazetteer,19.22,12,12,5,6,1,41.7,False
+city-of-borger--hutchinson,City of Borger,Hutchinson,35.659435,-101.40236,4809556,Borger city,census_gazetteer,12.47,29,29,11,15,3,37.9,True
+city-of-bovina--parmer,City of Bovina,Parmer,34.515657,-102.884656,4809628,Bovina city,census_gazetteer,5.79,14,14,5,8,1,35.7,False
+city-of-bowie--montague,City of Bowie,Montague,33.557007,-97.846164,4809640,Bowie city,census_gazetteer,10.9,21,21,6,13,2,28.6,True
+city-of-boyd--wise,City of Boyd,Wise,33.084347,-97.563208,4809748,Boyd town,census_gazetteer,10.85,14,14,3,10,1,21.4,False
+city-of-brackettville--kinney,City of Brackettville,Kinney,29.318201,-100.410503,4809868,Brackettville city,census_gazetteer,2.04,11,11,2,7,2,18.2,False
+city-of-brady--mcculloch,City of Brady,McCulloch,31.115378,-99.345935,4809916,Brady city,census_gazetteer,6.28,19,19,5,12,2,26.3,False
+city-of-brazoria--brazoria,City of Brazoria,Brazoria,29.044799,-95.564153,4810072,Brazoria city,census_gazetteer,11.55,11,11,4,5,2,36.4,True
+city-of-brazos-country--austin,City of Brazos Country,Austin,29.752892,-96.038913,4810090,Brazos Country city,census_gazetteer,16.86,9,9,3,6,0,33.3,False
+city-of-breckenridge--stephens,City of Breckenridge,Stephens,32.756751,-98.912985,4810132,Breckenridge city,census_gazetteer,4.47,20,20,8,9,3,40.0,False
+city-of-bremond--robertson,City of Bremond,Robertson,31.165709,-96.675975,4810144,Bremond city,census_gazetteer,13.59,10,10,4,6,0,40.0,True
+city-of-brenham--washington,City of Brenham,Washington,30.158074,-96.395646,4810156,Brenham city,census_gazetteer,4.03,43,43,18,20,5,41.9,False
+village-of-briarcliff--travis,Village of Briarcliff,Travis,30.409279,-98.044528,4810197,Briarcliff village,census_gazetteer,24.12,10,10,4,6,0,40.0,True
+city-of-briaroaks--johnson,City of Briaroaks,Johnson,32.495376,-97.30335,4810216,Briaroaks city,census_gazetteer,8.76,7,6,4,2,0,66.7,False
+city-of-bridge-city--orange,City of Bridge City,Orange,30.031524,-93.840761,4810252,Bridge City city,census_gazetteer,6.73,19,19,8,9,2,42.1,False
+city-of-bridgeport--wise,City of Bridgeport,Wise,33.213601,-97.775157,4810264,Bridgeport city,census_gazetteer,6.49,22,22,11,9,2,50.0,True
+town-of-broaddus--san-augustine,Town of Broaddus,San Augustine,31.304974,-94.27004,4810384,Broaddus town,census_gazetteer,8.27,7,4,3,1,0,75.0,True
+town-of-brock--parker,Town of Brock,Parker,32.676243,-97.940872,,"Brock, Parker County, Texas, 76439, United States",nominatim,10.49,6,6,1,4,1,16.7,False
+city-of-bronte--coke,City of Bronte,Coke,31.886052,-100.295123,4810528,Bronte town,census_gazetteer,19.96,10,10,2,7,1,20.0,False
+city-of-brookshire--waller,City of Brookshire,Waller,29.782391,-95.951441,4810636,Brookshire city,census_gazetteer,16.08,15,15,11,3,1,73.3,False
+city-of-brookside-village--brazoria,City of Brookside Village,Brazoria,29.590873,-95.318012,4810648,Brookside Village city,census_gazetteer,30.06,12,12,2,7,3,16.7,True
+city-of-browndell--jasper,City of Browndell,Jasper,31.125373,-93.980137,4810708,Browndell city,census_gazetteer,25.85,7,6,4,1,1,66.7,True
+city-of-brownfield--terry,City of Brownfield,Terry,33.175514,-102.273429,4810720,Brownfield city,census_gazetteer,3.82,15,15,1,12,2,6.7,False
+city-of-brownsboro--henderson,City of Brownsboro,Henderson,32.29842,-95.613042,4810756,Brownsboro city,census_gazetteer,15.25,11,11,3,7,1,27.3,True
+city-of-brownsville--cameron,City of Brownsville,Cameron,25.989404,-97.480625,4810768,Brownsville city,census_gazetteer,7.84,107,107,52,49,6,48.6,False
+city-of-brownwood--brown,City of Brownwood,Brown,31.712856,-98.977053,4810780,Brownwood city,census_gazetteer,3.76,34,34,12,17,5,35.3,False
+city-of-bruceville-eddy--mclennan-falls,City of Bruceville-Eddy,"McLennan, Falls",31.30911,-97.255053,4810828,Bruceville-Eddy city,census_gazetteer,17.03,12,12,4,8,0,33.3,True
+city-of-bryan--brazos,City of Bryan,Brazos,30.666016,-96.381049,4810912,Bryan city,census_gazetteer,4.72,60,60,19,35,6,31.7,False
+city-of-bryson--jack,City of Bryson,Jack,33.166164,-98.390567,4810960,Bryson city,census_gazetteer,13.66,8,8,2,5,1,25.0,False
+town-of-buckholts--milam,Town of Buckholts,Milam,30.873986,-97.128873,4811020,Buckholts town,census_gazetteer,10.3,4,4,1,3,0,25.0,False
+city-of-buda--hays,City of Buda,Hays,30.07452,-97.851239,4811080,Buda city,census_gazetteer,10.68,39,39,20,13,6,51.3,False
+city-of-buffalo--leon,City of Buffalo,Leon,31.458905,-96.066163,4811116,Buffalo city,census_gazetteer,11.71,11,11,3,7,1,27.3,False
+town-of-buffalo-gap--taylor,Town of Buffalo Gap,Taylor,32.283391,-99.834248,4811128,Buffalo Gap town,census_gazetteer,3.42,10,10,2,6,2,20.0,False
+village-of-buffalo-springs--lubbock,Village of Buffalo Springs,Lubbock,33.538706,-101.696408,4811155,Buffalo Springs Lake village,census_gazetteer_alias,8.71,11,11,3,7,1,27.3,False
+city-of-bullard--smith-cherokee,City of Bullard,"Smith, Cherokee",32.144166,-95.317515,4811212,Bullard town,census_gazetteer,16.12,19,19,6,11,2,31.6,True
+city-of-bulverde--comal,City of Bulverde,Comal,29.776132,-98.448061,4811224,Bulverde city,census_gazetteer,11.66,15,15,5,10,0,33.3,True
+city-of-bunker-hill-village--harris,City of Bunker Hill Village,Harris,29.764761,-95.531742,4811300,Bunker Hill Village city,census_gazetteer,10.49,14,14,4,9,1,28.6,True
+city-of-burkburnett--wichita,City of Burkburnett,Wichita,34.07486,-98.567276,4811368,Burkburnett city,census_gazetteer,10.04,18,18,8,8,2,44.4,True
+city-of-burke--angelina,City of Burke,Angelina,31.235727,-94.764823,4811380,Burke city,census_gazetteer,9.15,7,7,3,4,0,42.9,False
+city-of-burleson--johnson-tarrant,City of Burleson,"Johnson, Tarrant",32.514445,-97.323293,4811428,Burleson city,census_gazetteer,9.62,46,46,22,21,3,47.8,False
+city-of-burnet--burnet,City of Burnet,Burnet,30.750693,-98.238331,4811464,Burnet city,census_gazetteer,3.48,30,30,12,15,3,40.0,False
+city-of-burton--washington,City of Burton,Washington,30.18578,-96.603042,4811536,Burton city,census_gazetteer,11.69,9,9,6,2,1,66.7,True
+city-of-byers--clay,City of Byers,Clay,34.069171,-98.190931,4811644,Byers city,census_gazetteer,19.61,9,7,1,4,2,14.3,False
+city-of-bynum--hill,City of Bynum,Hill,31.969071,-97.003078,4811656,Bynum city,census_gazetteer,7.54,9,8,3,5,0,37.5,True
+city-of-cactus--moore,City of Cactus,Moore,36.044376,-102.00803,4811692,Cactus city,census_gazetteer,15.85,17,17,6,8,3,35.3,False
+city-of-caddo-mills--hunt,City of Caddo Mills,Hunt,33.046886,-96.232169,4811716,Caddo Mills city,census_gazetteer,10.06,17,17,5,9,3,29.4,False
+city-of-caldwell--burleson,City of Caldwell,Burleson,30.529807,-96.699724,4811836,Caldwell city,census_gazetteer,5.26,16,16,4,11,1,25.0,False
+city-of-callisburg--cooke,City of Callisburg,Cooke,33.698711,-97.015918,4811968,Callisburg city,census_gazetteer,11.91,7,7,2,5,0,28.6,False
+city-of-calvert--robertson,City of Calvert,Robertson,30.979149,-96.671542,4811992,Calvert city,census_gazetteer,9.81,15,15,6,7,2,40.0,False
+city-of-cameron--milam,City of Cameron,Milam,30.860768,-96.976198,4812040,Cameron city,census_gazetteer,4.83,16,16,5,11,0,31.2,False
+city-of-camp-wood--real,City of Camp Wood,Real,29.669047,-100.010865,4812388,Camp Wood city,census_gazetteer,16.29,7,7,3,2,2,42.9,False
+city-of-campbell--hunt,City of Campbell,Hunt,33.147584,-95.954893,4812112,Campbell city,census_gazetteer,7.67,8,8,3,4,1,37.5,True
+city-of-canadian--hemphill,City of Canadian,Hemphill,35.909678,-100.383892,4812412,Canadian city,census_gazetteer,8.73,14,14,5,7,2,35.7,True
+city-of-caney-city--henderson,City of Caney City,Henderson,32.209619,-96.038142,4812472,Caney City town,census_gazetteer,10.8,7,7,2,3,2,28.6,False
+city-of-canton--van-zandt,City of Canton,Van Zandt,32.554245,-95.863534,4812496,Canton city,census_gazetteer,1.58,19,19,5,11,3,26.3,False
+city-of-canyon--randall,City of Canyon,Randall,34.990291,-101.918951,4812532,Canyon city,census_gazetteer,2.33,31,31,5,23,3,16.1,False
+city-of-carbon--eastland,City of Carbon,Eastland,32.268405,-98.827196,4812736,Carbon town,census_gazetteer,3.92,8,8,3,5,0,37.5,False
+city-of-carl-s-corner--hill,City of Carl's Corner,Hill,32.083891,-97.053229,4812895,Carl's Corner town,census_gazetteer,8.3,9,9,4,5,0,44.4,True
+city-of-carmine--fayette,City of Carmine,Fayette,30.148534,-96.690681,4812916,Carmine city,census_gazetteer,22.49,9,9,5,4,0,55.6,True
+city-of-carrizo-springs--dimmit,City of Carrizo Springs,Dimmit,28.525843,-99.859255,4812988,Carrizo Springs city,census_gazetteer,9.06,19,19,6,10,3,31.6,True
+city-of-carrollton--dallas-denton-collin,City of Carrollton,"Dallas, Denton, Collin",32.989071,-96.899694,4813024,Carrollton city,census_gazetteer,16.88,61,61,31,25,5,50.8,False
+city-of-carthage--panola,City of Carthage,Panola,32.152046,-94.337111,4813108,Carthage city,census_gazetteer,2.04,16,16,5,7,4,31.2,False
+city-of-cashion--wichita,City of Cashion,Wichita,34.036458,-98.508092,4813198,Cashion Community city,census_gazetteer_alias,11.93,2,2,0,2,0,0.0,False
+city-of-castle-hills--bexar,City of Castle Hills,Bexar,29.524727,-98.519054,4813276,Castle Hills city,census_gazetteer,5.26,17,17,6,10,1,35.3,False
+city-of-castroville--medina,City of Castroville,Medina,29.362271,-98.854753,4813312,Castroville city,census_gazetteer,15.45,13,13,6,7,0,46.2,False
+city-of-cedar-hill--dallas-ellis,City of Cedar Hill,"Dallas, Ellis",32.584326,-96.958898,4813492,Cedar Hill city,census_gazetteer,16.41,49,49,30,13,6,61.2,False
+city-of-cedar-park--williamson-travis,City of Cedar Park,"Williamson, Travis",30.510177,-97.818626,4813552,Cedar Park city,census_gazetteer,15.92,46,46,21,22,3,45.7,False
+city-of-celeste--hunt,City of Celeste,Hunt,33.289675,-96.19447,4813672,Celeste city,census_gazetteer,13.14,9,9,4,2,3,44.4,True
+city-of-celina--collin-denton,City of Celina,"Collin, Denton",33.32296,-96.798821,4813684,Celina city,census_gazetteer,15.47,50,50,17,22,11,34.0,False
+city-of-center--shelby,City of Center,Shelby,31.793092,-94.180287,4813732,Center city,census_gazetteer,2.22,15,15,3,8,4,20.0,False
+city-of-centerville--leon,City of Centerville,Leon,31.258315,-95.979399,4813900,Centerville city,census_gazetteer,3.07,10,10,3,6,1,30.0,False
+city-of-chandler--henderson,City of Chandler,Henderson,32.30688,-95.473689,4814224,Chandler city,census_gazetteer,23.13,19,19,6,12,1,31.6,True
+city-of-channing--hartley,City of Channing,Hartley,35.681901,-102.332244,4814260,Channing city,census_gazetteer,19.03,6,5,2,2,1,40.0,False
+city-of-charlotte--atascosa,City of Charlotte,Atascosa,28.85929,-98.700638,4814404,Charlotte city,census_gazetteer,10.23,12,12,4,8,0,33.3,True
+city-of-chester--tyler,City of Chester,Tyler,30.921319,-94.600096,4814584,Chester town,census_gazetteer,16.96,7,7,0,5,2,0.0,False
+city-of-chico--wise,City of Chico,Wise,33.296056,-97.798605,4814620,Chico city,census_gazetteer,9.54,12,12,5,7,0,41.7,False
+city-of-childress--childress,City of Childress,Childress,34.435452,-100.282382,4814668,Childress city,census_gazetteer,6.92,17,17,3,12,2,17.6,False
+city-of-chillicothe--hardeman,City of Chillicothe,Hardeman,34.255741,-99.514142,4814680,Chillicothe city,census_gazetteer,13.43,12,12,5,6,1,41.7,True
+city-of-china--jefferson,City of China,Jefferson,30.050906,-94.334948,4814704,China city,census_gazetteer,17.57,9,9,4,4,1,44.4,False
+city-of-china-grove--bexar,City of China Grove,Bexar,29.392923,-98.345575,4814716,China Grove town,census_gazetteer,11.19,11,11,3,8,0,27.3,False
+town-of-chireno--nacogdoches,Town of Chireno,Nacogdoches,31.498948,-94.345855,4814776,Chireno city,census_gazetteer,18.21,8,7,3,4,0,42.9,True
+city-of-christine--atascosa,City of Christine,Atascosa,28.786224,-98.497734,4814860,Christine town,census_gazetteer,7.62,8,8,1,6,1,12.5,False
+city-of-cibolo--guadalupe,City of Cibolo,Guadalupe,29.565803,-98.212822,4814920,Cibolo city,census_gazetteer,15.9,29,29,14,13,2,48.3,True
+city-of-cisco--eastland,City of Cisco,Eastland,32.387425,-98.98192,4815004,Cisco city,census_gazetteer,9.53,11,11,4,7,0,36.4,False
+city-of-clarendon--donley,City of Clarendon,Donley,34.936913,-100.892111,4815112,Clarendon city,census_gazetteer,4.5,13,13,3,8,2,23.1,False
+city-of-clarksville--red-river,City of Clarksville,Red River,33.610958,-95.056322,4815160,Clarksville city,census_gazetteer,0.75,16,16,8,7,1,50.0,True
+city-of-clarksville-city--gregg-upshur,City of Clarksville City,"Gregg, Upshur",32.534845,-94.893483,4815172,Clarksville City city,census_gazetteer,5.61,10,10,5,4,1,50.0,True
+city-of-claude--armstrong,City of Claude,Armstrong,35.107367,-101.362882,4815196,Claude city,census_gazetteer,9.9,8,8,2,4,2,25.0,True
+city-of-clear-lake-shores--galveston,City of Clear Lake Shores,Galveston,29.544297,-95.032537,4815328,Clear Lake Shores city,census_gazetteer,23.06,13,13,6,7,0,46.2,True
+city-of-cleburne--johnson,City of Cleburne,Johnson,32.354993,-97.411558,4815364,Cleburne city,census_gazetteer,3.21,40,40,14,21,5,35.0,False
+city-of-cleveland--liberty-montgomery,City of Cleveland,"Liberty, Montgomery",30.338215,-95.090283,4815436,Cleveland city,census_gazetteer,17.52,27,27,15,11,1,55.6,False
+city-of-clifton--bosque,City of Clifton,Bosque,31.782586,-97.584316,4815472,Clifton city,census_gazetteer,8.82,15,15,3,9,3,20.0,True
+town-of-clint--el-paso,Town of Clint,El Paso,31.590195,-106.228679,4815544,Clint town,census_gazetteer,11.91,11,11,4,7,0,36.4,True
+city-of-clute--brazoria,City of Clute,Brazoria,29.025851,-95.398229,4815652,Clute city,census_gazetteer,10.05,23,23,6,13,4,26.1,False
+city-of-clyde--callahan,City of Clyde,Callahan,32.405586,-99.503918,4815676,Clyde city,census_gazetteer,10.93,21,21,6,12,3,28.6,False
+city-of-coahoma--howard,City of Coahoma,Howard,32.294991,-101.308829,4815700,Coahoma town,census_gazetteer,7.61,9,9,3,5,1,33.3,False
+city-of-cockrell-hill--dallas,City of Cockrell Hill,Dallas,32.738177,-96.88858,4815796,Cockrell Hill city,census_gazetteer,6.7,13,13,7,5,1,53.8,False
+city-of-coffee-city--henderson,City of Coffee City,Henderson,32.128156,-95.472439,4815820,Coffee City town,census_gazetteer,23.03,10,9,3,5,1,33.3,False
+city-of-coldspring--san-jacinto,City of Coldspring,San Jacinto,30.5893,-95.131181,4815892,Coldspring city,census_gazetteer,2.16,7,7,4,2,1,57.1,False
+city-of-coleman--coleman,City of Coleman,Coleman,31.831378,-99.422201,4815916,Coleman city,census_gazetteer,7.24,18,18,5,10,3,27.8,False
+city-of-college-station--brazos,City of College Station,Brazos,30.58516,-96.29636,4815976,College Station city,census_gazetteer,4.96,54,54,24,26,4,44.4,False
+city-of-colleyville--tarrant,City of Colleyville,Tarrant,32.891478,-97.149747,4815988,Colleyville city,census_gazetteer,11.64,24,24,12,12,0,50.0,True
+city-of-collinsville--grayson,City of Collinsville,Grayson,33.559363,-96.907163,4816036,Collinsville town,census_gazetteer,14.06,15,15,5,9,1,33.3,False
+city-of-colmesneil--tyler,City of Colmesneil,Tyler,30.909656,-94.422059,4816048,Colmesneil city,census_gazetteer,10.08,9,9,2,7,0,22.2,False
+city-of-colorado-city--mitchell,City of Colorado City,Mitchell,32.399486,-100.858304,4816120,Colorado City city,census_gazetteer,7.64,14,13,6,6,1,46.2,False
+city-of-columbus--colorado,City of Columbus,Colorado,29.702778,-96.557057,4816168,Columbus city,census_gazetteer,7.92,19,19,7,11,1,36.8,True
+city-of-comanche--comanche,City of Comanche,Comanche,31.900484,-98.604364,4816192,Comanche city,census_gazetteer,4.78,11,11,3,6,2,27.3,True
+city-of-combes--cameron,City of Combes,Cameron,26.246514,-97.726766,4816204,Combes town,census_gazetteer,18.29,12,12,5,7,0,41.7,False
+city-of-combine--kaufman-dallas,City of Combine,"Kaufman, Dallas",32.590079,-96.51716,4816216,Combine city,census_gazetteer,13.43,10,10,1,6,3,10.0,False
+city-of-commerce--hunt,City of Commerce,Hunt,33.240992,-95.898869,4816240,Commerce city,census_gazetteer,13.45,14,14,6,5,3,42.9,True
+city-of-como--hopkins,City of Como,Hopkins,33.059668,-95.475226,4816252,Como town,census_gazetteer,8.08,5,5,1,4,0,20.0,False
+city-of-conroe--montgomery,City of Conroe,Montgomery,30.328717,-95.4846,4816432,Conroe city,census_gazetteer,2.34,43,43,15,24,4,34.9,False
+city-of-converse--bexar,City of Converse,Bexar,29.512488,-98.304625,4816468,Converse city,census_gazetteer,13.69,21,21,8,12,1,38.1,True
+city-of-cool--parker,City of Cool,Parker,32.798325,-98.012297,4816540,Cool city,census_gazetteer,12.08,6,6,4,2,0,66.7,True
+city-of-coolidge--limestone,City of Coolidge,Limestone,31.751448,-96.65222,4816552,Coolidge town,census_gazetteer,14.5,11,11,6,5,0,54.5,True
+city-of-cooper--delta,City of Cooper,Delta,33.371397,-95.69266,4816564,Cooper city,census_gazetteer,1.5,11,11,3,7,1,27.3,False
+city-of-coppell--dallas-denton,City of Coppell,"Dallas, Denton",32.963318,-96.990082,4816612,Coppell city,census_gazetteer,18.3,46,46,21,21,4,45.7,False
+town-of-copper-canyon--denton,Town of Copper Canyon,Denton,33.096676,-97.097127,4816636,Copper Canyon town,census_gazetteer,7.62,10,10,6,4,0,60.0,True
+city-of-copperas-cove--coryell-lampasas-bell,City of Copperas Cove,"Coryell, Lampasas, Bell",31.119436,-97.913909,4816624,Copperas Cove city,census_gazetteer,19.98,38,38,17,19,2,44.7,False
+city-of-corinth--denton,City of Corinth,Denton,33.143686,-97.068592,4816696,Corinth city,census_gazetteer,5.22,31,31,16,9,6,51.6,False
+city-of-corpus-christi--nueces-san-patricio-kleberg,City of Corpus Christi,"Nueces, San Patricio, Kleberg",27.754252,-97.173385,4817000,Corpus Christi city,census_gazetteer,20.99,120,120,72,40,8,60.0,True
+town-of-corral-city--denton,Town of Corral City,Denton,33.098389,-97.230501,4817021,Corral City town,census_gazetteer,9.72,10,7,1,5,1,14.3,True
+city-of-corrigan--polk,City of Corrigan,Polk,30.998809,-94.827486,4817036,Corrigan town,census_gazetteer,14.82,14,13,5,3,5,38.5,True
+city-of-corsicana--navarro,City of Corsicana,Navarro,32.082404,-96.4667,4817060,Corsicana city,census_gazetteer,2.76,29,29,11,14,4,37.9,False
+city-of-cottonwood--kaufman,City of Cottonwood,Kaufman,32.451381,-96.400415,4817200,Cottonwood city,census_gazetteer,13.03,5,5,4,1,0,80.0,True
+city-of-cottonwood-shores--burnet,City of Cottonwood Shores,Burnet,30.55501,-98.327564,4817208,Cottonwood Shores city,census_gazetteer,17.87,15,15,5,9,1,33.3,True
+city-of-cotulla--la-salle,City of Cotulla,La Salle,28.436376,-99.236711,4817216,Cotulla city,census_gazetteer,10.35,11,11,5,6,0,45.5,True
+city-of-coupland--williamson,City of Coupland,Williamson,30.457434,-97.392572,4817312,Coupland city,census_gazetteer,18.31,8,8,6,2,0,75.0,True
+city-of-cove--chambers,City of Cove,Chambers,29.813932,-94.812187,4817336,Cove city,census_gazetteer,11.8,9,9,1,8,0,11.1,False
+city-of-covington--hill,City of Covington,Hill,32.179115,-97.260853,4817372,Covington city,census_gazetteer,15.53,8,8,2,4,2,25.0,True
+city-of-coyote-flats--johnson,City of Coyote Flats,Johnson,32.355885,-97.292352,4817429,Coyote Flats city,census_gazetteer,4.54,4,4,1,3,0,25.0,False
+city-of-crandall--kaufman,City of Crandall,Kaufman,32.635215,-96.430247,4817504,Crandall city,census_gazetteer,8.39,16,16,5,10,1,31.2,False
+city-of-crane--crane,City of Crane,Crane,31.391782,-102.350269,4817516,Crane city,census_gazetteer,12.46,11,11,4,6,1,36.4,False
+city-of-cranfills-gap--bosque,City of Cranfills Gap,Bosque,31.774815,-97.832955,4817540,Cranfills Gap city,census_gazetteer,14.43,9,9,3,6,0,33.3,False
+city-of-crawford--mclennan,City of Crawford,McLennan,31.537859,-97.446763,4817564,Crawford town,census_gazetteer,14.5,13,13,3,9,1,23.1,True
+city-of-creedmoor--travis-hays,City of Creedmoor,"Travis, Hays",30.073833,-97.737282,4817612,Creedmoor city,census_gazetteer,11.78,10,9,4,3,2,44.4,False
+city-of-cresson--hood-parker-johnson,City of Cresson,"Hood, Parker, Johnson",32.529861,-97.615349,4817648,Cresson city,census_gazetteer,14.37,10,10,3,7,0,30.0,True
+city-of-crockett--houston,City of Crockett,Houston,31.317111,-95.456586,4817744,Crockett city,census_gazetteer,2.11,18,18,6,10,2,33.3,True
+city-of-crosbyton--crosby,City of Crosbyton,Crosby,33.641298,-101.23772,4817768,Crosbyton city,census_gazetteer,4.15,13,13,3,7,3,23.1,False
+city-of-cross-plains--callahan,City of Cross Plains,Callahan,32.127068,-99.165775,4817816,Cross Plains town,census_gazetteer,16.65,12,12,3,7,2,25.0,True
+town-of-cross-roads--denton,Town of Cross Roads,Denton,33.220449,-96.995808,4817852,Cross Roads town,census_gazetteer,7.32,13,13,2,9,2,15.4,False
+town-of-cross-timber--johnson,Town of Cross Timber,Johnson,32.482756,-97.326943,4817917,Cross Timber town,census_gazetteer,7.46,9,9,7,2,0,77.8,True
+city-of-crowell--foard,City of Crowell,Foard,33.983561,-99.724374,4817948,Crowell city,census_gazetteer,5.48,13,13,4,8,1,30.8,False
+city-of-crowley--tarrant-johnson,City of Crowley,"Tarrant, Johnson",32.576468,-97.359308,4817960,Crowley city,census_gazetteer,13.6,29,29,13,13,3,44.8,False
+city-of-crystal-city--zavala,City of Crystal City,Zavala,28.690681,-99.827103,4818020,Crystal City city,census_gazetteer,12.69,16,16,6,9,1,37.5,False
+city-of-cuero--dewitt,City of Cuero,DeWitt,29.102741,-97.287081,4818092,Cuero city,census_gazetteer,4.8,18,18,6,9,3,33.3,False
+city-of-cumby--hopkins,City of Cumby,Hopkins,33.13512,-95.838533,4818128,Cumby city,census_gazetteer,15.83,8,6,3,3,0,50.0,True
+city-of-cushing--nacogdoches,City of Cushing,Nacogdoches,31.811939,-94.841687,4818224,Cushing city,census_gazetteer,18.6,6,6,1,4,1,16.7,True
+city-of-cut-and-shoot--montgomery,City of Cut and Shoot,Montgomery,30.335516,-95.344951,4818260,Cut and Shoot city,census_gazetteer,9.76,9,9,2,5,2,22.2,True
+city-of-daingerfield--morris,City of Daingerfield,Morris,33.030488,-94.72588,4818464,Daingerfield city,census_gazetteer,5.95,13,13,5,6,2,38.5,False
+city-of-daisetta--liberty,City of Daisetta,Liberty,30.114693,-94.641633,4818476,Daisetta city,census_gazetteer,13.69,9,9,5,4,0,55.6,True
+city-of-dalhart--dallam-hartley,City of Dalhart,"Dallam, Hartley",36.057513,-102.51229,4818524,Dalhart city,census_gazetteer,15.98,18,18,5,12,1,27.8,False
+city-of-dallas--collin-dallas-denton,City of Dallas,"Collin, Dallas, Denton",32.793333,-96.766513,4819000,Dallas city,census_gazetteer,1.95,121,121,63,40,18,52.1,False
+city-of-dalworthington-gardens--tarrant,City of Dalworthington Gardens,Tarrant,32.68688,-97.156119,4819084,Dalworthington Gardens city,census_gazetteer,9.82,11,11,6,5,0,54.5,True
+city-of-danbury--brazoria,City of Danbury,Brazoria,29.227417,-95.34617,4819120,Danbury city,census_gazetteer,6.74,10,9,2,5,2,22.2,False
+town-of-darrouzett--lipscomb,Town of Darrouzett,Lipscomb,36.445296,-100.322912,4819288,Darrouzett town,census_gazetteer,11.74,9,9,3,6,0,33.3,False
+city-of-dawson--navarro,City of Dawson,Navarro,31.894596,-96.714699,4819420,Dawson town,census_gazetteer,17.34,10,10,0,9,1,0.0,False
+city-of-dayton--liberty,City of Dayton,Liberty,30.013177,-94.936004,4819432,Dayton city,census_gazetteer,12.88,22,22,8,9,5,36.4,True
+city-of-dayton-lakes--liberty,City of Dayton Lakes,Liberty,30.143605,-94.81582,4819435,Dayton Lakes city,census_gazetteer,3.77,7,5,2,2,1,40.0,False
+city-of-de-kalb--bowie,City of De Kalb,Bowie,33.507351,-94.616534,4819648,De Kalb city,census_gazetteer,11.96,12,12,4,4,4,33.3,False
+city-of-de-leon--comanche,City of De Leon,Comanche,32.11135,-98.535156,4819672,De Leon city,census_gazetteer,11.07,16,16,10,5,1,62.5,False
+city-of-dean--clay,City of Dean,Clay,33.91804,-98.39859,4819456,Dean city,census_gazetteer,14.03,7,5,0,5,0,0.0,False
+city-of-decatur--wise,City of Decatur,Wise,33.226466,-97.587208,4819528,Decatur city,census_gazetteer,4.43,26,26,11,14,1,42.3,True
+city-of-decordova--hood,City of DeCordova,Hood,32.429104,-97.693084,4819570,DeCordova city,census_gazetteer,8.08,7,7,3,4,0,42.9,False
+city-of-deer-park--harris,City of Deer Park,Harris,29.691659,-95.116531,4819624,Deer Park city,census_gazetteer,20.15,44,44,21,18,5,47.7,False
+city-of-del-rio--val-verde,City of Del Rio,Val Verde,29.373045,-100.881851,4819792,Del Rio city,census_gazetteer,38.09,31,31,12,15,4,38.7,False
+city-of-dell-city--hudspeth,City of Dell City,Hudspeth,31.934889,-105.199816,4819708,Dell City city,census_gazetteer,35.04,7,5,2,3,0,40.0,False
+city-of-denison--grayson,City of Denison,Grayson,33.766936,-96.580667,4819900,Denison city,census_gazetteer,11.26,34,34,16,17,1,47.1,False
+town-of-dennis--parker,Town of Dennis,Parker,32.607895,-97.937633,4819924,Dennis town,census_gazetteer,13.98,4,4,0,3,1,0.0,False
+city-of-denton--denton,City of Denton,Denton,33.217449,-97.141346,4819972,Denton city,census_gazetteer,1.45,93,93,41,41,11,44.1,False
+city-of-denver-city--yoakum,City of Denver City,Yoakum,32.967871,-102.832225,4819984,Denver City town,census_gazetteer,13.44,13,13,2,10,1,15.4,False
+city-of-deport--lamar-red-river,City of Deport,"Lamar, Red River",33.529148,-95.317422,4820020,Deport city,census_gazetteer,16.7,9,9,3,6,0,33.3,True
+city-of-desoto--dallas,City of DeSoto,Dallas,32.599349,-96.862941,4820092,DeSoto city,census_gazetteer,12.58,38,38,23,11,4,60.5,True
+city-of-detroit--red-river,City of Detroit,Red River,33.660217,-95.266425,4820128,Detroit town,census_gazetteer,12.85,7,7,4,3,0,57.1,True
+city-of-devers--liberty,City of Devers,Liberty,30.028699,-94.585972,4820140,Devers city,census_gazetteer,19.43,10,10,4,5,1,40.0,False
+city-of-devine--medina,City of Devine,Medina,29.145834,-98.904985,4820152,Devine city,census_gazetteer,18.99,14,14,3,9,2,21.4,False
+city-of-diboll--angelina,City of Diboll,Angelina,31.188735,-94.780741,4820308,Diboll city,census_gazetteer,10.93,15,15,2,12,1,13.3,False
+city-of-dickens--dickens,City of Dickens,Dickens,33.621273,-100.836804,4820332,Dickens city,census_gazetteer,2.86,10,10,5,5,0,50.0,True
+city-of-dickinson--galveston,City of Dickinson,Galveston,29.451717,-95.056238,4820344,Dickinson city,census_gazetteer,18.07,20,20,7,12,1,35.0,False
+city-of-dilley--frio,City of Dilley,Frio,28.667517,-99.176465,4820428,Dilley city,census_gazetteer,14.53,15,15,7,8,0,46.7,True
+city-of-dimmitt--castro,City of Dimmitt,Castro,34.544927,-102.306763,4820464,Dimmitt city,census_gazetteer,2.84,16,16,3,13,0,18.8,False
+city-of-dish--denton,City of DISH,Denton,33.128691,-97.307885,4820540,DISH town,census_gazetteer,12.02,4,4,1,3,0,25.0,False
+city-of-dodd-city--fannin,City of Dodd City,Fannin,33.575673,-96.075543,4820680,Dodd City town,census_gazetteer,2.0,9,9,4,3,2,44.4,False
+city-of-dodson--collingsworth,City of Dodson,Collingsworth,34.765375,-100.020419,4820716,Dodson town,census_gazetteer,19.83,9,7,1,6,0,14.3,False
+city-of-domino--cass,City of Domino,Cass,33.264004,-94.110991,4820848,Domino town,census_gazetteer,18.94,4,4,1,2,1,25.0,False
+city-of-donna--hidalgo,City of Donna,Hidalgo,26.163068,-98.034138,4820884,Donna city,census_gazetteer,18.57,23,23,8,14,1,34.8,False
+city-of-dorchester--grayson,City of Dorchester,Grayson,33.531277,-96.689098,4820932,Dorchester city,census_gazetteer,6.49,9,8,1,7,0,12.5,False
+city-of-double-horn--burnet,City of Double Horn,Burnet,30.498258,-98.218497,4821031,Double Horn city,census_gazetteer,20.16,7,7,3,3,1,42.9,True
+town-of-double-oak--denton,Town of Double Oak,Denton,33.06249,-97.107358,4821028,Double Oak town,census_gazetteer,9.89,12,9,3,4,2,33.3,False
+city-of-douglassville--cass,City of Douglassville,Cass,33.191645,-94.35194,4821112,Douglassville town,census_gazetteer,7.47,8,8,4,4,0,50.0,True
+city-of-dripping-springs--hays,City of Dripping Springs,Hays,30.195936,-98.093701,4821424,Dripping Springs city,census_gazetteer,10.07,20,20,9,7,4,45.0,True
+city-of-driscoll--nueces,City of Driscoll,Nueces,27.67302,-97.751039,4821436,Driscoll city,census_gazetteer,15.09,8,8,4,4,0,50.0,False
+city-of-dublin--erath,City of Dublin,Erath,32.087765,-98.338865,4821484,Dublin city,census_gazetteer,12.45,14,14,5,7,2,35.7,False
+city-of-dumas--moore,City of Dumas,Moore,35.86202,-101.964972,4821556,Dumas city,census_gazetteer,4.55,24,24,8,13,3,33.3,False
+city-of-duncanville--dallas,City of Duncanville,Dallas,32.64595,-96.91387,4821628,Duncanville city,census_gazetteer,11.49,28,28,11,15,2,39.3,False
+city-of-eagle-lake--colorado,City of Eagle Lake,Colorado,29.587326,-96.328579,4821844,Eagle Lake city,census_gazetteer,10.84,16,16,5,10,1,31.2,True
+city-of-eagle-pass--maverick,City of Eagle Pass,Maverick,28.701071,-100.476229,4821892,Eagle Pass city,census_gazetteer,9.87,44,44,20,20,4,45.5,False
+city-of-early--brown,City of Early,Brown,31.742153,-98.936602,4821904,Early city,census_gazetteer,3.94,19,19,7,11,1,36.8,False
+city-of-earth--lamb,City of Earth,Lamb,34.2338,-102.409176,4821928,Earth city,census_gazetteer,11.92,5,5,1,3,1,20.0,False
+city-of-east-bernard--wharton,City of East Bernard,Wharton,29.524377,-96.062974,4821988,East Bernard city,census_gazetteer,19.73,8,8,2,6,0,25.0,False
+city-of-east-mountain--upshur-gregg,City of East Mountain,"Upshur, Gregg",32.585825,-94.85798,4822168,East Mountain city,census_gazetteer,7.29,10,10,2,7,1,20.0,False
+city-of-east-tawakoni--rains,City of East Tawakoni,Rains,32.907624,-95.933131,4822276,East Tawakoni city,census_gazetteer,8.38,8,8,2,6,0,25.0,True
+city-of-eastland--eastland,City of Eastland,Eastland,32.402156,-98.817671,4822132,Eastland city,census_gazetteer,5.47,16,15,3,10,2,20.0,True
+city-of-easton--gregg-rusk,City of Easton,"Gregg, Rusk",32.381929,-94.591243,4822192,Easton city,census_gazetteer,14.98,10,9,3,6,0,33.3,False
+city-of-ector--fannin,City of Ector,Fannin,33.579284,-96.273115,4822516,Ector city,census_gazetteer,9.71,10,10,2,7,1,20.0,False
+city-of-edcouch--hidalgo,City of Edcouch,Hidalgo,26.293723,-97.963091,4822528,Edcouch city,census_gazetteer,15.11,15,15,3,12,0,20.0,False
+city-of-eden--concho,City of Eden,Concho,31.216246,-99.843965,4822552,Eden city,census_gazetteer,7.19,9,9,5,4,0,55.6,True
+town-of-edgecliff-village--tarrant,Town of Edgecliff Village,Tarrant,32.656088,-97.340612,4822588,Edgecliff Village town,census_gazetteer,8.52,12,12,4,7,1,33.3,True
+city-of-edgewood--van-zandt,City of Edgewood,Van Zandt,32.69076,-95.882221,4822612,Edgewood town,census_gazetteer,9.49,11,11,4,5,2,36.4,True
+city-of-edinburg--hidalgo,City of Edinburg,Hidalgo,26.318374,-98.15348,4822660,Edinburg city,census_gazetteer,5.78,53,53,17,33,3,32.1,False
+city-of-edmonson--hale,City of Edmonson,Hale,34.279108,-101.896665,4822708,Edmonson town,census_gazetteer,15.15,8,8,1,6,1,12.5,False
+city-of-edna--jackson,City of Edna,Jackson,28.975125,-96.648464,4822720,Edna city,census_gazetteer,3.74,17,17,5,10,2,29.4,False
+city-of-edom--van-zandt,City of Edom,Van Zandt,32.378624,-95.606649,4822744,Edom city,census_gazetteer,18.31,7,6,3,3,0,50.0,True
+city-of-el-campo--wharton,City of El Campo,Wharton,29.200693,-96.272343,4822864,El Campo city,census_gazetteer,5.96,23,23,7,12,4,30.4,False
+city-of-el-cenizo--webb,City of El Cenizo,Webb,27.331677,-99.501281,4822905,El Cenizo city,census_gazetteer,30.41,6,6,4,0,2,66.7,True
+city-of-el-lago--harris,City of El Lago,Harris,29.571455,-95.045248,4823164,El Lago city,census_gazetteer,28.73,9,9,1,7,1,11.1,False
+city-of-el-paso--el-paso,City of El Paso,El Paso,31.84778,-106.431106,4824000,El Paso city,census_gazetteer,12.61,76,76,33,39,4,43.4,False
+city-of-eldorado--schleicher,City of Eldorado,Schleicher,30.861728,-100.597926,4822960,Eldorado city,census_gazetteer,4.82,10,10,2,7,1,20.0,False
+city-of-electra--wichita,City of Electra,Wichita,34.032294,-98.920245,4822984,Electra city,census_gazetteer,12.53,13,12,2,8,2,16.7,False
+city-of-elgin--bastrop,City of Elgin,Bastrop,30.354174,-97.392149,4823044,Elgin city,census_gazetteer,18.17,27,27,16,8,3,59.3,True
+city-of-elkhart--anderson,City of Elkhart,Anderson,31.631186,-95.580459,4823140,Elkhart town,census_gazetteer,15.28,10,10,5,5,0,50.0,True
+city-of-ellinger--fayette,City of Ellinger,Fayette,29.837473,-96.705022,4823176,Ellinger city,census_gazetteer,12.77,4,4,0,3,1,0.0,False
+city-of-elmendorf--bexar-wilson,City of Elmendorf,"Bexar, Wilson",29.252612,-98.313954,4823272,Elmendorf city,census_gazetteer,14.74,13,13,3,8,2,23.1,False
+city-of-elsa--hidalgo,City of Elsa,Hidalgo,26.297125,-97.993907,4824036,Elsa city,census_gazetteer,13.35,18,18,8,10,0,44.4,False
+town-of-emhouse--navarro,Town of Emhouse,Navarro,32.161303,-96.577011,4824168,Emhouse town,census_gazetteer,10.05,6,6,1,4,1,16.7,False
+city-of-emory--rains,City of Emory,Rains,32.876929,-95.765618,4824216,Emory city,census_gazetteer,1.8,12,12,6,3,3,50.0,False
+town-of-enchanted-oaks--henderson,Town of Enchanted Oaks,Henderson,32.2666,-96.108989,4824228,Enchanted Oaks town,census_gazetteer,15.4,8,8,4,3,1,50.0,True
+city-of-encinal--la-salle,City of Encinal,La Salle,28.040475,-99.354489,4824240,Encinal city,census_gazetteer,26.59,7,7,5,2,0,71.4,True
+city-of-ennis--ellis,City of Ennis,Ellis,32.325067,-96.633799,4824348,Ennis city,census_gazetteer,9.64,31,31,14,15,2,45.2,True
+city-of-escobares--starr,City of Escobares,Starr,26.412634,-98.960029,4824552,Escobares city,census_gazetteer,15.86,11,11,2,8,1,18.2,True
+city-of-estelline--hall,City of Estelline,Hall,34.546994,-100.439938,4824636,Estelline town,census_gazetteer,10.12,9,9,4,4,1,44.4,False
+city-of-euless--tarrant,City of Euless,Tarrant,32.849366,-97.078592,4824768,Euless city,census_gazetteer,13.45,32,32,11,17,4,34.4,False
+city-of-eureka--navarro,City of Eureka,Navarro,32.009472,-96.283107,4824816,Eureka city,census_gazetteer,11.56,7,7,4,2,1,57.1,True
+city-of-eustace--henderson,City of Eustace,Henderson,32.307542,-96.013801,4824828,Eustace city,census_gazetteer,11.44,13,12,3,6,3,25.0,False
+city-of-evant--coryell-hamilton,City of Evant,"Coryell, Hamilton",31.476779,-98.150374,4824864,Evant town,census_gazetteer,16.09,9,8,2,6,0,25.0,False
+city-of-everman--tarrant,City of Everman,Tarrant,32.628827,-97.284246,4824912,Everman city,census_gazetteer,9.91,18,18,11,6,1,61.1,True
+city-of-fair-oaks-ranch--bexar-comal-kendall,City of Fair Oaks Ranch,"Bexar, Comal, Kendall",29.7435,-98.639193,4825168,Fair Oaks Ranch city,census_gazetteer,14.44,26,26,9,15,2,34.6,False
+village-of-fairchilds--fort-bend,Village of Fairchilds,Fort Bend,29.43655,-95.776986,4825068,Fairchilds village,census_gazetteer,6.23,7,7,2,4,1,28.6,False
+city-of-fairfield--freestone,City of Fairfield,Freestone,31.71744,-96.170483,4825104,Fairfield city,census_gazetteer,1.85,12,12,2,10,0,16.7,True
+town-of-fairview--collin,Town of Fairview,Collin,33.13656,-96.616723,4825224,Fairview town,census_gazetteer,4.55,19,19,8,9,2,42.1,False
+city-of-falfurrias--brooks,City of Falfurrias,Brooks,27.22441,-98.145191,4825368,Falfurrias city,census_gazetteer,13.78,11,11,4,6,1,36.4,False
+city-of-falls-city--karnes,City of Falls City,Karnes,28.981666,-98.021565,4825392,Falls City city,census_gazetteer,11.39,10,10,2,8,0,20.0,False
+city-of-farmers-branch--dallas,City of Farmers Branch,Dallas,32.927789,-96.878539,4825452,Farmers Branch city,census_gazetteer,12.54,33,33,12,14,7,36.4,False
+city-of-farmersville--collin,City of Farmersville,Collin,33.160912,-96.360657,4825488,Farmersville city,census_gazetteer,12.86,17,17,8,8,1,47.1,False
+city-of-farwell--parmer,City of Farwell,Parmer,34.385631,-103.03734,4825548,Farwell city,census_gazetteer,17.59,14,14,5,8,1,35.7,False
+city-of-fate--rockwall,City of Fate,Rockwall,32.943281,-96.386775,4825572,Fate city,census_gazetteer,3.35,23,23,12,11,0,52.2,False
+city-of-fayetteville--fayette,City of Fayetteville,Fayette,29.906326,-96.675873,4825644,Fayetteville city,census_gazetteer,14.16,10,10,2,6,2,20.0,False
+city-of-ferris--ellis-dallas,City of Ferris,"Ellis, Dallas",32.536723,-96.675537,4825752,Ferris city,census_gazetteer,14.91,19,19,3,15,1,15.8,False
+city-of-flatonia--fayette,City of Flatonia,Fayette,29.68971,-97.105205,4826028,Flatonia town,census_gazetteer,17.82,10,10,3,6,1,30.0,False
+city-of-florence--williamson,City of Florence,Williamson,30.841285,-97.791846,4826136,Florence city,census_gazetteer,17.3,13,13,6,6,1,46.2,True
+city-of-floresville--wilson,City of Floresville,Wilson,29.146743,-98.165173,4826160,Floresville city,census_gazetteer,5.09,24,24,13,11,0,54.2,True
+town-of-flower-mound--denton-tarrant,Town of Flower Mound,"Denton, Tarrant",33.037418,-97.113477,4826232,Flower Mound town,census_gazetteer,11.6,46,46,24,17,5,52.2,True
+city-of-floydada--floyd,City of Floydada,Floyd,33.983513,-101.336802,4826268,Floydada city,census_gazetteer,6.52,11,11,2,7,2,18.2,False
+city-of-follett--lipscomb,City of Follett,Lipscomb,36.433973,-100.140767,4826328,Follett city,census_gazetteer,12.91,9,9,0,8,1,0.0,False
+city-of-forest-hill--tarrant,City of Forest Hill,Tarrant,32.661936,-97.266235,4826544,Forest Hill city,census_gazetteer,7.75,19,19,8,10,1,42.1,True
+city-of-forney--kaufman,City of Forney,Kaufman,32.742601,-96.452883,4826604,Forney city,census_gazetteer,13.04,32,32,11,17,4,34.4,True
+city-of-forsan--howard,City of Forsan,Howard,32.110373,-101.366814,4826640,Forsan city,census_gazetteer,13.99,7,7,3,4,0,42.9,False
+city-of-fort-stockton--pecos,City of Fort Stockton,Pecos,30.892574,-102.88421,4826808,Fort Stockton city,census_gazetteer,12.84,20,20,6,14,0,30.0,False
+city-of-fort-worth--tarrant-denton-johnson-parker-wise,City of Fort Worth,"Tarrant, Denton, Johnson, Parker, Wise",32.781954,-97.348573,4827000,Fort Worth city,census_gazetteer,3.4,185,185,101,63,21,54.6,True
+city-of-franklin--robertson,City of Franklin,Robertson,31.025014,-96.487494,4827288,Franklin city,census_gazetteer,1.63,12,12,4,7,1,33.3,True
+city-of-frankston--anderson-henderson,City of Frankston,"Anderson, Henderson",32.057293,-95.504501,4827300,Frankston town,census_gazetteer,17.54,13,13,3,9,1,23.1,False
+city-of-fredericksburg--gillespie,City of Fredericksburg,Gillespie,30.26568,-98.875676,4827348,Fredericksburg city,census_gazetteer,5.69,26,26,9,14,3,34.6,False
+city-of-freeport--brazoria,City of Freeport,Brazoria,28.943296,-95.35607,4827420,Freeport city,census_gazetteer,16.22,22,22,10,10,2,45.5,False
+city-of-freer--duval,City of Freer,Duval,27.882178,-98.617385,4827432,Freer city,census_gazetteer,15.71,12,11,4,7,0,36.4,False
+city-of-friendswood--galveston-harris,City of Friendswood,"Galveston, Harris",29.507701,-95.200635,4827648,Friendswood city,census_gazetteer,26.63,42,42,21,16,5,50.0,False
+city-of-friona--parmer,City of Friona,Parmer,34.639435,-102.723119,4827660,Friona city,census_gazetteer,8.2,17,17,6,11,0,35.3,False
+city-of-frisco--collin-denton,City of Frisco,"Collin, Denton",33.155424,-96.822593,4827684,Frisco city,census_gazetteer,14.32,86,86,37,38,11,43.0,True
+city-of-fritch--hutchinson-moore,City of Fritch,"Hutchinson, Moore",35.643066,-101.596432,4827696,Fritch city,census_gazetteer,18.75,16,16,6,9,1,37.5,False
+city-of-frost--navarro,City of Frost,Navarro,32.079251,-96.808597,4827768,Frost city,census_gazetteer,19.61,7,7,4,1,2,57.1,True
+city-of-fruitvale--van-zandt,City of Fruitvale,Van Zandt,32.6842,-95.803734,4827804,Fruitvale city,census_gazetteer,8.88,7,7,5,1,1,71.4,True
+city-of-fulshear--fort-bend,City of Fulshear,Fort Bend,29.696442,-95.885841,4827876,Fulshear city,census_gazetteer,13.61,39,39,15,18,6,38.5,True
+town-of-fulton--aransas,Town of Fulton,Aransas,28.072862,-97.038911,4827888,Fulton town,census_gazetteer,5.55,11,11,6,4,1,54.5,True
+city-of-gainesville--cooke,City of Gainesville,Cooke,33.638647,-97.148413,4827984,Gainesville city,census_gazetteer,3.56,23,23,9,9,5,39.1,False
+city-of-galena-park--harris,City of Galena Park,Harris,29.745165,-95.234576,4827996,Galena Park city,census_gazetteer,12.26,15,15,4,9,2,26.7,False
+city-of-gallatin--cherokee,City of Gallatin,Cherokee,31.896854,-95.152062,4828008,Gallatin city,census_gazetteer,3.67,7,6,5,1,0,83.3,True
+city-of-galveston--galveston,City of Galveston,Galveston,29.186328,-94.965758,4828068,Galveston city,census_gazetteer,5.79,39,39,19,19,1,48.7,False
+city-of-ganado--jackson,City of Ganado,Jackson,29.041704,-96.511029,4828080,Ganado city,census_gazetteer,7.37,12,11,4,7,0,36.4,False
+city-of-garden-ridge--comal,City of Garden Ridge,Comal,29.636465,-98.292472,4828248,Garden Ridge city,census_gazetteer,12.33,15,15,5,7,3,33.3,True
+city-of-garland--dallas-collin-rockwall,City of Garland,"Dallas, Collin, Rockwall",32.909826,-96.630334,4829000,Garland city,census_gazetteer,12.71,87,87,43,40,4,49.4,False
+city-of-garrett--ellis,City of Garrett,Ellis,32.374072,-96.652513,4829036,Garrett town,census_gazetteer,8.64,13,13,5,7,1,38.5,False
+city-of-garrison--nacogdoches,City of Garrison,Nacogdoches,31.826034,-94.493774,4829060,Garrison city,census_gazetteer,16.18,8,8,2,6,0,25.0,False
+city-of-gary--panola,City of Gary,Panola,32.02784,-94.367542,4829108,Gary City town,census_gazetteer_alias,10.09,10,10,5,4,1,50.0,False
+city-of-gatesville--coryell,City of Gatesville,Coryell,31.438667,-97.746027,4829168,Gatesville city,census_gazetteer,4.49,21,21,6,14,1,28.6,False
+city-of-george-west--live-oak,City of George West,Live Oak,28.33,-98.118304,4829348,George West city,census_gazetteer,1.57,15,15,5,9,1,33.3,False
+city-of-georgetown--williamson,City of Georgetown,Williamson,30.668155,-97.698775,4829336,Georgetown city,census_gazetteer,5.72,95,95,35,51,9,36.8,False
+city-of-gholson--mclennan,City of Gholson,McLennan,31.705571,-97.238008,4829408,Gholson city,census_gazetteer,10.89,9,9,3,5,1,33.3,False
+city-of-giddings--lee,City of Giddings,Lee,30.183667,-96.928029,4829432,Giddings city,census_gazetteer,9.95,15,15,4,10,1,26.7,True
+city-of-gilmer--upshur,City of Gilmer,Upshur,32.732275,-94.945776,4829564,Gilmer city,census_gazetteer,0.34,17,17,6,10,1,35.3,False
+city-of-gladewater--gregg-upshur,City of Gladewater,"Gregg, Upshur",32.542547,-94.947137,4829660,Gladewater city,census_gazetteer,8.56,15,15,3,12,0,20.0,True
+city-of-glen-rose--somervell,City of Glen Rose,Somervell,32.246824,-97.748052,4829876,Glen Rose city,census_gazetteer,2.36,13,13,4,7,2,30.8,False
+city-of-glenn-heights--dallas-ellis,City of Glenn Heights,"Dallas, Ellis",32.5513,-96.854388,4829840,Glenn Heights city,census_gazetteer,14.51,22,22,6,14,2,27.3,True
+city-of-godley--johnson,City of Godley,Johnson,32.462178,-97.533084,4829972,Godley city,census_gazetteer,11.35,12,12,3,8,1,25.0,False
+city-of-goldsmith--ector,City of Goldsmith,Ector,31.983325,-102.616381,4830044,Goldsmith city,census_gazetteer,9.23,8,8,1,6,1,12.5,False
+city-of-goldthwaite--mills,City of Goldthwaite,Mills,31.450806,-98.57352,4830056,Goldthwaite city,census_gazetteer,4.05,9,9,1,5,3,11.1,True
+city-of-goliad--goliad,City of Goliad,Goliad,28.671131,-97.392595,4830080,Goliad city,census_gazetteer,2.4,14,14,7,6,1,50.0,True
+city-of-golinda--falls-mclennan,City of Golinda,"Falls, McLennan",31.367886,-97.071091,4830092,Golinda city,census_gazetteer,11.38,11,11,5,6,0,45.5,True
+city-of-gonzales--gonzales,City of Gonzales,Gonzales,29.512549,-97.447205,4830116,Gonzales city,census_gazetteer,4.29,25,25,11,13,1,44.0,False
+city-of-goodlow--navarro,City of Goodlow,Navarro,32.109364,-96.219645,4830188,Goodlow city,census_gazetteer,15.71,8,8,2,4,2,25.0,False
+city-of-goodrich--polk,City of Goodrich,Polk,30.609276,-94.946624,4830224,Goodrich city,census_gazetteer,13.74,8,8,4,3,1,50.0,False
+city-of-gordon--palo-pinto,City of Gordon,Palo Pinto,32.545546,-98.367183,4830272,Gordon city,census_gazetteer,14.57,6,6,3,3,0,50.0,True
+city-of-goree--knox,City of Goree,Knox,33.467965,-99.523621,4830296,Goree city,census_gazetteer,15.51,5,5,3,2,0,60.0,True
+city-of-gorman--eastland,City of Gorman,Eastland,32.213538,-98.672077,4830308,Gorman city,census_gazetteer,12.3,11,11,4,6,1,36.4,False
+city-of-graford--palo-pinto,City of Graford,Palo Pinto,32.937415,-98.247505,4830380,Graford city,census_gazetteer,13.43,9,9,3,3,3,33.3,False
+city-of-graham--young,City of Graham,Young,33.100881,-98.577806,4830392,Graham city,census_gazetteer,7.06,16,16,6,10,0,37.5,False
+city-of-granbury--hood,City of Granbury,Hood,32.448383,-97.77009,4830416,Granbury city,census_gazetteer,3.81,43,43,18,18,7,41.9,False
+city-of-grand-prairie--dallas-tarrant-ellis-johnson,City of Grand Prairie,"Dallas, Tarrant, Ellis, Johnson",32.672226,-97.027343,4830464,Grand Prairie city,census_gazetteer,15.88,96,96,47,40,9,49.0,False
+city-of-grand-saline--van-zandt,City of Grand Saline,Van Zandt,32.678138,-95.711613,4830476,Grand Saline city,census_gazetteer,11.01,11,10,3,6,1,30.0,True
+city-of-grandfalls--ward,City of Grandfalls,Ward,31.340494,-102.854463,4830440,Grandfalls town,census_gazetteer,18.21,9,9,5,3,1,55.6,False
+city-of-grandview--johnson,City of Grandview,Johnson,32.268383,-97.178948,4830512,Grandview city,census_gazetteer,13.3,14,14,5,7,2,35.7,True
+city-of-granger--williamson,City of Granger,Williamson,30.718095,-97.441167,4830548,Granger city,census_gazetteer,10.84,12,12,5,7,0,41.7,False
+city-of-granite-shoals--burnet,City of Granite Shoals,Burnet,30.588757,-98.367316,4830584,Granite Shoals city,census_gazetteer,17.03,14,14,5,9,0,35.7,False
+city-of-granjeno--hidalgo,City of Granjeno,Hidalgo,26.137061,-98.303355,4830608,Granjeno city,census_gazetteer,19.75,5,4,3,1,0,75.0,True
+city-of-grapeland--houston,City of Grapeland,Houston,31.493976,-95.47753,4830632,Grapeland city,census_gazetteer,12.26,12,12,3,6,3,25.0,True
+city-of-grapevine--tarrant-dallas-denton,City of Grapevine,"Tarrant, Dallas, Denton",32.934969,-97.075912,4830644,Grapevine city,census_gazetteer,16.82,48,48,25,19,4,52.1,False
+city-of-grays-prairie--kaufman,City of Grays Prairie,Kaufman,32.47342,-96.350229,4830752,Grays Prairie village,census_gazetteer,10.4,7,7,5,1,1,71.4,False
+city-of-greenville--hunt,City of Greenville,Hunt,33.111939,-96.110256,4830920,Greenville city,census_gazetteer,1.7,33,33,10,17,6,30.3,False
+city-of-gregory--san-patricio,City of Gregory,San Patricio,27.923239,-97.290924,4831064,Gregory city,census_gazetteer,15.1,11,10,4,6,0,40.0,False
+city-of-grey-forest--bexar,City of Grey Forest,Bexar,29.615672,-98.68325,4831100,Grey Forest city,census_gazetteer,15.14,13,13,4,8,1,30.8,True
+city-of-groesbeck--limestone,City of Groesbeck,Limestone,31.525623,-96.528061,4831280,Groesbeck city,census_gazetteer,4.15,15,15,7,5,3,46.7,False
+city-of-groom--carson,City of Groom,Carson,35.207651,-101.105533,4831292,Groom town,census_gazetteer,19.63,8,8,1,7,0,12.5,False
+city-of-groves--jefferson,City of Groves,Jefferson,29.945971,-93.916656,4831328,Groves city,census_gazetteer,15.32,18,18,5,12,1,27.8,False
+city-of-groveton--trinity,City of Groveton,Trinity,31.057019,-95.12637,4831340,Groveton city,census_gazetteer,3.12,11,11,3,7,1,27.3,True
+city-of-gruver--hansford,City of Gruver,Hansford,36.260494,-101.407122,4831412,Gruver city,census_gazetteer,2.92,11,11,3,5,3,27.3,False
+city-of-gun-barrel-city--henderson,City of Gun Barrel City,Henderson,32.328248,-96.131762,4831592,Gun Barrel City city,census_gazetteer,18.12,16,16,7,6,3,43.8,False
+city-of-gunter--grayson,City of Gunter,Grayson,33.416309,-96.820799,4831616,Gunter city,census_gazetteer,16.64,15,15,2,11,2,13.3,True
+city-of-gustine--comanche,City of Gustine,Comanche,31.845689,-98.402529,4831628,Gustine town,census_gazetteer,11.32,7,7,4,3,0,57.1,False
+city-of-hackberry--denton,City of Hackberry,Denton,33.150018,-96.918426,4831715,Hackberry town,census_gazetteer,12.33,8,8,5,3,0,62.5,False
+city-of-hale-center--hale,City of Hale Center,Hale,34.066107,-101.84626,4831820,Hale Center city,census_gazetteer,1.35,14,14,3,9,2,21.4,False
+city-of-hallettsville--lavaca,City of Hallettsville,Lavaca,29.443104,-96.943535,4831868,Hallettsville city,census_gazetteer,4.35,15,15,9,6,0,60.0,True
+city-of-hallsburg--mclennan,City of Hallsburg,McLennan,31.536296,-96.945694,4831880,Hallsburg city,census_gazetteer,15.07,9,9,2,7,0,22.2,False
+city-of-hallsville--harrison,City of Hallsville,Harrison,32.499232,-94.567774,4831904,Hallsville city,census_gazetteer,11.76,13,13,5,7,1,38.5,False
+city-of-haltom-city--tarrant,City of Haltom City,Tarrant,32.817698,-97.271152,4831928,Haltom City city,census_gazetteer,3.36,33,33,11,16,6,33.3,False
+city-of-hamilton--hamilton,City of Hamilton,Hamilton,31.700387,-98.119669,4831952,Hamilton city,census_gazetteer,0.67,11,11,5,6,0,45.5,False
+city-of-hamlin--jones-fisher,City of Hamlin,"Jones, Fisher",32.889987,-100.1325,4831964,Hamlin city,census_gazetteer,17.91,11,11,3,7,1,27.3,False
+city-of-happy--swisher-randall,City of Happy,"Swisher, Randall",34.741581,-101.857144,4832156,Happy town,census_gazetteer,15.42,7,7,1,5,1,14.3,True
+city-of-hardin--liberty,City of Hardin,Liberty,30.149233,-94.737749,4832240,Hardin city,census_gazetteer,7.47,8,8,1,7,0,12.5,False
+city-of-harker-heights--bell,City of Harker Heights,Bell,31.056708,-97.644221,4832312,Harker Heights city,census_gazetteer,9.84,37,37,22,14,1,59.5,False
+city-of-harlingen--cameron,City of Harlingen,Cameron,26.192237,-97.696157,4832372,Harlingen city,census_gazetteer,14.82,43,43,16,25,2,37.2,True
+city-of-hart--castro,City of Hart,Castro,34.385754,-102.114988,4832576,Hart city,census_gazetteer,13.1,8,8,3,5,0,37.5,True
+city-of-haskell--haskell,City of Haskell,Haskell,33.159775,-99.732032,4832696,Haskell city,census_gazetteer,1.12,14,14,4,8,2,28.6,True
+city-of-haslet--tarrant-denton,City of Haslet,"Tarrant, Denton",32.965915,-97.340181,4832720,Haslet city,census_gazetteer,13.69,16,16,5,9,2,31.2,True
+city-of-hawk-cove--hunt,City of Hawk Cove,Hunt,32.883973,-96.083273,4832810,Hawk Cove city,census_gazetteer,16.54,10,10,7,3,0,70.0,False
+city-of-hawkins--wood,City of Hawkins,Wood,32.591384,-95.203306,4832816,Hawkins city,census_gazetteer,16.87,11,11,6,5,0,54.5,True
+city-of-hawley--jones,City of Hawley,Jones,32.606696,-99.810163,4832840,Hawley city,census_gazetteer,10.27,7,7,1,6,0,14.3,False
+city-of-hays--hays,City of Hays,Hays,30.121506,-97.872411,4832906,Hays city,census_gazetteer,10.26,10,10,6,4,0,60.0,True
+city-of-hearne--robertson,City of Hearne,Robertson,30.877062,-96.595217,4832972,Hearne city,census_gazetteer,11.3,14,14,6,7,1,42.9,False
+city-of-heath--rockwall-kaufman,City of Heath,"Rockwall, Kaufman",32.853549,-96.46362,4832984,Heath city,census_gazetteer,4.38,22,22,8,13,1,36.4,False
+city-of-hebron--denton,City of Hebron,Denton,33.046186,-96.887136,4833020,Hebron town,census_gazetteer,17.43,5,5,2,2,1,40.0,False
+city-of-hedley--donley,City of Hedley,Donley,34.867382,-100.659044,4833044,Hedley city,census_gazetteer,10.75,6,6,2,4,0,33.3,False
+city-of-hedwig-village--harris,City of Hedwig Village,Harris,29.779867,-95.519203,4833068,Hedwig Village city,census_gazetteer,9.26,16,16,4,11,1,25.0,False
+city-of-helotes--bexar,City of Helotes,Bexar,29.57797,-98.68054,4833146,Helotes city,census_gazetteer,13.15,18,18,6,11,1,33.3,False
+city-of-hemphill--sabine,City of Hemphill,Sabine,31.3433,-93.851913,4833188,Hemphill city,census_gazetteer,0.0,11,11,4,7,0,36.4,False
+city-of-hempstead--waller,City of Hempstead,Waller,30.10146,-96.07649,4833200,Hempstead city,census_gazetteer,8.29,16,16,7,7,2,43.8,True
+city-of-henderson--rusk,City of Henderson,Rusk,32.159888,-94.79732,4833212,Henderson city,census_gazetteer,4.23,19,19,6,12,1,31.6,True
+city-of-henrietta--clay,City of Henrietta,Clay,33.814307,-98.192773,4833284,Henrietta city,census_gazetteer,2.28,12,12,3,9,0,25.0,False
+city-of-hereford--deaf-smith,City of Hereford,Deaf Smith,34.822603,-102.400163,4833320,Hereford city,census_gazetteer,14.31,18,18,6,11,1,33.3,True
+city-of-hewitt--mclennan,City of Hewitt,McLennan,31.451248,-97.193315,4833428,Hewitt city,census_gazetteer,6.92,30,30,8,21,1,26.7,False
+town-of-hickory-creek--denton,Town of Hickory Creek,Denton,33.110438,-97.034731,4833476,Hickory Creek town,census_gazetteer,8.23,10,10,1,6,3,10.0,False
+city-of-hico--hamilton,City of Hico,Hamilton,31.98511,-98.028405,4833548,Hico city,census_gazetteer,19.81,13,13,3,8,2,23.1,False
+city-of-hidalgo--hidalgo,City of Hidalgo,Hidalgo,26.108943,-98.24616,4833560,Hidalgo city,census_gazetteer,20.53,21,21,5,16,0,23.8,True
+city-of-hideaway--smith,City of Hideaway,Smith,32.494654,-95.45651,4833578,Hideaway city,census_gazetteer,13.76,8,7,3,4,0,42.9,False
+city-of-higgins--lipscomb,City of Higgins,Lipscomb,36.120996,-100.027431,4833608,Higgins city,census_gazetteer,17.55,11,11,4,4,3,36.4,False
+city-of-highland-haven--burnet,City of Highland Haven,Burnet,30.607149,-98.39522,4833794,Highland Haven city,census_gazetteer,17.08,10,10,3,5,2,30.0,False
+town-of-highland-park--dallas,Town of Highland Park,Dallas,32.831056,-96.801235,4833824,Highland Park town,census_gazetteer,4.62,20,20,8,10,2,40.0,False
+city-of-highland-village--denton,City of Highland Village,Denton,33.090374,-97.062495,4833848,Highland Village city,census_gazetteer,8.62,32,32,12,17,3,37.5,True
+city-of-hill-country-village--bexar,City of Hill Country Village,Bexar,29.581999,-98.485663,4833968,Hill Country Village city,census_gazetteer,9.44,10,10,2,8,0,20.0,False
+city-of-hillcrest-village--brazoria,City of Hillcrest Village,Brazoria,29.392079,-95.2226,4834018,Hillcrest Village city,census_gazetteer,20.08,10,10,2,7,1,20.0,False
+city-of-hillsboro--hill,City of Hillsboro,Hill,32.007831,-97.115652,4834088,Hillsboro city,census_gazetteer,1.91,21,19,9,9,1,47.4,False
+city-of-hilshire-village--harris,City of Hilshire Village,Harris,29.790851,-95.488501,4834148,Hilshire Village city,census_gazetteer,7.34,7,7,2,5,0,28.6,False
+city-of-hitchcock--galveston,City of Hitchcock,Galveston,29.28262,-95.007631,4834220,Hitchcock city,census_gazetteer,7.93,18,18,6,9,3,33.3,False
+town-of-holiday-lakes--brazoria,Town of Holiday Lakes,Brazoria,29.207176,-95.515335,4834502,Holiday Lakes town,census_gazetteer,5.58,12,12,8,2,2,66.7,True
+city-of-holland--bell,City of Holland,Bell,30.88826,-97.401361,4834508,Holland town,census_gazetteer,11.28,12,12,4,4,4,33.3,False
+city-of-holliday--archer,City of Holliday,Archer,33.814322,-98.689609,4834532,Holliday city,census_gazetteer,13.68,11,11,3,8,0,27.3,False
+town-of-hollywood-park--bexar,Town of Hollywood Park,Bexar,29.599214,-98.485542,4834628,Hollywood Park town,census_gazetteer,10.61,13,13,4,8,1,30.8,False
+city-of-hondo--medina,City of Hondo,Medina,29.354242,-99.161846,4834676,Hondo city,census_gazetteer,3.06,25,25,9,12,4,36.0,False
+city-of-honey-grove--fannin,City of Honey Grove,Fannin,33.588095,-95.908622,4834700,Honey Grove city,census_gazetteer,11.3,9,9,3,4,2,33.3,False
+city-of-hooks--bowie,City of Hooks,Bowie,33.470695,-94.286542,4834736,Hooks city,census_gazetteer,8.01,13,13,3,9,1,23.1,False
+town-of-horizon-city--el-paso,Town of Horizon City,El Paso,31.679648,-106.191055,4834832,Horizon City city,census_gazetteer,6.42,18,18,6,12,0,33.3,False
+city-of-horseshoe-bay--llano-burnet,City of Horseshoe Bay,"Llano, Burnet",30.54075,-98.380615,4834862,Horseshoe Bay city,census_gazetteer,20.23,30,30,12,18,0,40.0,False
+city-of-houston--fort-bend-montgomery-harris,City of Houston,"Fort Bend, Montgomery, Harris",29.785743,-95.388806,4835000,Houston city,census_gazetteer,4.95,104,104,46,45,13,44.2,True
+city-of-howardwick--donley,City of Howardwick,Donley,35.034812,-100.907847,4835072,Howardwick city,census_gazetteer,7.58,7,7,3,3,1,42.9,False
+city-of-howe--grayson,City of Howe,Grayson,33.507477,-96.615543,4835084,Howe town,census_gazetteer,8.8,11,11,2,7,2,18.2,True
+city-of-hubbard--hill,City of Hubbard,Hill,31.846821,-96.799998,4835180,Hubbard city,census_gazetteer,21.56,11,11,4,7,0,36.4,True
+city-of-hudson--angelina,City of Hudson,Angelina,31.319158,-94.784737,4835228,Hudson city,census_gazetteer,11.25,13,13,5,7,1,38.5,False
+city-of-hudson-oaks--parker,City of Hudson Oaks,Parker,32.750963,-97.700414,4835254,Hudson Oaks city,census_gazetteer,6.39,13,13,6,5,2,46.2,False
+city-of-hughes-springs--cass,City of Hughes Springs,Cass,32.99874,-94.63105,4835300,Hughes Springs city,census_gazetteer,16.89,17,17,3,9,5,17.6,False
+city-of-humble--harris,City of Humble,Harris,29.988207,-95.264356,4835348,Humble city,census_gazetteer,11.88,31,31,9,21,1,29.0,False
+city-of-hunters-creek-village--harris,City of Hunters Creek Village,Harris,29.772691,-95.498079,4835480,Hunters Creek Village city,census_gazetteer,8.59,11,11,3,8,0,27.3,False
+city-of-huntington--angelina,City of Huntington,Angelina,31.280311,-94.576566,4835492,Huntington city,census_gazetteer,2.83,10,10,3,6,1,30.0,False
+city-of-huntsville--walker,City of Huntsville,Walker,30.700223,-95.554711,4835528,Huntsville city,census_gazetteer,3.1,43,43,18,19,6,41.9,False
+city-of-hurst--tarrant,City of Hurst,Tarrant,32.836643,-97.180627,4835576,Hurst city,census_gazetteer,7.82,29,29,10,16,3,34.5,True
+city-of-hutchins--dallas,City of Hutchins,Dallas,32.643392,-96.709833,4835612,Hutchins city,census_gazetteer,9.42,22,22,9,10,3,40.9,False
+city-of-hutto--williamson,City of Hutto,Williamson,30.541624,-97.544249,4835624,Hutto city,census_gazetteer,8.26,38,38,21,15,2,55.3,False
+city-of-huxley--shelby,City of Huxley,Shelby,31.730933,-93.873259,4835636,Huxley city,census_gazetteer,16.34,8,8,2,6,0,25.0,False
+city-of-idalou--lubbock,City of Idalou,Lubbock,33.662399,-101.683697,4835732,Idalou city,census_gazetteer,8.59,13,13,3,9,1,23.1,False
+city-of-impact--taylor,City of Impact,Taylor,32.500177,-99.746526,4835816,Impact town,census_gazetteer,16.35,5,5,2,3,0,40.0,False
+town-of-indian-lake--cameron,Town of Indian Lake,Cameron,26.087729,-97.503116,4835918,Indian Lake town,census_gazetteer,1.83,10,10,5,5,0,50.0,True
+city-of-industry--austin,City of Industry,Austin,29.967368,-96.497089,4835984,Industry city,census_gazetteer,14.55,7,7,3,3,1,42.9,True
+city-of-ingleside--san-patricio,City of Ingleside,San Patricio,27.870608,-97.207906,4836008,Ingleside city,census_gazetteer,21.25,22,22,7,14,1,31.8,False
+city-of-ingleside-on-the-bay--san-patricio,City of Ingleside On the Bay,San Patricio,27.829833,-97.221324,4836020,Ingleside on the Bay city,census_gazetteer,22.01,8,8,4,4,0,50.0,True
+city-of-ingram--kerr,City of Ingram,Kerr,30.077052,-99.237509,4836032,Ingram city,census_gazetteer,8.35,12,11,4,7,0,36.4,False
+city-of-iola--grimes,City of Iola,Grimes,30.772645,-96.077628,4836068,Iola city,census_gazetteer,16.72,8,8,3,4,1,37.5,True
+city-of-iowa-colony--brazoria,City of Iowa Colony,Brazoria,29.440919,-95.423628,4836092,Iowa Colony village,census_gazetteer,18.88,19,19,9,8,2,47.4,False
+city-of-iowa-park--wichita,City of Iowa Park,Wichita,33.962773,-98.680872,4836104,Iowa Park city,census_gazetteer,2.35,20,20,7,12,1,35.0,True
+city-of-iraan--pecos,City of Iraan,Pecos,30.912901,-101.900075,4836128,Iraan city,census_gazetteer,49.48,12,12,7,4,1,58.3,True
+city-of-iredell--bosque,City of Iredell,Bosque,31.986855,-97.869971,4836140,Iredell city,census_gazetteer,14.82,8,8,5,3,0,62.5,False
+city-of-irving--dallas,City of Irving,Dallas,32.857673,-96.969481,4837000,Irving city,census_gazetteer,12.74,112,112,49,57,6,43.8,False
+city-of-italy--ellis,City of Italy,Ellis,32.186464,-96.885789,4837072,Italy town,census_gazetteer,12.24,13,13,2,10,1,15.4,False
+city-of-itasca--hill,City of Itasca,Hill,32.15834,-97.146376,4837084,Itasca city,census_gazetteer,12.13,11,11,4,6,1,36.4,False
+city-of-ivanhoe--tyler,City of Ivanhoe,Tyler,30.679601,-94.414021,4837112,Ivanhoe city,census_gazetteer,6.6,9,9,2,7,0,22.2,False
+city-of-jacinto-city--harris,City of Jacinto City,Harris,29.766377,-95.241218,4837156,Jacinto City city,census_gazetteer,11.06,18,18,7,11,0,38.9,True
+city-of-jacksboro--jack,City of Jacksboro,Jack,33.229153,-98.160792,4837168,Jacksboro city,census_gazetteer,0.66,23,23,5,14,4,21.7,False
+city-of-jacksonville--cherokee,City of Jacksonville,Cherokee,31.959514,-95.265705,4837216,Jacksonville city,census_gazetteer,10.25,21,21,6,11,4,28.6,False
+village-of-jamaica-beach--galveston,Village of Jamaica Beach,Galveston,29.190171,-94.980007,4837252,Jamaica Beach city,census_gazetteer,6.38,15,15,7,7,1,46.7,True
+city-of-jarrell--williamson,City of Jarrell,Williamson,30.810264,-97.615122,4837396,Jarrell city,census_gazetteer,11.15,12,12,6,5,1,50.0,False
+city-of-jasper--jasper,City of Jasper,Jasper,30.922681,-93.993251,4837420,Jasper city,census_gazetteer,11.85,19,19,5,8,6,26.3,False
+city-of-jayton--kent,City of Jayton,Kent,33.25018,-100.574868,4837468,Jayton city,census_gazetteer,12.14,9,8,5,1,2,62.5,False
+city-of-jefferson--marion,City of Jefferson,Marion,32.763494,-94.350835,4837528,Jefferson city,census_gazetteer,2.43,11,11,4,5,2,36.4,False
+city-of-jersey-village--harris,City of Jersey Village,Harris,29.892927,-95.577225,4837612,Jersey Village city,census_gazetteer,11.31,24,24,8,12,4,33.3,True
+city-of-jewett--leon,City of Jewett,Leon,31.362606,-96.145544,4837648,Jewett city,census_gazetteer,9.83,8,8,5,1,2,62.5,True
+city-of-joaquin--shelby,City of Joaquin,Shelby,31.965579,-94.048368,4837684,Joaquin city,census_gazetteer,13.32,8,8,3,3,2,37.5,True
+city-of-johnson-city--blanco,City of Johnson City,Blanco,30.272097,-98.407126,4837780,Johnson City city,census_gazetteer,0.62,11,11,5,6,0,45.5,True
+city-of-jolly--clay,City of Jolly,Clay,33.875289,-98.349168,4837924,Jolly city,census_gazetteer,9.96,5,5,2,2,1,40.0,True
+village-of-jones-creek--brazoria,Village of Jones Creek,Brazoria,28.974203,-95.468223,4837984,Jones Creek village,census_gazetteer,13.53,9,9,3,5,1,33.3,False
+city-of-jonestown--travis,City of Jonestown,Travis,30.482675,-97.927169,4838020,Jonestown city,census_gazetteer,21.92,15,15,6,9,0,40.0,False
+city-of-josephine--collin-hunt,City of Josephine,"Collin, Hunt",33.062907,-96.31619,4838068,Josephine city,census_gazetteer,14.06,25,25,10,12,3,40.0,False
+city-of-joshua--johnson,City of Joshua,Johnson,32.459091,-97.383816,4838080,Joshua city,census_gazetteer,5.6,17,17,10,6,1,58.8,False
+city-of-jourdanton--atascosa,City of Jourdanton,Atascosa,28.914045,-98.540806,4838116,Jourdanton city,census_gazetteer,1.59,15,15,8,6,1,53.3,False
+city-of-junction--kimble,City of Junction,Kimble,30.490759,-99.773222,4838248,Junction city,census_gazetteer,1.78,12,12,1,9,2,8.3,False
+city-of-justin--denton,City of Justin,Denton,33.100927,-97.317106,4838332,Justin city,census_gazetteer,13.43,22,22,8,12,2,36.4,False
+city-of-karnes-city--karnes,City of Karnes City,Karnes,28.88541,-97.900505,4838452,Karnes City city,census_gazetteer,3.31,11,11,4,6,1,36.4,False
+city-of-katy--harris-waller-fort-bend,City of Katy,"Harris, Waller, Fort Bend",29.791252,-95.840957,4838476,Katy city,census_gazetteer,17.54,32,32,14,14,4,43.8,True
+city-of-kaufman--kaufman,City of Kaufman,Kaufman,32.577249,-96.313715,4838488,Kaufman city,census_gazetteer,2.97,24,24,10,11,3,41.7,False
+city-of-keene--johnson,City of Keene,Johnson,32.396131,-97.323489,4838548,Keene city,census_gazetteer,2.67,17,16,6,9,1,37.5,True
+city-of-keller--tarrant,City of Keller,Tarrant,32.932877,-97.224513,4838632,Keller city,census_gazetteer,11.76,26,26,11,11,4,42.3,False
+city-of-kemah--galveston,City of Kemah,Galveston,29.53095,-95.024545,4838776,Kemah city,census_gazetteer,22.03,16,16,4,10,2,25.0,False
+city-of-kemp--kaufman,City of Kemp,Kaufman,32.438286,-96.225646,4838788,Kemp city,census_gazetteer,12.71,10,10,4,6,0,40.0,True
+city-of-kempner--lampasas,City of Kempner,Lampasas,31.075496,-97.972729,4838800,Kempner city,census_gazetteer,17.94,10,10,3,6,1,30.0,False
+city-of-kendleton--fort-bend,City of Kendleton,Fort Bend,29.444379,-96.00513,4838848,Kendleton city,census_gazetteer,15.18,8,8,5,2,1,62.5,True
+city-of-kenedy--karnes,City of Kenedy,Karnes,28.809087,-97.853754,4838860,Kenedy city,census_gazetteer,6.88,18,18,7,10,1,38.9,False
+city-of-kenefick--liberty,City of Kenefick,Liberty,30.102854,-94.841557,4838872,Kenefick town,census_gazetteer,5.81,8,8,2,3,3,25.0,False
+city-of-kennard--houston,City of Kennard,Houston,31.357503,-95.18537,4838884,Kennard city,census_gazetteer,14.14,11,11,4,7,0,36.4,False
+city-of-kennedale--tarrant,City of Kennedale,Tarrant,32.642747,-97.215704,4838896,Kennedale city,census_gazetteer,9.96,19,19,5,12,2,26.3,False
+city-of-kerens--navarro,City of Kerens,Navarro,32.131157,-96.2257,4838992,Kerens city,census_gazetteer,15.88,11,11,3,6,2,27.3,False
+city-of-kermit--winkler,City of Kermit,Winkler,31.853913,-103.092387,4839004,Kermit city,census_gazetteer,7.29,18,18,5,9,4,27.8,False
+city-of-kerrville--kerr,City of Kerrville,Kerr,30.038317,-99.131069,4839040,Kerrville city,census_gazetteer,14.59,30,30,11,15,4,36.7,False
+city-of-kilgore--gregg-rusk,City of Kilgore,"Gregg, Rusk",32.396669,-94.860013,4839124,Kilgore city,census_gazetteer,6.7,17,17,2,12,3,11.8,False
+city-of-killeen--bell,City of Killeen,Bell,31.075273,-97.731617,4839148,Killeen city,census_gazetteer,15.15,66,66,29,26,11,43.9,False
+city-of-kingsbury--guadalupe,City of Kingsbury,Guadalupe,29.65001,-97.818585,4839292,Kingsbury city,census_gazetteer,9.11,6,6,3,3,0,50.0,True
+city-of-kingsville--kleberg,City of Kingsville,Kleberg,27.509201,-97.861028,4839352,Kingsville city,census_gazetteer,13.21,27,27,13,12,2,48.1,True
+city-of-kirby--bexar,City of Kirby,Bexar,29.461744,-98.385326,4839448,Kirby city,census_gazetteer,8.16,12,12,8,4,0,66.7,True
+city-of-kirbyville--jasper,City of Kirbyville,Jasper,30.658199,-93.90007,4839460,Kirbyville city,census_gazetteer,9.78,11,11,4,5,2,36.4,True
+city-of-kirvin--freestone,City of Kirvin,Freestone,31.767096,-96.330018,4839520,Kirvin town,census_gazetteer,11.77,3,3,0,2,1,0.0,False
+city-of-knollwood--grayson,City of Knollwood,Grayson,33.689274,-96.618475,4839680,Knollwood city,census_gazetteer,5.56,7,7,4,3,0,57.1,True
+city-of-knox-city--knox,City of Knox City,Knox,33.417574,-99.815703,4839700,Knox City town,census_gazetteer,14.3,10,10,3,6,1,30.0,True
+city-of-kosse--limestone,City of Kosse,Limestone,31.307383,-96.629361,4839844,Kosse town,census_gazetteer,16.73,15,15,5,7,3,33.3,False
+city-of-kountze--hardin,City of Kountze,Hardin,30.372545,-94.315661,4839868,Kountze city,census_gazetteer,5.46,14,13,7,4,2,53.8,False
+city-of-kress--swisher,City of Kress,Swisher,34.365819,-101.748428,4839904,Kress city,census_gazetteer,11.09,7,7,2,4,1,28.6,False
+city-of-krugerville--denton,City of Krugerville,Denton,33.277547,-96.989786,4839916,Krugerville city,census_gazetteer,9.09,12,12,4,6,2,33.3,True
+city-of-krum--denton,City of Krum,Denton,33.264987,-97.224956,4839928,Krum city,census_gazetteer,7.29,17,17,7,8,2,41.2,True
+city-of-kurten--brazos,City of Kurten,Brazos,30.790042,-96.276128,4839940,Kurten town,census_gazetteer,9.34,7,7,5,0,2,71.4,True
+city-of-kyle--hays,City of Kyle,Hays,29.994118,-97.883322,4839952,Kyle city,census_gazetteer,9.89,40,39,21,14,4,53.8,True
+city-of-la-coste--medina,City of La Coste,Medina,29.309977,-98.8111,4840108,LaCoste city,census_gazetteer_compact,18.32,11,11,3,8,0,27.3,False
+city-of-la-feria--cameron,City of La Feria,Cameron,26.155307,-97.825027,4840204,La Feria city,census_gazetteer,21.77,18,18,5,13,0,27.8,True
+city-of-la-grange--fayette,City of La Grange,Fayette,29.912609,-96.876296,4840276,La Grange city,census_gazetteer,2.83,20,20,8,11,1,40.0,False
+city-of-la-grulla--starr,City of La Grulla,Starr,26.271272,-98.648631,4840288,La Grulla city,census_gazetteer,18.82,7,7,1,6,0,14.3,False
+city-of-la-joya--hidalgo,City of La Joya,Hidalgo,26.258634,-98.47462,4840384,La Joya city,census_gazetteer,20.85,11,11,5,5,1,45.5,False
+city-of-la-marque--galveston,City of La Marque,Galveston,29.369797,-94.99419,4841116,La Marque city,census_gazetteer,11.29,14,14,6,6,2,42.9,True
+city-of-la-porte--harris,City of La Porte,Harris,29.667437,-95.049089,4841440,La Porte city,census_gazetteer,24.45,46,46,13,27,6,28.3,False
+city-of-la-vernia--wilson,City of La Vernia,Wilson,29.353246,-98.126163,4841764,La Vernia city,census_gazetteer,12.62,15,15,7,5,3,46.7,False
+city-of-la-villa--hidalgo,City of La Villa,Hidalgo,26.296308,-97.926912,4841788,La Villa city,census_gazetteer,17.03,10,10,4,6,0,40.0,True
+city-of-la-ward--jackson,City of La Ward,Jackson,28.846442,-96.464876,4841848,La Ward city,census_gazetteer,10.85,9,8,3,3,2,37.5,False
+city-of-lacy-lakeview--mclennan,City of Lacy Lakeview,McLennan,31.631213,-97.105078,4840168,Lacy-Lakeview city,census_gazetteer,7.9,21,21,8,12,1,38.1,False
+city-of-ladonia--fannin,City of Ladonia,Fannin,33.428376,-95.948222,4840180,Ladonia town,census_gazetteer,14.42,9,9,2,4,3,22.2,True
+city-of-lago-vista--travis,City of Lago Vista,Travis,30.452623,-97.991019,4840264,Lago Vista city,census_gazetteer,23.17,19,19,7,9,3,36.8,True
+town-of-laguna-vista--cameron,Town of Laguna Vista,Cameron,26.105907,-97.296336,4840336,Laguna Vista town,census_gazetteer,11.33,13,13,6,6,1,46.2,True
+city-of-lake-bridgeport--wise,City of Lake Bridgeport,Wise,33.207279,-97.830988,4840450,Lake Bridgeport city,census_gazetteer,9.74,10,10,3,5,2,30.0,False
+city-of-lake-city--san-patricio,City of Lake City,San Patricio,28.083099,-97.88261,4840472,Lake City town,census_gazetteer,22.82,8,8,4,3,1,50.0,False
+city-of-lake-dallas--denton,City of Lake Dallas,Denton,33.127781,-97.022786,4840516,Lake Dallas city,census_gazetteer,7.81,14,14,5,8,1,35.7,True
+city-of-lake-jackson--brazoria,City of Lake Jackson,Brazoria,29.050864,-95.45123,4840588,Lake Jackson city,census_gazetteer,8.14,30,30,13,14,3,43.3,True
+village-of-lake-tanglewood--randall,Village of Lake Tanglewood,Randall,35.056001,-101.781907,4840804,Lake Tanglewood village,census_gazetteer,9.11,10,10,3,6,1,30.0,False
+city-of-lake-worth--tarrant,City of Lake Worth,Tarrant,32.812981,-97.43054,4841056,Lake Worth city,census_gazetteer,8.57,21,21,9,9,3,42.9,False
+city-of-lakeport--gregg,City of Lakeport,Gregg,32.405054,-94.710171,4840696,Lakeport city,census_gazetteer,8.36,12,12,5,5,2,41.7,False
+town-of-lakeside--tarrant,Town of Lakeside,Tarrant,32.820836,-97.479431,4840744,Lakeside town,census_gazetteer,11.44,11,11,3,6,2,27.3,True
+city-of-lakeside--san-patricio,City of Lakeside,San Patricio,28.103079,-97.861124,4840738,Lakeside town,census_gazetteer,21.9,6,6,3,3,0,50.0,True
+city-of-lakeside-city--archer,City of Lakeside City,Archer,33.829213,-98.540275,4840756,Lakeside City town,census_gazetteer,16.96,9,9,3,4,2,33.3,True
+city-of-lakeview--hall,City of Lakeview,Hall,34.672765,-100.697219,4840888,Lakeview town,census_gazetteer,16.66,6,5,3,0,2,60.0,True
+city-of-lakeway--travis,City of Lakeway,Travis,30.35479,-97.985933,4840984,Lakeway city,census_gazetteer,19.31,36,36,14,14,8,38.9,False
+town-of-lakewood-village--denton,Town of Lakewood Village,Denton,33.132889,-96.977229,4841050,Lakewood Village city,census_gazetteer,9.71,10,10,3,7,0,30.0,False
+city-of-lamesa--dawson,City of Lamesa,Dawson,32.733338,-101.953773,4841164,Lamesa city,census_gazetteer,0.7,20,19,5,12,2,26.3,False
+city-of-lampasas--lampasas,City of Lampasas,Lampasas,31.064037,-98.182783,4841188,Lampasas city,census_gazetteer,9.79,20,20,8,8,4,40.0,True
+city-of-lancaster--dallas,City of Lancaster,Dallas,32.596203,-96.773789,4841212,Lancaster city,census_gazetteer,11.8,43,43,16,21,6,37.2,False
+city-of-laredo--webb,City of Laredo,Webb,27.560379,-99.489181,4841464,Laredo city,census_gazetteer,15.93,73,73,32,36,5,43.8,False
+city-of-latexo--houston,City of Latexo,Houston,31.391431,-95.47523,4841644,Latexo city,census_gazetteer,5.69,7,7,1,4,2,14.3,False
+city-of-lavon--collin,City of Lavon,Collin,33.023656,-96.433205,4841800,Lavon city,census_gazetteer,14.52,20,20,9,9,2,45.0,True
+city-of-lawn--taylor,City of Lawn,Taylor,32.13657,-99.750099,4841872,Lawn town,census_gazetteer,13.8,10,10,4,6,0,40.0,True
+city-of-league-city--galveston-harris,City of League City,"Galveston, Harris",29.49011,-95.108924,4841980,League City city,census_gazetteer,22.08,57,57,27,25,5,47.4,False
+city-of-leakey--real,City of Leakey,Real,29.725365,-99.763068,4842004,Leakey city,census_gazetteer,7.82,7,7,2,3,2,28.6,True
+city-of-leander--williamson-travis,City of Leander,"Williamson, Travis",30.573906,-97.862571,4842016,Leander city,census_gazetteer,16.17,40,40,17,18,5,42.5,True
+city-of-leary--bowie,City of Leary,Bowie,33.467033,-94.211269,4842028,Leary city,census_gazetteer,12.26,7,7,1,5,1,14.3,False
+city-of-lefors--gray,City of Lefors,Gray,35.439601,-100.803889,4842148,Lefors town,census_gazetteer,2.6,8,8,2,5,1,25.0,True
+city-of-leon-valley--bexar,City of Leon Valley,Bexar,29.495375,-98.6143,4842388,Leon Valley city,census_gazetteer,6.52,23,23,13,7,3,56.5,True
+city-of-leona--leon,City of Leona,Leon,31.153708,-95.975988,4842340,Leona city,census_gazetteer,10.21,9,9,2,7,0,22.2,False
+city-of-leonard--fannin,City of Leonard,Fannin,33.381989,-96.245603,4842352,Leonard city,census_gazetteer,16.57,11,11,2,8,1,18.2,False
+city-of-leroy--mclennan,City of Leroy,McLennan,31.732358,-97.021707,4842400,Leroy city,census_gazetteer,16.37,8,7,3,4,0,42.9,False
+city-of-levelland--hockley,City of Levelland,Hockley,33.581547,-102.364117,4842448,Levelland city,census_gazetteer,2.06,16,16,6,10,0,37.5,True
+city-of-lewisville--denton-dallas,City of Lewisville,"Denton, Dallas",33.050612,-96.972722,4842508,Lewisville city,census_gazetteer,13.7,62,62,32,21,9,51.6,False
+city-of-lexington--lee,City of Lexington,Lee,30.413989,-97.009589,4842532,Lexington town,census_gazetteer,6.7,12,12,4,6,2,33.3,False
+city-of-liberty--liberty,City of Liberty,Liberty,30.038834,-94.788803,4842568,Liberty city,census_gazetteer,10.92,23,23,7,14,2,30.4,True
+city-of-liberty-hill--williamson,City of Liberty Hill,Williamson,30.663377,-97.905506,4842664,Liberty Hill city,census_gazetteer,17.88,38,38,20,15,3,52.6,True
+city-of-lindale--smith,City of Lindale,Smith,32.494132,-95.407344,4842820,Lindale city,census_gazetteer,11.59,18,18,4,11,3,22.2,False
+city-of-linden--cass,City of Linden,Cass,33.010954,-94.362628,4842844,Linden city,census_gazetteer,5.03,14,14,4,8,2,28.6,False
+city-of-lindsay--cooke,City of Lindsay,Cooke,33.642462,-97.220184,4842868,Lindsay city,census_gazetteer,0.61,11,11,2,8,1,18.2,False
+city-of-lipan--hood,City of Lipan,Hood,32.518651,-98.047055,4842940,Lipan city,census_gazetteer,13.96,9,9,3,4,2,33.3,False
+town-of-little-elm--denton,Town of Little Elm,Denton,33.192555,-96.919909,4843012,Little Elm city,census_gazetteer,11.67,41,41,15,21,5,36.6,False
+city-of-little-river-academy--bell,City of Little River-Academy,Bell,30.978858,-97.346779,4843066,Little River-Academy city,census_gazetteer,8.83,11,11,2,8,1,18.2,False
+city-of-littlefield--lamb,City of Littlefield,Lamb,33.919183,-102.334804,4843024,Littlefield city,census_gazetteer,10.37,18,18,4,12,2,22.2,False
+city-of-live-oak--bexar,City of Live Oak,Bexar,29.555395,-98.340042,4843096,Live Oak city,census_gazetteer,13.1,23,22,7,13,2,31.8,True
+city-of-liverpool--brazoria,City of Liverpool,Brazoria,29.301801,-95.274513,4843120,Liverpool city,census_gazetteer,13.38,10,10,2,7,1,20.0,True
+city-of-livingston--polk,City of Livingston,Polk,30.710043,-94.93793,4843132,Livingston city,census_gazetteer,7.89,15,15,3,9,3,20.0,False
+city-of-llano--llano,City of Llano,Llano,30.751007,-98.676524,4843144,Llano city,census_gazetteer,3.04,16,16,8,7,1,50.0,True
+city-of-lockhart--caldwell,City of Lockhart,Caldwell,29.877809,-97.682622,4843240,Lockhart city,census_gazetteer,4.53,30,30,9,19,2,30.0,False
+city-of-lockney--floyd,City of Lockney,Floyd,34.123054,-101.442472,4843252,Lockney town,census_gazetteer,8.66,12,11,3,8,0,27.3,False
+city-of-log-cabin--henderson,City of Log Cabin,Henderson,32.223486,-96.022352,4843354,Log Cabin city,census_gazetteer,9.9,11,11,2,8,1,18.2,False
+city-of-lometa--lampasas,City of Lometa,Lampasas,31.216622,-98.392424,4843516,Lometa city,census_gazetteer,9.06,10,10,4,5,1,40.0,False
+city-of-lone-oak--hunt,City of Lone Oak,Hunt,32.996103,-95.940658,4843636,Lone Oak city,census_gazetteer,12.1,11,11,1,9,1,9.1,False
+city-of-lone-star--morris,City of Lone Star,Morris,32.93997,-94.709073,4843684,Lone Star city,census_gazetteer,12.26,10,10,5,4,1,50.0,True
+city-of-longview--gregg-harrison,City of Longview,"Gregg, Harrison",32.520234,-94.761114,4843888,Longview city,census_gazetteer,3.97,51,51,25,21,5,49.0,True
+city-of-loraine--mitchell,City of Loraine,Mitchell,32.408651,-100.712515,4843996,Loraine town,census_gazetteer,14.32,9,9,5,3,1,55.6,True
+city-of-lorena--mclennan,City of Lorena,McLennan,31.383111,-97.210204,4844020,Lorena city,census_gazetteer,11.62,11,11,3,7,1,27.3,False
+city-of-lorenzo--crosby,City of Lorenzo,Crosby,33.670341,-101.536079,4844032,Lorenzo city,census_gazetteer,14.29,10,9,7,2,0,77.8,True
+city-of-los-fresnos--cameron,City of Los Fresnos,Cameron,26.074409,-97.487501,4844116,Los Fresnos city,census_gazetteer,2.04,17,17,5,11,1,29.4,False
+city-of-los-indios--cameron,City of Los Indios,Cameron,26.049927,-97.734811,4844128,Los Indios town,census_gazetteer,16.3,11,11,5,4,2,45.5,True
+city-of-los-ybanez--dawson,City of Los Ybanez,Dawson,32.719195,-101.917507,4844170,Los Ybanez city,census_gazetteer,2.43,7,6,2,3,1,33.3,True
+city-of-lott--falls,City of Lott,Falls,31.206257,-97.033576,4844176,Lott city,census_gazetteer,6.67,10,10,2,6,2,20.0,True
+city-of-lovelady--houston,City of Lovelady,Houston,31.128124,-95.44586,4844260,Lovelady city,census_gazetteer,13.54,8,8,2,6,0,25.0,True
+city-of-lowry-crossing--collin,City of Lowry Crossing,Collin,33.169279,-96.544985,4844308,Lowry Crossing city,census_gazetteer,2.65,12,12,3,6,3,25.0,True
+city-of-lubbock--lubbock,City of Lubbock,Lubbock,33.561901,-101.888883,4845000,Lubbock city,census_gazetteer,5.24,92,92,40,44,8,43.5,True
+city-of-lucas--collin,City of Lucas,Collin,33.101032,-96.581187,4845012,Lucas city,census_gazetteer,6.46,25,25,7,13,5,28.0,True
+city-of-lueders--jones-shackelford,City of Lueders,"Jones, Shackelford",32.800432,-99.623217,4845048,Lueders city,census_gazetteer,15.28,10,10,5,4,1,50.0,True
+city-of-lufkin--angelina,City of Lufkin,Angelina,31.322904,-94.729026,4845072,Lufkin city,census_gazetteer,8.52,31,31,13,17,1,41.9,False
+city-of-luling--caldwell-guadalupe,City of Luling,"Caldwell, Guadalupe",29.681747,-97.646696,4845096,Luling city,census_gazetteer,10.47,21,21,7,11,3,33.3,True
+city-of-lumberton--hardin,City of Lumberton,Hardin,30.255733,-94.207864,4845120,Lumberton city,census_gazetteer,12.14,17,17,5,9,3,29.4,False
+city-of-lyford--willacy,City of Lyford,Willacy,26.414597,-97.789266,4845228,Lyford city,census_gazetteer,12.9,12,11,3,8,0,27.3,False
+city-of-lytle--atascosa-medina-bexar,City of Lytle,"Atascosa, Medina, Bexar",29.233189,-98.79465,4845288,Lytle city,census_gazetteer,20.81,13,13,3,10,0,23.1,False
+city-of-mabank--kaufman-henderson-van-zandt,City of Mabank,"Kaufman, Henderson, Van Zandt",32.371896,-96.109643,4845324,Mabank town,census_gazetteer,18.58,16,16,0,12,4,0.0,False
+city-of-madisonville--madison,City of Madisonville,Madison,30.954018,-95.909285,4845996,Madisonville city,census_gazetteer,1.53,15,15,5,8,2,33.3,False
+city-of-magnolia--montgomery,City of Magnolia,Montgomery,30.211261,-95.736567,4846056,Magnolia city,census_gazetteer,15.2,14,14,4,9,1,28.6,False
+city-of-malakoff--henderson,City of Malakoff,Henderson,32.173308,-96.021029,4846224,Malakoff city,census_gazetteer,10.17,11,11,5,5,1,45.5,True
+city-of-malone--hill,City of Malone,Hill,31.91726,-96.894658,4846260,Malone town,census_gazetteer,14.56,9,9,3,4,2,33.3,False
+city-of-manor--travis,City of Manor,Travis,30.354228,-97.558259,4846440,Manor city,census_gazetteer,11.21,25,25,15,9,1,60.0,True
+city-of-mansfield--tarrant-johnson-ellis,City of Mansfield,"Tarrant, Johnson, Ellis",32.569188,-97.120532,4846452,Mansfield city,census_gazetteer,17.18,46,46,23,17,6,50.0,False
+city-of-manvel--brazoria,City of Manvel,Brazoria,29.488152,-95.364962,4846500,Manvel city,census_gazetteer,22.53,24,24,10,12,2,41.7,False
+city-of-marble-falls--burnet,City of Marble Falls,Burnet,30.560168,-98.277286,4846584,Marble Falls city,census_gazetteer,16.49,27,27,10,14,3,37.0,False
+city-of-marfa--presidio,City of Marfa,Presidio,30.310679,-104.025452,4846620,Marfa city,census_gazetteer,25.35,17,17,8,9,0,47.1,False
+city-of-marietta--cass,City of Marietta,Cass,33.173548,-94.542531,4846668,Marietta town,census_gazetteer,12.37,10,10,6,4,0,60.0,True
+city-of-marion--guadalupe,City of Marion,Guadalupe,29.57232,-98.142419,4846692,Marion city,census_gazetteer,11.64,11,11,3,7,1,27.3,False
+city-of-marlin--falls,City of Marlin,Falls,31.308039,-96.89318,4846740,Marlin city,census_gazetteer,4.57,15,15,3,10,2,20.0,True
+city-of-marquez--leon,City of Marquez,Leon,31.236134,-96.257428,4846752,Marquez city,census_gazetteer,16.09,9,9,3,4,2,33.3,False
+city-of-marshall--harrison,City of Marshall,Harrison,32.539159,-94.353173,4846776,Marshall city,census_gazetteer,1.38,27,27,11,14,2,40.7,True
+city-of-mart--mclennan-limestone,City of Mart,"McLennan, Limestone",31.541472,-96.830553,4846824,Mart city,census_gazetteer,13.96,11,11,2,8,1,18.2,False
+city-of-martindale--caldwell,City of Martindale,Caldwell,29.845098,-97.83835,4846848,Martindale city,census_gazetteer,12.63,11,11,3,7,1,27.3,True
+city-of-mason--mason,City of Mason,Mason,30.747713,-99.228603,4846968,Mason city,census_gazetteer,3.07,9,9,5,4,0,55.6,False
+city-of-matador--motley,City of Matador,Motley,34.015084,-100.821094,4847004,Matador town,census_gazetteer,3.36,9,9,1,6,2,11.1,False
+city-of-mathis--san-patricio,City of Mathis,San Patricio,28.090919,-97.817047,4847040,Mathis city,census_gazetteer,19.09,15,15,5,8,2,33.3,True
+city-of-maud--bowie,City of Maud,Bowie,33.329892,-94.346145,4847088,Maud city,census_gazetteer,9.15,11,11,5,5,1,45.5,True
+city-of-maypearl--ellis,City of Maypearl,Ellis,32.311168,-97.007179,4847268,Maypearl city,census_gazetteer,12.52,12,12,3,8,1,25.0,False
+city-of-mcallen--hidalgo,City of McAllen,Hidalgo,26.224966,-98.246083,4845384,McAllen city,census_gazetteer,12.8,88,88,42,44,2,47.7,False
+city-of-mccamey--upton,City of McCamey,Upton,31.132464,-102.22004,4845432,McCamey city,census_gazetteer,18.57,8,8,3,3,2,37.5,False
+city-of-mcgregor--mclennan,City of McGregor,McLennan,31.420333,-97.425291,4845672,McGregor city,census_gazetteer,16.01,19,19,6,10,3,31.6,True
+city-of-mckinney--collin,City of McKinney,Collin,33.201125,-96.664161,4845744,McKinney city,census_gazetteer,4.92,83,83,33,38,12,39.8,False
+city-of-mclean--gray,City of McLean,Gray,35.232339,-100.600107,4845780,McLean town,census_gazetteer,16.78,9,6,2,4,0,33.3,False
+city-of-mclendon-chisholm--rockwall,City of McLendon-Chisholm,Rockwall,32.847107,-96.391219,4845804,McLendon-Chisholm city,census_gazetteer,3.8,15,15,1,14,0,6.7,False
+city-of-meadow--terry,City of Meadow,Terry,33.337725,-102.205857,4847316,Meadow town,census_gazetteer,13.85,10,10,5,4,1,50.0,True
+city-of-meadowlakes--burnet,City of Meadowlakes,Burnet,30.564223,-98.295075,4847330,Meadowlakes city,census_gazetteer,16.54,10,10,4,6,0,40.0,True
+city-of-meadows-place--fort-bend,City of Meadows Place,Fort Bend,29.650922,-95.586909,4847337,Meadows Place city,census_gazetteer,14.01,15,15,5,8,2,33.3,True
+city-of-megargel--archer,City of Megargel,Archer,33.453389,-98.929413,4847460,Megargel town,census_gazetteer,17.92,7,7,3,4,0,42.9,False
+city-of-melissa--collin,City of Melissa,Collin,33.288521,-96.557632,4847496,Melissa city,census_gazetteer,6.62,30,30,8,16,6,26.7,False
+city-of-melvin--mcculloch,City of Melvin,McCulloch,31.199216,-99.581316,4847568,Melvin town,census_gazetteer,13.1,8,6,1,2,3,16.7,False
+city-of-memphis--hall,City of Memphis,Hall,34.726733,-100.541655,4847616,Memphis city,census_gazetteer,19.0,13,13,3,8,2,23.1,False
+city-of-menard--menard,City of Menard,Menard,30.918441,-99.783678,4847628,Menard city,census_gazetteer,5.01,10,10,5,4,1,50.0,True
+city-of-mercedes--hidalgo,City of Mercedes,Hidalgo,26.153818,-97.912907,4847700,Mercedes city,census_gazetteer,23.56,19,19,7,11,1,36.8,False
+city-of-meridian--bosque,City of Meridian,Bosque,31.9266,-97.649091,4847760,Meridian city,census_gazetteer,1.83,12,12,2,8,2,16.7,False
+city-of-merkel--taylor,City of Merkel,Taylor,32.469731,-100.011096,4847796,Merkel town,census_gazetteer,13.85,13,13,4,7,2,30.8,False
+city-of-mertens--hill,City of Mertens,Hill,32.059022,-96.894167,4847820,Mertens town,census_gazetteer,14.81,8,7,5,1,1,71.4,True
+city-of-mertzon--irion,City of Mertzon,Irion,31.261982,-100.820808,4847832,Mertzon city,census_gazetteer,9.9,9,9,2,6,1,22.2,False
+city-of-mesquite--dallas,City of Mesquite,Dallas,32.75955,-96.584164,4847892,Mesquite city,census_gazetteer,11.3,65,65,28,31,6,43.1,False
+city-of-mexia--limestone,City of Mexia,Limestone,31.680693,-96.483203,4847916,Mexia city,census_gazetteer,11.26,16,16,5,9,2,31.2,True
+city-of-miami--roberts,City of Miami,Roberts,35.692312,-100.641563,4847988,Miami city,census_gazetteer,14.89,7,7,3,4,0,42.9,True
+city-of-midland--midland-martin,City of Midland,"Midland, Martin",32.024174,-102.113307,4848072,Midland city,census_gazetteer,15.89,59,59,26,26,7,44.1,True
+city-of-midlothian--ellis,City of Midlothian,Ellis,32.468198,-96.990724,4848096,Midlothian city,census_gazetteer,14.07,33,33,14,15,4,42.4,False
+city-of-midway--madison,City of Midway,Madison,31.02512,-95.7565,4848180,Midway city,census_gazetteer,11.06,8,8,5,3,0,62.5,True
+city-of-milano--milam,City of Milano,Milam,30.705313,-96.852687,4848336,Milano city,census_gazetteer,9.82,9,9,3,6,0,33.3,False
+city-of-mildred--navarro,City of Mildred,Navarro,32.046271,-96.324898,4848372,Mildred town,census_gazetteer,8.88,8,8,4,3,1,50.0,False
+city-of-miles--runnels,City of Miles,Runnels,31.60062,-100.185317,4848396,Miles city,census_gazetteer,20.71,11,11,4,7,0,36.4,True
+city-of-milford--ellis,City of Milford,Ellis,32.121506,-96.95001,4848408,Milford town,census_gazetteer,17.96,10,10,2,5,3,20.0,False
+town-of-miller-s-cove--titus,Town of Miller's Cove,Titus,33.155283,-95.115167,4848478,Miller's Cove town,census_gazetteer,9.45,5,5,1,3,1,20.0,False
+city-of-millsap--parker,City of Millsap,Parker,32.74991,-98.011469,4848564,Millsap town,census_gazetteer,12.09,5,5,2,2,1,40.0,False
+city-of-mineola--wood,City of Mineola,Wood,32.651169,-95.472845,4848648,Mineola city,census_gazetteer,10.56,18,18,5,11,2,27.8,True
+city-of-mineral-wells--palo-pinto-parker,City of Mineral Wells,"Palo Pinto, Parker",32.82074,-98.077212,4848684,Mineral Wells city,census_gazetteer,14.76,19,19,8,9,2,42.1,True
+city-of-mingus--palo-pinto,City of Mingus,Palo Pinto,32.536319,-98.424862,4848720,Mingus city,census_gazetteer,16.17,8,8,4,4,0,50.0,True
+city-of-mission--hidalgo,City of Mission,Hidalgo,26.20406,-98.325221,4848768,Mission city,census_gazetteer,16.34,36,36,16,19,1,44.4,True
+city-of-missouri-city--fort-bend-harris,City of Missouri City,"Fort Bend, Harris",29.559901,-95.534665,4848804,Missouri City city,census_gazetteer,14.39,32,32,18,10,4,56.2,False
+city-of-mobeetie--wheeler,City of Mobeetie,Wheeler,35.533689,-100.441319,4848852,Mobeetie city,census_gazetteer,14.39,6,6,1,5,0,16.7,False
+city-of-mobile-city--rockwall,City of Mobile City,Rockwall,32.92288,-96.411149,4848858,Mobile City city,census_gazetteer,1.62,3,3,1,1,1,33.3,False
+city-of-monahans--ward-winkler,City of Monahans,"Ward, Winkler",31.672557,-103.083824,4848936,Monahans city,census_gazetteer,11.74,19,19,7,12,0,36.8,False
+city-of-mont-belvieu--chambers-liberty,City of Mont Belvieu,"Chambers, Liberty",29.849964,-94.874713,4849068,Mont Belvieu city,census_gazetteer,16.25,29,29,8,17,4,27.6,False
+city-of-montgomery--montgomery,City of Montgomery,Montgomery,30.390385,-95.698168,4849128,Montgomery city,census_gazetteer,13.25,21,21,11,9,1,52.4,True
+city-of-moody--mclennan,City of Moody,McLennan,31.306581,-97.358952,4849200,Moody city,census_gazetteer,19.3,12,12,3,9,0,25.0,True
+city-of-moore-station--henderson,City of Moore Station,Henderson,32.190556,-95.570391,4849272,Moore Station city,census_gazetteer,16.62,7,7,5,2,0,71.4,True
+city-of-moran--shackelford,City of Moran,Shackelford,32.547234,-99.166492,4849320,Moran city,census_gazetteer,17.17,7,7,3,4,0,42.9,False
+city-of-morgan--bosque,City of Morgan,Bosque,32.015936,-97.606093,4849356,Morgan city,census_gazetteer,8.1,10,10,5,5,0,50.0,False
+city-of-morgan-s-point--harris,City of Morgan's Point,Harris,29.671529,-94.999155,4849380,Morgan's Point city,census_gazetteer,26.89,13,13,5,6,2,38.5,False
+city-of-morgan-s-point-resort--bell,City of Morgan's Point Resort,Bell,31.154556,-97.459174,4849392,Morgan's Point Resort city,census_gazetteer,8.21,16,16,5,11,0,31.2,True
+city-of-morton--cochran,City of Morton,Cochran,33.72482,-102.75921,4849464,Morton city,census_gazetteer,9.02,9,9,3,4,2,33.3,False
+city-of-moulton--lavaca,City of Moulton,Lavaca,29.572203,-97.146553,4849560,Moulton town,census_gazetteer,18.75,10,10,3,6,1,30.0,False
+city-of-mount-calm--hill,City of Mount Calm,Hill,31.756291,-96.881744,4849692,Mount Calm city,census_gazetteer,21.43,11,11,4,6,1,36.4,True
+city-of-mount-enterprise--rusk,City of Mount Enterprise,Rusk,31.911639,-94.682767,4849728,Mount Enterprise city,census_gazetteer,14.33,11,11,5,6,0,45.5,False
+city-of-mount-pleasant--titus,City of Mount Pleasant,Titus,33.158236,-94.974468,4849800,Mount Pleasant city,census_gazetteer,3.9,20,19,6,10,3,31.6,False
+city-of-mount-vernon--franklin,City of Mount Vernon,Franklin,33.177431,-95.224447,4849860,Mount Vernon town,census_gazetteer,0.33,13,13,4,8,1,30.8,False
+city-of-mountain-city--hays,City of Mountain City,Hays,30.03921,-97.891527,4849600,Mountain City city,census_gazetteer,8.38,9,9,5,3,1,55.6,False
+city-of-muenster--cooke,City of Muenster,Cooke,33.653029,-97.375693,4849932,Muenster city,census_gazetteer,9.56,13,13,1,11,1,7.7,False
+city-of-muleshoe--bailey,City of Muleshoe,Bailey,34.229225,-102.72833,4849968,Muleshoe city,census_gazetteer,12.6,13,13,4,8,1,30.8,False
+city-of-mullin--mills,City of Mullin,Mills,31.555229,-98.66566,4849992,Mullin town,census_gazetteer,5.04,8,7,2,3,2,28.6,False
+city-of-munday--knox,City of Munday,Knox,33.447102,-99.623904,4850040,Munday city,census_gazetteer,12.93,13,13,8,3,2,61.5,True
+city-of-murchison--henderson,City of Murchison,Henderson,32.275172,-95.756069,4850076,Murchison city,census_gazetteer,7.15,7,7,1,5,1,14.3,False
+city-of-murphy--collin,City of Murphy,Collin,33.016418,-96.608233,4850100,Murphy city,census_gazetteer,12.42,26,26,10,12,4,38.5,False
+city-of-mustang-ridge--caldwell-travis,City of Mustang Ridge,"Caldwell, Travis",30.051107,-97.701593,4850200,Mustang Ridge city,census_gazetteer,13.03,11,11,8,3,0,72.7,True
+city-of-nacogdoches--nacogdoches,City of Nacogdoches,Nacogdoches,31.612364,-94.652046,4850256,Nacogdoches city,census_gazetteer,1.85,27,27,11,16,0,40.7,False
+city-of-naples--morris,City of Naples,Morris,33.201949,-94.678985,4850316,Naples city,census_gazetteer,6.64,15,15,6,9,0,40.0,False
+city-of-nash--bowie,City of Nash,Bowie,33.447223,-94.134514,4850352,Nash city,census_gazetteer,16.6,18,18,3,11,4,16.7,False
+city-of-nassau-bay--harris,City of Nassau Bay,Harris,29.544815,-95.087388,4850376,Nassau Bay city,census_gazetteer,28.33,18,18,8,7,3,44.4,True
+city-of-natalia--medina,City of Natalia,Medina,29.185438,-98.852198,4850400,Natalia city,census_gazetteer,19.46,13,13,4,8,1,30.8,False
+city-of-navarro--navarro,City of Navarro,Navarro,32.00079,-96.382516,4850448,Navarro town,census_gazetteer,6.24,6,6,2,0,4,33.3,True
+city-of-navasota--grimes,City of Navasota,Grimes,30.386923,-96.089807,4850472,Navasota city,census_gazetteer,12.38,21,21,5,11,5,23.8,False
+city-of-nazareth--castro,City of Nazareth,Castro,34.541869,-102.102346,4850496,Nazareth city,census_gazetteer,8.92,9,9,1,6,2,11.1,False
+city-of-nederland--jefferson,City of Nederland,Jefferson,29.969288,-94.001714,4850580,Nederland city,census_gazetteer,11.9,21,21,4,12,5,19.0,False
+city-of-needville--fort-bend,City of Needville,Fort Bend,29.394952,-95.838154,4850628,Needville city,census_gazetteer,9.95,10,10,3,6,1,30.0,False
+city-of-nevada--collin,City of Nevada,Collin,33.034304,-96.369928,4850760,Nevada city,census_gazetteer,16.42,10,10,2,7,1,20.0,False
+city-of-new-berlin--guadalupe,City of New Berlin,Guadalupe,29.489043,-98.109375,4850796,New Berlin city,census_gazetteer,11.61,9,9,4,4,1,44.4,False
+city-of-new-boston--bowie,City of New Boston,Bowie,33.46111,-94.419096,4850808,New Boston city,census_gazetteer,1.06,9,9,1,7,1,11.1,False
+city-of-new-braunfels--comal-guadalupe,City of New Braunfels,"Comal, Guadalupe",29.699306,-98.115127,4850820,New Braunfels city,census_gazetteer,11.6,80,80,38,31,11,47.5,False
+city-of-new-chapel-hill--smith,City of New Chapel Hill,Smith,32.299165,-95.168627,4850876,New Chapel Hill city,census_gazetteer,7.8,8,8,2,4,2,25.0,False
+city-of-new-deal--lubbock,City of New Deal,Lubbock,33.730898,-101.843846,4850916,New Deal town,census_gazetteer,8.37,11,11,2,8,1,18.2,False
+city-of-new-fairview--wise-denton,City of New Fairview,"Wise, Denton",33.109096,-97.43458,4850920,New Fairview city,census_gazetteer,15.18,12,12,3,7,2,25.0,False
+city-of-new-home--lynn,City of New Home,Lynn,33.326938,-101.911722,4851012,New Home city,census_gazetteer,11.59,10,10,3,6,1,30.0,False
+town-of-new-hope--collin,Town of New Hope,Collin,33.211876,-96.558682,4851036,New Hope town,census_gazetteer,1.7,8,8,6,1,1,75.0,True
+city-of-new-london--rusk,City of New London,Rusk,32.269395,-94.929777,4851168,New London city,census_gazetteer,15.0,11,11,4,5,2,36.4,False
+city-of-new-summerfield--cherokee,City of New Summerfield,Cherokee,31.980747,-95.114982,4851336,New Summerfield city,census_gazetteer,9.76,12,12,5,5,2,41.7,True
+city-of-new-waverly--walker,City of New Waverly,Walker,30.539542,-95.482229,4851396,New Waverly city,census_gazetteer,15.0,10,10,3,7,0,30.0,False
+city-of-newark--wise-tarrant,City of Newark,"Wise, Tarrant",33.013542,-97.488418,4850772,Newark city,census_gazetteer,17.33,11,11,5,5,1,45.5,True
+city-of-newcastle--young,City of Newcastle,Young,33.196245,-98.743511,4850868,Newcastle city,census_gazetteer,4.57,8,8,2,6,0,25.0,False
+city-of-newton--newton,City of Newton,Newton,30.850769,-93.754105,4851372,Newton city,census_gazetteer,4.51,14,14,3,10,1,21.4,False
+city-of-neylandville--hunt,City of Neylandville,Hunt,33.195476,-96.016396,4851444,Neylandville town,census_gazetteer,6.34,8,7,3,3,1,42.9,True
+city-of-niederwald--hays-caldwell,City of Niederwald,"Hays, Caldwell",29.994192,-97.775749,4851492,Niederwald city,census_gazetteer,14.25,8,8,3,4,1,37.5,True
+city-of-nixon--gonzales-wilson,City of Nixon,"Gonzales, Wilson",29.26967,-97.765876,4851588,Nixon city,census_gazetteer,20.45,13,13,8,4,1,61.5,True
+city-of-nocona--montague,City of Nocona,Montague,33.783555,-97.730171,4851648,Nocona city,census_gazetteer,7.27,15,15,3,10,2,20.0,False
+city-of-nolanville--bell,City of Nolanville,Bell,31.072523,-97.605074,4851708,Nolanville city,census_gazetteer,7.82,16,16,8,6,2,50.0,False
+city-of-nome--jefferson,City of Nome,Jefferson,30.032329,-94.420532,4851720,Nome city,census_gazetteer,20.38,7,7,3,2,2,42.9,False
+city-of-noonday--smith,City of Noonday,Smith,32.242344,-95.395642,4851756,Noonday city,census_gazetteer,11.71,8,8,3,4,1,37.5,False
+city-of-nordheim--dewitt,City of Nordheim,DeWitt,28.92379,-97.614077,4851792,Nordheim city,census_gazetteer,18.72,11,11,4,6,1,36.4,True
+city-of-normangee--leon-madison,City of Normangee,"Leon, Madison",31.030224,-96.115745,4851840,Normangee town,census_gazetteer,11.82,11,11,4,5,2,36.4,False
+city-of-north-cleveland--liberty,City of North Cleveland,Liberty,30.362475,-95.101051,4851984,North Cleveland city,census_gazetteer,19.06,7,7,2,4,1,28.6,False
+city-of-north-richland-hills--tarrant,City of North Richland Hills,Tarrant,32.860378,-97.21851,4852356,North Richland Hills city,census_gazetteer,7.42,41,41,21,14,6,51.2,False
+town-of-northlake--denton,Town of Northlake,Denton,33.073257,-97.25709,4852212,Northlake town,census_gazetteer,12.04,27,27,9,15,3,33.3,False
+city-of-novice--coleman,City of Novice,Coleman,31.987204,-99.625293,4852668,Novice city,census_gazetteer,17.1,8,8,5,2,1,62.5,True
+city-of-o-brien--haskell,City of O'Brien,Haskell,33.380198,-99.843824,4853304,O'Brien city,census_gazetteer,15.55,7,7,1,2,4,14.3,False
+city-of-o-donnell--lynn-dawson,City of O'Donnell,"Lynn, Dawson",32.965202,-101.830842,4853436,O'Donnell city,census_gazetteer,14.75,10,10,3,5,2,30.0,False
+city-of-oak-grove--kaufman,City of Oak Grove,Kaufman,32.533153,-96.318552,4852902,Oak Grove town,census_gazetteer,5.89,8,7,1,6,0,14.3,False
+city-of-oak-leaf--ellis,City of Oak Leaf,Ellis,32.508889,-96.850493,4853115,Oak Leaf city,census_gazetteer,11.62,11,10,6,4,0,60.0,False
+city-of-oak-point--denton,City of Oak Point,Denton,33.1704,-96.987682,4853130,Oak Point city,census_gazetteer,8.08,18,18,5,13,0,27.8,True
+town-of-oak-ridge--cooke,Town of Oak Ridge,Cooke,33.648122,-97.038507,4853154,Oak Ridge town,census_gazetteer,9.9,8,8,3,2,3,37.5,False
+city-of-oak-ridge--kaufman,City of Oak Ridge,Kaufman,32.624354,-96.2688,4853160,Oak Ridge town,census_gazetteer,1.32,8,8,5,3,0,62.5,True
+city-of-oak-ridge-north--montgomery,City of Oak Ridge North,Montgomery,30.156927,-95.441591,4853190,Oak Ridge North city,census_gazetteer,10.47,14,14,6,8,0,42.9,False
+town-of-oak-valley--navarro,Town of Oak Valley,Navarro,32.03115,-96.518574,4853217,Oak Valley town,census_gazetteer,2.61,8,8,3,3,2,37.5,False
+city-of-oakwood--leon,City of Oakwood,Leon,31.584788,-95.849878,4853232,Oakwood town,census_gazetteer,21.44,9,9,4,4,1,44.4,True
+city-of-odem--san-patricio,City of Odem,San Patricio,27.946241,-97.587518,4853376,Odem city,census_gazetteer,6.24,12,12,6,6,0,50.0,False
+city-of-odessa--ector-midland,City of Odessa,"Ector, Midland",31.880461,-102.345314,4853388,Odessa city,census_gazetteer,11.62,54,53,24,23,6,45.3,False
+city-of-oglesby--coryell,City of Oglesby,Coryell,31.418591,-97.511327,4853520,Oglesby city,census_gazetteer,17.01,9,9,0,8,1,0.0,False
+city-of-old-river-winfree--chambers-liberty,City of Old River-Winfree,"Chambers, Liberty",29.874446,-94.826747,4853824,Old River-Winfree city,census_gazetteer,15.5,9,9,4,3,2,44.4,True
+city-of-olmos-park--bexar,City of Olmos Park,Bexar,29.474853,-98.486598,4853988,Olmos Park city,census_gazetteer,2.71,15,15,8,5,2,53.3,True
+city-of-olney--young,City of Olney,Young,33.364143,-98.758486,4854000,Olney city,census_gazetteer,14.92,15,15,4,9,2,26.7,False
+city-of-olton--lamb,City of Olton,Lamb,34.180199,-102.137039,4854012,Olton city,census_gazetteer,14.31,12,12,4,6,2,33.3,False
+city-of-omaha--morris,City of Omaha,Morris,33.182746,-94.738515,4854024,Omaha city,census_gazetteer,4.6,13,13,6,7,0,46.2,True
+city-of-onalaska--polk,City of Onalaska,Polk,30.825581,-95.113438,4854048,Onalaska city,census_gazetteer,16.63,11,11,7,3,1,63.6,False
+city-of-opdyke-west--hockley,City of Opdyke West,Hockley,33.592705,-102.300622,4854075,Opdyke West town,census_gazetteer,2.63,7,5,1,3,1,20.0,False
+city-of-orange--orange,City of Orange,Orange,30.123528,-93.754548,4854132,Orange city,census_gazetteer,8.24,28,28,11,16,1,39.3,False
+city-of-orange-grove--jim-wells,City of Orange Grove,Jim Wells,27.956203,-97.938553,4854168,Orange Grove city,census_gazetteer,17.98,11,11,5,5,1,45.5,False
+city-of-orchard--fort-bend,City of Orchard,Fort Bend,29.602867,-95.968758,4854192,Orchard city,census_gazetteer,13.0,5,5,2,2,1,40.0,False
+city-of-ore-city--upshur,City of Ore City,Upshur,32.800891,-94.718731,4854216,Ore City city,census_gazetteer,13.69,11,11,5,4,2,45.5,True
+city-of-overton--rusk-smith,City of Overton,"Rusk, Smith",32.275636,-94.97254,4854432,Overton city,census_gazetteer,17.08,12,12,1,8,3,8.3,False
+city-of-ovilla--ellis-dallas,City of Ovilla,"Ellis, Dallas",32.541267,-96.883475,4854444,Ovilla city,census_gazetteer,14.35,16,16,6,9,1,37.5,True
+city-of-oyster-creek--brazoria,City of Oyster Creek,Brazoria,29.000652,-95.325746,4854528,Oyster Creek city,census_gazetteer,13.29,11,11,2,8,1,18.2,False
+city-of-paducah--cottle,City of Paducah,Cottle,34.014005,-100.303693,4854600,Paducah town,census_gazetteer,5.6,12,11,2,7,2,18.2,False
+city-of-paint-rock--concho,City of Paint Rock,Concho,31.510072,-99.925309,4854636,Paint Rock town,census_gazetteer,13.7,9,9,3,3,3,33.3,False
+city-of-palacios--matagorda,City of Palacios,Matagorda,28.713129,-96.227888,4854684,Palacios city,census_gazetteer,14.36,14,14,8,5,1,57.1,False
+city-of-palestine--anderson,City of Palestine,Anderson,31.754512,-95.646953,4854708,Palestine city,census_gazetteer,6.06,22,22,12,9,1,54.5,False
+village-of-palisades--randall,Village of Palisades,Randall,35.058945,-101.800457,4854726,Palisades village,census_gazetteer,8.56,10,10,4,6,0,40.0,False
+city-of-palm-valley--cameron,City of Palm Valley,Cameron,26.204439,-97.754304,4854798,Palm Valley city,census_gazetteer,18.46,13,12,5,6,1,41.7,False
+city-of-palmer--ellis,City of Palmer,Ellis,32.426731,-96.673833,4854744,Palmer town,census_gazetteer,9.06,12,12,6,6,0,50.0,True
+city-of-palmhurst--hidalgo,City of Palmhurst,Hidalgo,26.258263,-98.295317,4854780,Palmhurst city,census_gazetteer,12.21,14,14,3,11,0,21.4,False
+city-of-palmview--hidalgo,City of Palmview,Hidalgo,26.231815,-98.38165,4854804,Palmview city,census_gazetteer,17.18,17,17,5,12,0,29.4,False
+city-of-pampa--gray,City of Pampa,Gray,35.547853,-100.96503,4854912,Pampa city,census_gazetteer,13.21,19,19,5,12,2,26.3,False
+city-of-panhandle--carson,City of Panhandle,Carson,35.3463,-101.380508,4854960,Panhandle town,census_gazetteer,4.33,14,14,1,8,5,7.1,False
+city-of-panorama-village--montgomery,City of Panorama Village,Montgomery,30.382644,-95.493369,4855008,Panorama Village city,census_gazetteer,5.82,11,11,2,8,1,18.2,False
+town-of-pantego--tarrant,Town of Pantego,Tarrant,32.714884,-97.153882,4855020,Pantego town,census_gazetteer,8.91,14,14,5,8,1,35.7,False
+city-of-paradise--wise,City of Paradise,Wise,33.149771,-97.688614,4855056,Paradise city,census_gazetteer,4.9,11,11,4,7,0,36.4,True
+city-of-paris--lamar,City of Paris,Lamar,33.668929,-95.546616,4855080,Paris city,census_gazetteer,1.37,27,27,10,12,5,37.0,False
+city-of-parker--collin,City of Parker,Collin,33.061145,-96.626047,4855152,Parker city,census_gazetteer,9.6,15,15,4,10,1,26.7,False
+city-of-pasadena--harris,City of Pasadena,Harris,29.655036,-95.151318,4856000,Pasadena city,census_gazetteer,20.14,74,74,39,29,6,52.7,False
+city-of-pattison--waller,City of Pattison,Waller,29.818429,-95.976392,4856108,Pattison city,census_gazetteer,13.49,8,8,3,2,3,37.5,True
+city-of-patton-village--montgomery,City of Patton Village,Montgomery,30.196393,-95.163329,4856156,Patton Village city,census_gazetteer,21.47,11,11,3,7,1,27.3,False
+city-of-payne-springs--henderson,City of Payne Springs,Henderson,32.280309,-96.07444,4856276,Payne Springs town,census_gazetteer,13.74,10,10,6,3,1,60.0,True
+city-of-pearland--brazoria-harris-fort-bend,City of Pearland,"Brazoria, Harris, Fort Bend",29.555732,-95.323012,4856348,Pearland city,census_gazetteer,21.25,58,58,29,24,5,50.0,True
+city-of-pearsall--frio,City of Pearsall,Frio,28.892921,-99.097169,4856384,Pearsall city,census_gazetteer,1.78,27,27,13,13,1,48.1,False
+town-of-peaster--parker,Town of Peaster,Parker,32.853289,-97.87215,4856432,Peaster town,census_gazetteer,6.52,5,5,2,3,0,40.0,False
+city-of-pecan-gap--delta-fannin,City of Pecan Gap,"Delta, Fannin",33.43896,-95.853057,4856468,Pecan Gap city,census_gazetteer,10.99,7,5,0,4,1,0.0,False
+city-of-pecan-hill--ellis,City of Pecan Hill,Ellis,32.487594,-96.786223,4856485,Pecan Hill city,census_gazetteer,9.74,11,11,1,10,0,9.1,False
+town-of-pecos-city--reeves,Town of Pecos City,Reeves,31.389425,-103.522209,4873493,Town of Pecos city,census_gazetteer_alias,12.56,36,36,22,11,3,61.1,True
+city-of-pelican-bay--tarrant,City of Pelican Bay,Tarrant,32.922301,-97.517885,4856640,Pelican Bay city,census_gazetteer,16.76,10,10,4,5,1,40.0,True
+city-of-penelope--hill,City of Penelope,Hill,31.854533,-96.928185,4856672,Penelope town,census_gazetteer,14.83,4,4,1,2,1,25.0,False
+city-of-penitas--hidalgo,City of Penitas,Hidalgo,26.261019,-98.438181,4856696,Penitas city,census_gazetteer,18.8,14,14,4,10,0,28.6,False
+city-of-perryton--ochiltree,City of Perryton,Ochiltree,36.392868,-100.797656,4856912,Perryton city,census_gazetteer,7.95,20,20,3,12,5,15.0,False
+city-of-petersburg--hale,City of Petersburg,Hale,33.871049,-101.597292,4856996,Petersburg city,census_gazetteer,18.79,11,11,4,5,2,36.4,True
+city-of-petrolia--clay,City of Petrolia,Clay,34.013096,-98.231798,4857044,Petrolia city,census_gazetteer,15.73,7,7,4,3,0,57.1,False
+city-of-petronila--nueces,City of Petronila,Nueces,27.671229,-97.632246,4857056,Petronila city,census_gazetteer,8.54,8,7,3,3,1,42.9,False
+city-of-pflugerville--travis-williamson,City of Pflugerville,"Travis, Williamson",30.446596,-97.601326,4857176,Pflugerville city,census_gazetteer,13.99,50,50,23,22,5,46.0,True
+city-of-pharr--hidalgo,City of Pharr,Hidalgo,26.163436,-98.19389,4857200,Pharr city,census_gazetteer,16.34,70,70,35,31,4,50.0,False
+city-of-pilot-point--denton,City of Pilot Point,Denton,33.398264,-96.955528,4857476,Pilot Point city,census_gazetteer,16.42,25,25,11,13,1,44.0,False
+city-of-pine-forest--orange,City of Pine Forest,Orange,30.175054,-94.035256,4857524,Pine Forest city,census_gazetteer,9.4,9,9,5,4,0,55.6,True
+town-of-pine-island--waller,Town of Pine Island,Waller,30.053793,-96.028441,4857615,Pine Island town,census_gazetteer,3.92,4,4,2,2,0,50.0,False
+city-of-pinehurst--orange,City of Pinehurst,Orange,30.10764,-93.772701,4857608,Pinehurst city,census_gazetteer,7.19,16,16,3,9,4,18.8,False
+city-of-pineland--sabine,City of Pineland,Sabine,31.247013,-93.973945,4857644,Pineland city,census_gazetteer,9.81,11,11,5,5,1,45.5,False
+city-of-piney-point-village--harris,City of Piney Point Village,Harris,29.755939,-95.515551,4857800,Piney Point Village city,census_gazetteer,10.15,14,14,4,8,2,28.6,False
+city-of-pittsburg--camp,City of Pittsburg,Camp,32.9991,-94.96674,4857908,Pittsburg city,census_gazetteer,1.84,13,13,3,10,0,23.1,False
+city-of-plains--yoakum,City of Plains,Yoakum,33.188332,-102.82148,4857968,Plains town,census_gazetteer,1.9,9,9,4,4,1,44.4,False
+city-of-plainview--hale,City of Plainview,Hale,34.191118,-101.7235,4857980,Plainview city,census_gazetteer,10.21,20,20,8,11,1,40.0,False
+city-of-plano--collin-denton,City of Plano,"Collin, Denton",33.050769,-96.747944,4858016,Plano city,census_gazetteer,13.92,136,136,75,54,7,55.1,False
+city-of-plantersville--grimes,City of Plantersville,Grimes,30.334288,-95.86414,4858040,Plantersville city,census_gazetteer,16.22,7,7,4,3,0,57.1,True
+village-of-pleak--fort-bend,Village of Pleak,Fort Bend,29.474336,-95.802291,4858088,Pleak village,census_gazetteer,4.07,8,8,3,5,0,37.5,False
+town-of-pleasant-valley--wichita,Town of Pleasant Valley,Wichita,33.937649,-98.598072,4858400,Pleasant Valley town,census_gazetteer,7.21,9,9,0,7,2,0.0,False
+city-of-pleasanton--atascosa,City of Pleasanton,Atascosa,28.964036,-98.495963,4858280,Pleasanton city,census_gazetteer,5.56,20,20,4,14,2,20.0,False
+city-of-plum-grove--liberty,City of Plum Grove,Liberty,30.200807,-95.095582,4858448,Plum Grove city,census_gazetteer,14.38,10,10,6,4,0,60.0,True
+town-of-poetry--hunt-kaufman,Town of Poetry,"Hunt, Kaufman",32.862161,-96.277992,4858502,Poetry town,census_gazetteer,17.12,8,8,3,3,2,37.5,False
+city-of-point--rains,City of Point,Rains,32.937099,-95.863365,4858532,Point city,census_gazetteer,6.05,8,8,4,3,1,50.0,True
+city-of-point-blank--san-jacinto,City of Point Blank,San Jacinto,30.748277,-95.213682,4858556,Point Blank city,census_gazetteer,12.38,7,7,0,5,2,0.0,False
+city-of-point-comfort--calhoun,City of Point Comfort,Calhoun,28.668397,-96.556974,4858568,Point Comfort city,census_gazetteer,15.72,13,13,5,7,1,38.5,False
+village-of-point-venture--travis,Village of Point Venture,Travis,30.384099,-97.998172,4858586,Point Venture village,census_gazetteer,20.87,8,8,2,6,0,25.0,False
+town-of-ponder--denton,Town of Ponder,Denton,33.171822,-97.296051,4858664,Ponder town,census_gazetteer,10.37,17,17,3,11,3,17.6,False
+city-of-port-aransas--nueces,City of Port Aransas,Nueces,27.820898,-97.089193,4858808,Port Aransas city,census_gazetteer,26.7,27,27,14,10,3,51.9,True
+city-of-port-arthur--jefferson-orange,City of Port Arthur,"Jefferson, Orange",29.900008,-93.89442,4858820,Port Arthur city,census_gazetteer,15.07,67,67,34,26,7,50.7,True
+city-of-port-isabel--cameron,City of Port Isabel,Cameron,26.065827,-97.30985,4858892,Port Isabel city,census_gazetteer,10.8,24,24,9,12,3,37.5,False
+city-of-port-lavaca--calhoun,City of Port Lavaca,Calhoun,28.617967,-96.628288,4858916,Port Lavaca city,census_gazetteer,12.53,25,25,16,9,0,64.0,True
+city-of-port-neches--jefferson,City of Port Neches,Jefferson,29.960768,-93.96179,4858940,Port Neches city,census_gazetteer,13.44,20,20,7,12,1,35.0,False
+city-of-portland--san-patricio-nueces,City of Portland,"San Patricio, Nueces",27.889048,-97.331598,4858904,Portland city,census_gazetteer,14.15,35,35,13,19,3,37.1,False
+city-of-post--garza,City of Post,Garza,33.19091,-101.381519,4859012,Post city,census_gazetteer,4.67,14,14,9,5,0,64.3,False
+city-of-post-oak-bend--kaufman,City of Post Oak Bend,Kaufman,32.63688,-96.320702,4859065,Post Oak Bend city,census_gazetteer,2.44,7,7,2,4,1,28.6,False
+city-of-poteet--atascosa,City of Poteet,Atascosa,29.037994,-98.571359,4859084,Poteet city,census_gazetteer,10.35,16,16,9,6,1,56.2,True
+city-of-poth--wilson,City of Poth,Wilson,29.072069,-98.080562,4859096,Poth town,census_gazetteer,7.04,11,11,3,8,0,27.3,True
+city-of-pottsboro--grayson,City of Pottsboro,Grayson,33.77033,-96.671261,4859132,Pottsboro town,census_gazetteer,10.08,13,13,2,10,1,15.4,False
+city-of-powell--navarro,City of Powell,Navarro,32.109941,-96.321975,4859168,Powell town,census_gazetteer,10.14,4,4,0,4,0,0.0,False
+city-of-poynor--henderson,City of Poynor,Henderson,32.079342,-95.592373,4859192,Poynor town,census_gazetteer,17.83,10,10,1,6,3,10.0,False
+city-of-prairie-view--waller,City of Prairie View,Waller,30.085214,-95.988856,4859336,Prairie View city,census_gazetteer,4.96,13,13,6,5,2,46.2,False
+city-of-premont--jim-wells,City of Premont,Jim Wells,27.358516,-98.12443,4859384,Premont city,census_gazetteer,25.99,14,14,5,7,2,35.7,True
+city-of-presidio--presidio,City of Presidio,Presidio,29.560348,-104.365302,4859396,Presidio city,census_gazetteer,31.41,11,11,3,5,3,27.3,False
+city-of-primera--cameron,City of Primera,Cameron,26.223216,-97.751692,4859540,Primera town,census_gazetteer,18.85,16,16,7,9,0,43.8,True
+city-of-princeton--collin,City of Princeton,Collin,33.184474,-96.509393,4859576,Princeton city,census_gazetteer,4.11,29,28,17,11,0,60.7,False
+city-of-progreso--hidalgo,City of Progreso,Hidalgo,26.09614,-97.956592,4859636,Progreso city,census_gazetteer,25.01,13,13,3,10,0,23.1,True
+city-of-progreso-lakes--hidalgo,City of Progreso Lakes,Hidalgo,26.068976,-97.960665,4859642,Progreso Lakes city,census_gazetteer,26.47,8,8,3,5,0,37.5,False
+town-of-prosper--collin-denton,Town of Prosper,"Collin, Denton",33.240952,-96.80745,4859696,Prosper town,census_gazetteer,13.57,36,36,8,24,4,22.2,True
+town-of-providence-village--denton,Town of Providence Village,Denton,33.23722,-96.95554,4859748,Providence Village town,census_gazetteer,9.83,16,16,7,8,1,43.8,True
+city-of-putnam--callahan,City of Putnam,Callahan,32.37027,-99.195495,4859984,Putnam town,census_gazetteer,11.61,8,8,5,2,1,62.5,False
+city-of-pyote--ward,City of Pyote,Ward,31.538066,-103.122483,4859996,Pyote town,census_gazetteer,2.83,7,7,4,3,0,57.1,True
+city-of-quanah--hardeman,City of Quanah,Hardeman,34.295366,-99.742889,4860044,Quanah city,census_gazetteer,0.41,10,10,4,6,0,40.0,False
+city-of-queen-city--cass,City of Queen City,Cass,33.150196,-94.15323,4860080,Queen City city,census_gazetteer,12.69,11,11,3,7,1,27.3,False
+city-of-quinlan--hunt,City of Quinlan,Hunt,32.908974,-96.131296,4860140,Quinlan city,census_gazetteer,15.06,14,14,3,9,2,21.4,True
+town-of-quintana--brazoria,Town of Quintana,Brazoria,28.915211,-95.331991,4860164,Quintana town,census_gazetteer,18.52,9,9,3,6,0,33.3,False
+city-of-quitaque--briscoe,City of Quitaque,Briscoe,34.36741,-101.055598,4860176,Quitaque city,census_gazetteer,13.86,9,9,4,4,1,44.4,True
+city-of-quitman--wood,City of Quitman,Wood,32.794033,-95.44546,4860188,Quitman city,census_gazetteer,3.75,14,14,3,9,2,21.4,False
+city-of-ralls--crosby,City of Ralls,Crosby,33.678774,-101.384591,4860356,Ralls city,census_gazetteer,6.9,10,10,4,4,2,40.0,False
+town-of-rancho-viejo--cameron,Town of Rancho Viejo,Cameron,26.035784,-97.555372,4860544,Rancho Viejo town,census_gazetteer,6.63,10,10,2,8,0,20.0,False
+city-of-ranger--eastland,City of Ranger,Eastland,32.469491,-98.67574,4860632,Ranger city,census_gazetteer,13.72,13,13,5,7,1,38.5,True
+city-of-rangerville--cameron,City of Rangerville,Cameron,26.107445,-97.736637,4860644,Rangerville city,census_gazetteer,15.99,4,4,0,2,2,0.0,False
+city-of-rankin--upton,City of Rankin,Upton,31.22536,-101.939438,4860668,Rankin city,census_gazetteer,10.72,11,11,5,5,1,45.5,True
+town-of-ransom-canyon--lubbock,Town of Ransom Canyon,Lubbock,33.53043,-101.685364,4860672,Ransom Canyon town,census_gazetteer,9.56,13,13,5,5,3,38.5,False
+city-of-ravenna--fannin,City of Ravenna,Fannin,33.670474,-96.240886,4860752,Ravenna city,census_gazetteer,9.55,4,4,0,3,1,0.0,False
+city-of-raymondville--willacy,City of Raymondville,Willacy,26.475708,-97.777744,4860836,Raymondville city,census_gazetteer,11.33,13,13,3,9,1,23.1,False
+city-of-red-lick--bowie,City of Red Lick,Bowie,33.485081,-94.161474,4861172,Red Lick city,census_gazetteer,15.28,7,6,1,4,1,16.7,False
+city-of-red-oak--ellis,City of Red Oak,Ellis,32.50965,-96.783477,4861196,Red Oak city,census_gazetteer,11.27,27,27,7,18,2,25.9,False
+city-of-redwater--bowie,City of Redwater,Bowie,33.358722,-94.253693,4861340,Redwater city,census_gazetteer,11.45,9,9,4,3,2,44.4,False
+town-of-refugio--refugio,Town of Refugio,Refugio,28.307445,-97.274981,4861436,Refugio town,census_gazetteer,6.92,12,12,4,6,2,33.3,True
+city-of-reklaw--cherokee-rusk,City of Reklaw,"Cherokee, Rusk",31.86659,-94.981549,4861508,Reklaw city,census_gazetteer,10.38,8,7,3,4,0,42.9,False
+city-of-reno--parker-tarrant,City of Reno,"Parker, Tarrant",32.948835,-97.565987,4861604,Reno city,census_gazetteer,18.29,11,11,5,6,0,45.5,True
+city-of-reno--lamar,City of Reno,Lamar,33.666585,-95.479809,4861592,Reno city,census_gazetteer,5.21,13,13,4,7,2,30.8,False
+city-of-retreat--navarro,City of Retreat,Navarro,32.052251,-96.477284,4861616,Retreat town,census_gazetteer,0.62,7,7,2,5,0,28.6,False
+city-of-rhome--wise,City of Rhome,Wise,33.078895,-97.493199,4861700,Rhome city,census_gazetteer,13.71,14,14,5,8,1,35.7,True
+city-of-rice--navarro,City of Rice,Navarro,32.237511,-96.495612,4861736,Rice city,census_gazetteer,13.46,11,11,7,4,0,63.6,True
+city-of-richardson--dallas-collin,City of Richardson,"Dallas, Collin",32.972291,-96.708069,4861796,Richardson city,census_gazetteer,14.76,60,60,21,33,6,35.0,False
+city-of-richland--navarro,City of Richland,Navarro,31.924784,-96.423607,4861820,Richland town,census_gazetteer,8.76,6,6,2,4,0,33.3,False
+city-of-richland-hills--tarrant,City of Richland Hills,Tarrant,32.810238,-97.226516,4861844,Richland Hills city,census_gazetteer,4.59,16,16,7,9,0,43.8,False
+city-of-richland-springs--san-saba,City of Richland Springs,San Saba,31.271513,-98.948647,4861880,Richland Springs town,census_gazetteer,11.09,7,7,1,3,3,14.3,False
+city-of-richmond--fort-bend,City of Richmond,Fort Bend,29.579452,-95.757911,4861892,Richmond city,census_gazetteer,3.74,27,27,13,12,2,48.1,True
+city-of-richwood--brazoria,City of Richwood,Brazoria,29.062301,-95.401462,4861904,Richwood city,census_gazetteer,7.56,12,12,3,8,1,25.0,False
+city-of-riesel--mclennan,City of Riesel,McLennan,31.473861,-96.945142,4862108,Riesel city,census_gazetteer,15.99,10,10,4,6,0,40.0,False
+city-of-rio-bravo--webb,City of Rio Bravo,Webb,27.364717,-99.484526,4862138,Rio Bravo city,census_gazetteer,27.92,7,7,2,4,1,28.6,True
+city-of-rio-grande-city--starr,City of Rio Grande City,Starr,26.381001,-98.821481,4862168,Rio Grande City city,census_gazetteer,11.51,19,19,4,14,1,21.1,False
+city-of-rio-hondo--cameron,City of Rio Hondo,Cameron,26.234627,-97.581466,4862180,Rio Hondo city,census_gazetteer,11.1,11,11,4,7,0,36.4,False
+city-of-rio-vista--johnson,City of Rio Vista,Johnson,32.234803,-97.373067,4862240,Rio Vista city,census_gazetteer,10.02,11,10,6,4,0,60.0,False
+city-of-rising-star--eastland,City of Rising Star,Eastland,32.097634,-98.96652,4862252,Rising Star town,census_gazetteer,17.43,9,9,2,6,1,22.2,True
+city-of-river-oaks--tarrant,City of River Oaks,Tarrant,32.776578,-97.398359,4862384,River Oaks city,census_gazetteer,6.23,15,15,4,9,2,26.7,False
+city-of-riverside--walker,City of Riverside,Walker,30.848298,-95.398863,4862408,Riverside city,census_gazetteer,12.48,7,7,3,3,1,42.9,True
+town-of-road-runner--cooke,Town of Road Runner,Cooke,33.484322,-97.084783,4862486,Road Runner town,census_gazetteer,12.91,6,6,3,2,1,50.0,True
+city-of-roanoke--denton-tarrant,City of Roanoke,"Denton, Tarrant",33.014743,-97.229034,4862504,Roanoke city,census_gazetteer,14.56,37,37,13,18,6,35.1,True
+city-of-roaring-springs--motley,City of Roaring Springs,Motley,33.899183,-100.856142,4862528,Roaring Springs town,census_gazetteer,11.54,7,7,2,4,1,28.6,False
+city-of-robert-lee--coke,City of Robert Lee,Coke,31.895705,-100.485006,4862564,Robert Lee city,census_gazetteer,8.91,10,10,3,5,2,30.0,False
+city-of-robinson--mclennan,City of Robinson,McLennan,31.451487,-97.122876,4862588,Robinson city,census_gazetteer,8.28,27,27,10,14,3,37.0,False
+city-of-robstown--nueces,City of Robstown,Nueces,27.793972,-97.669162,4862600,Robstown city,census_gazetteer,10.06,22,21,9,11,1,42.9,True
+city-of-roby--fisher,City of Roby,Fisher,32.745995,-100.379367,4862612,Roby city,census_gazetteer,1.43,5,5,1,4,0,20.0,False
+city-of-rochester--haskell,City of Rochester,Haskell,33.314205,-99.856503,4862636,Rochester town,census_gazetteer,12.0,7,7,4,3,0,57.1,True
+city-of-rockdale--milam,City of Rockdale,Milam,30.655731,-97.008515,4862672,Rockdale city,census_gazetteer,9.47,17,17,6,9,2,35.3,False
+city-of-rockport--aransas,City of Rockport,Aransas,28.047778,-97.049877,4862804,Rockport city,census_gazetteer,7.21,27,26,15,8,3,57.7,False
+city-of-rocksprings--edwards,City of Rocksprings,Edwards,30.017078,-100.213296,4862816,Rocksprings town,census_gazetteer,6.03,10,10,2,7,1,20.0,True
+city-of-rockwall--rockwall,City of Rockwall,Rockwall,32.918056,-96.43805,4862828,Rockwall city,census_gazetteer,2.0,29,29,12,15,2,41.4,False
+city-of-rocky-mound--camp,City of Rocky Mound,Camp,33.0212,-95.017496,4862870,Rocky Mound town,census_gazetteer,3.92,8,8,3,3,2,37.5,False
+city-of-rogers--bell,City of Rogers,Bell,30.929209,-97.229744,4862924,Rogers town,census_gazetteer,16.57,14,14,5,7,2,35.7,False
+city-of-rollingwood--travis,City of Rollingwood,Travis,30.273605,-97.786825,4863008,Rollingwood city,census_gazetteer,6.18,17,17,7,7,3,41.2,True
+city-of-roma--starr,City of Roma,Starr,26.410781,-99.002152,4863020,Roma city,census_gazetteer,18.2,15,15,5,9,1,33.3,False
+city-of-roman-forest--montgomery,City of Roman Forest,Montgomery,30.181973,-95.152343,4863044,Roman Forest city,census_gazetteer,22.43,13,13,1,10,2,7.7,False
+city-of-ropesville--hockley,City of Ropesville,Hockley,33.413334,-102.155102,4863140,Ropesville city,census_gazetteer,17.17,8,8,2,5,1,25.0,True
+city-of-roscoe--nolan,City of Roscoe,Nolan,32.441934,-100.532231,4863176,Roscoe city,census_gazetteer,11.16,12,12,2,7,3,16.7,False
+city-of-rose-city--orange,City of Rose City,Orange,30.106435,-94.050276,4863200,Rose City city,census_gazetteer,9.47,9,9,5,4,0,55.6,True
+city-of-rose-hill-acres--hardin,City of Rose Hill Acres,Hardin,30.191719,-94.192118,4863272,Rose Hill Acres city,census_gazetteer,15.29,7,6,3,3,0,50.0,True
+city-of-rosebud--falls,City of Rosebud,Falls,31.075651,-96.974462,4863188,Rosebud city,census_gazetteer,12.41,14,14,6,6,2,42.9,True
+city-of-rosenberg--fort-bend,City of Rosenberg,Fort Bend,29.546716,-95.822955,4863284,Rosenberg city,census_gazetteer,3.42,31,31,10,18,3,32.3,False
+city-of-ross--mclennan,City of Ross,McLennan,31.727563,-97.112885,4863380,Ross city,census_gazetteer,13.24,8,8,1,7,0,12.5,False
+city-of-rosser--kaufman,City of Rosser,Kaufman,32.458337,-96.451867,4863404,Rosser village,census_gazetteer,14.4,8,8,3,3,2,37.5,False
+city-of-rotan--fisher,City of Rotan,Fisher,32.854047,-100.465519,4863464,Rotan city,census_gazetteer,8.64,14,14,4,9,1,28.6,False
+town-of-round-mountain--blanco,Town of Round Mountain,Blanco,30.394346,-98.361174,4863476,Round Mountain town,census_gazetteer,9.14,8,8,3,5,0,37.5,False
+city-of-round-rock--williamson-travis,City of Round Rock,"Williamson, Travis",30.526767,-97.660079,4863500,Round Rock city,census_gazetteer,9.06,75,75,33,33,9,44.0,True
+town-of-round-top--fayette,Town of Round Top,Fayette,30.06397,-96.695882,4863524,Round Top town,census_gazetteer,17.86,10,10,6,3,1,60.0,True
+city-of-rowlett--dallas-rockwall,City of Rowlett,"Dallas, Rockwall",32.915926,-96.548587,4863572,Rowlett city,census_gazetteer,8.03,32,32,13,14,5,40.6,False
+city-of-roxton--lamar,City of Roxton,Lamar,33.545577,-95.724885,4863584,Roxton city,census_gazetteer,12.24,8,8,3,3,2,37.5,False
+city-of-royse-city--rockwall-collin-hunt,City of Royse City,"Rockwall, Collin, Hunt",32.97268,-96.31834,4863668,Royse City city,census_gazetteer,7.41,25,25,10,13,2,40.0,True
+city-of-rule--haskell,City of Rule,Haskell,33.181941,-99.893272,4863752,Rule town,census_gazetteer,9.41,7,7,3,2,2,42.9,True
+city-of-runaway-bay--wise,City of Runaway Bay,Wise,33.191476,-97.857957,4863782,Runaway Bay city,census_gazetteer,11.41,11,11,4,6,1,36.4,True
+city-of-runge--karnes,City of Runge,Karnes,28.886277,-97.713067,4863788,Runge town,census_gazetteer,8.59,5,5,2,2,1,40.0,True
+city-of-rusk--cherokee,City of Rusk,Cherokee,31.797759,-95.148758,4863848,Rusk city,census_gazetteer,3.22,18,17,7,9,1,41.2,True
+city-of-sabinal--uvalde,City of Sabinal,Uvalde,29.321325,-99.469535,4864004,Sabinal city,census_gazetteer,18.11,17,17,10,6,1,58.8,False
+city-of-sachse--dallas-collin,City of Sachse,"Dallas, Collin",32.969015,-96.579507,4864064,Sachse city,census_gazetteer,15.58,29,29,8,18,3,27.6,False
+city-of-sadler--grayson,City of Sadler,Grayson,33.680058,-96.846896,4864088,Sadler city,census_gazetteer,10.56,8,7,3,2,2,42.9,True
+city-of-saginaw--tarrant,City of Saginaw,Tarrant,32.865677,-97.365675,4864112,Saginaw city,census_gazetteer,7.78,25,25,10,10,5,40.0,False
+city-of-saint-hedwig--bexar,City of Saint Hedwig,Bexar,29.420216,-98.206971,4864172,St. Hedwig town,census_gazetteer,18.95,11,11,4,7,0,36.4,False
+city-of-saint-jo--montague,City of Saint Jo,Montague,33.694054,-97.522058,4864184,Saint Jo city,census_gazetteer,11.72,12,12,3,8,1,25.0,False
+village-of-salado--bell,Village of Salado,Bell,30.948383,-97.528499,4864268,Salado village,census_gazetteer,6.77,11,11,3,8,0,27.3,False
+city-of-san-angelo--tom-green,City of San Angelo,Tom Green,31.441078,-100.450499,4864472,San Angelo city,census_gazetteer,3.14,45,45,17,26,2,37.8,False
+city-of-san-antonio--bexar-medina,City of San Antonio,"Bexar, Medina",29.459775,-98.524263,4865000,San Antonio city,census_gazetteer,0.81,161,161,94,55,12,58.4,True
+city-of-san-augustine--san-augustine,City of San Augustine,San Augustine,31.529899,-94.110894,4865024,San Augustine city,census_gazetteer,10.64,14,14,5,8,1,35.7,False
+city-of-san-benito--cameron,City of San Benito,Cameron,26.129398,-97.64405,4865036,San Benito city,census_gazetteer,10.4,22,22,8,14,0,36.4,False
+city-of-san-diego--duval-jim-wells,City of San Diego,"Duval, Jim Wells",27.760892,-98.238905,4865180,San Diego city,census_gazetteer,9.25,14,14,7,6,1,50.0,True
+city-of-san-elizario--el-paso,City of San Elizario,El Paso,31.578436,-106.262019,4865360,San Elizario city,census_gazetteer,12.75,15,15,5,8,2,33.3,False
+town-of-san-felipe--austin,Town of San Felipe,Austin,29.794557,-96.105867,4865372,San Felipe town,census_gazetteer,11.92,11,11,4,6,1,36.4,False
+city-of-san-juan--hidalgo,City of San Juan,Hidalgo,26.189385,-98.151806,4865516,San Juan city,census_gazetteer,14.6,33,33,11,22,0,33.3,False
+village-of-san-leanna--travis,Village of San Leanna,Travis,30.143995,-97.819368,4865552,San Leanna village,census_gazetteer,10.11,9,9,5,3,1,55.6,True
+city-of-san-marcos--hays-caldwell,City of San Marcos,"Hays, Caldwell",29.873334,-97.935737,4865600,San Marcos city,census_gazetteer,14.14,87,87,39,41,7,44.8,True
+city-of-san-patricio--san-patricio,City of San Patricio,San Patricio,27.984348,-97.770176,4865612,San Patricio city,census_gazetteer,15.55,8,8,5,2,1,62.5,True
+city-of-san-perlita--willacy,City of San Perlita,Willacy,26.500994,-97.639648,4865636,San Perlita city,census_gazetteer,3.08,4,4,1,2,1,25.0,False
+city-of-san-saba--san-saba,City of San Saba,San Saba,31.197446,-98.71937,4865648,San Saba city,census_gazetteer,6.59,19,19,5,11,3,26.3,False
+city-of-sanctuary--parker,City of Sanctuary,Parker,32.913158,-97.58767,4865066,Sanctuary town,census_gazetteer,15.78,8,8,2,5,1,25.0,False
+city-of-sandy-oaks--bexar,City of Sandy Oaks,Bexar,29.181719,-98.409159,4865344,Sandy Oaks city,census_gazetteer,19.62,12,12,4,7,1,33.3,True
+city-of-sandy-point--brazoria,City of Sandy Point,Brazoria,29.401256,-95.481732,4865345,Sandy Point city,census_gazetteer,16.38,5,5,1,4,0,20.0,False
+city-of-sanford--hutchinson,City of Sanford,Hutchinson,35.702624,-101.531771,4865384,Sanford town,census_gazetteer,13.27,8,8,3,5,0,37.5,False
+city-of-sanger--denton,City of Sanger,Denton,33.379576,-97.163775,4865408,Sanger city,census_gazetteer,12.3,21,21,10,9,2,47.6,False
+city-of-sansom-park--tarrant,City of Sansom Park,Tarrant,32.802763,-97.402083,4865660,Sansom Park city,census_gazetteer,6.78,11,11,4,7,0,36.4,True
+city-of-santa-anna--coleman,City of Santa Anna,Coleman,31.736914,-99.325425,4865672,Santa Anna town,census_gazetteer,12.31,11,11,3,7,1,27.3,False
+city-of-santa-clara--guadalupe,City of Santa Clara,Guadalupe,29.593067,-98.160635,4865690,Santa Clara city,census_gazetteer,12.74,8,8,2,5,1,25.0,False
+city-of-santa-fe--galveston,City of Santa Fe,Galveston,29.387565,-95.101543,4865726,Santa Fe city,census_gazetteer,16.63,18,18,6,11,1,33.3,False
+city-of-santa-rosa--cameron,City of Santa Rosa,Cameron,26.256054,-97.825255,4865768,Santa Rosa town,census_gazetteer,23.94,10,10,2,6,2,20.0,False
+city-of-savoy--fannin,City of Savoy,Fannin,33.59984,-96.366028,4866008,Savoy city,census_gazetteer,15.04,10,10,4,5,1,40.0,True
+city-of-schertz--guadalupe-comal-bexar,City of Schertz,"Guadalupe, Comal, Bexar",29.563372,-98.250848,4866128,Schertz city,census_gazetteer,17.21,56,56,28,25,3,50.0,False
+city-of-schulenburg--fayette,City of Schulenburg,Fayette,29.682,-96.907489,4866188,Schulenburg city,census_gazetteer,14.02,15,15,5,10,0,33.3,True
+city-of-scotland--archer,City of Scotland,Archer,33.647344,-98.468847,4866284,Scotland city,census_gazetteer,12.75,7,7,0,5,2,0.0,False
+city-of-scottsville--harrison,City of Scottsville,Harrison,32.540425,-94.239333,4866332,Scottsville city,census_gazetteer,7.89,8,8,3,4,1,37.5,False
+city-of-scurry--kaufman,City of Scurry,Kaufman,32.512771,-96.38427,4866368,Scurry town,census_gazetteer,8.98,7,7,1,6,0,14.3,False
+city-of-seabrook--harris-chambers-galveston,City of Seabrook,"Harris, Chambers, Galveston",29.593042,-94.993352,4866392,Seabrook city,census_gazetteer,20.72,29,29,17,12,0,58.6,False
+city-of-seadrift--calhoun,City of Seadrift,Calhoun,28.413239,-96.716722,4866416,Seadrift city,census_gazetteer,8.56,13,13,6,7,0,46.2,False
+city-of-seagoville--dallas-kaufman,City of Seagoville,"Dallas, Kaufman",32.653383,-96.545058,4866428,Seagoville city,census_gazetteer,15.19,23,23,8,12,3,34.8,False
+city-of-seagraves--gaines,City of Seagraves,Gaines,32.94199,-102.565725,4866440,Seagraves city,census_gazetteer,14.21,14,14,5,8,1,35.7,False
+city-of-sealy--austin,City of Sealy,Austin,29.764102,-96.162165,4866464,Sealy city,census_gazetteer,10.95,16,16,6,8,2,37.5,True
+city-of-seguin--guadalupe,City of Seguin,Guadalupe,29.590227,-97.968607,4866644,Seguin city,census_gazetteer,1.29,41,41,19,19,3,46.3,True
+city-of-selma--bexar-guadalupe-comal,City of Selma,"Bexar, Guadalupe, Comal",29.586474,-98.315286,4866704,Selma city,census_gazetteer,15.57,18,18,5,13,0,27.8,False
+city-of-seminole--gaines,City of Seminole,Gaines,32.722194,-102.649813,4866764,Seminole city,census_gazetteer,1.84,16,16,4,10,2,25.0,False
+city-of-seven-oaks--polk,City of Seven Oaks,Polk,30.851846,-94.857877,4866884,Seven Oaks city,census_gazetteer,4.81,7,7,3,0,4,42.9,True
+city-of-seven-points--henderson-kaufman,City of Seven Points,"Henderson, Kaufman",32.322205,-96.201919,4866908,Seven Points city,census_gazetteer,20.81,10,10,4,3,3,40.0,False
+city-of-seymour--baylor,City of Seymour,Baylor,33.595464,-99.258111,4866968,Seymour city,census_gazetteer,3.29,12,10,5,5,0,50.0,False
+town-of-shady-shores--denton,Town of Shady Shores,Denton,33.167214,-97.044404,4867100,Shady Shores town,census_gazetteer,5.15,13,13,6,6,1,46.2,True
+city-of-shallowater--lubbock,City of Shallowater,Lubbock,33.690077,-101.989265,4867136,Shallowater city,census_gazetteer,11.15,16,16,4,10,2,25.0,False
+city-of-shamrock--wheeler,City of Shamrock,Wheeler,35.215398,-100.246086,4867160,Shamrock city,census_gazetteer,12.25,12,12,3,7,2,25.0,False
+city-of-shavano-park--bexar,City of Shavano Park,Bexar,29.584448,-98.556179,4867268,Shavano Park city,census_gazetteer,9.63,16,16,3,12,1,18.8,False
+city-of-shenandoah--montgomery,City of Shenandoah,Montgomery,30.18401,-95.455624,4867400,Shenandoah city,census_gazetteer,8.42,23,23,4,14,5,17.4,False
+city-of-shepherd--san-jacinto,City of Shepherd,San Jacinto,30.486455,-95.004026,4867424,Shepherd city,census_gazetteer,11.25,10,10,3,6,1,30.0,False
+city-of-sherman--grayson,City of Sherman,Grayson,33.628505,-96.625978,4867496,Sherman city,census_gazetteer,2.88,43,43,14,25,4,32.6,False
+city-of-shiner--lavaca,City of Shiner,Lavaca,29.433658,-97.173611,4867640,Shiner city,census_gazetteer,15.45,12,12,2,10,0,16.7,False
+city-of-silsbee--hardin,City of Silsbee,Hardin,30.345491,-94.176787,4867832,Silsbee city,census_gazetteer,12.91,16,16,4,9,3,25.0,False
+city-of-silverton--briscoe,City of Silverton,Briscoe,34.471372,-101.304049,4867904,Silverton city,census_gazetteer,6.71,10,10,3,6,1,30.0,False
+city-of-simonton--fort-bend,City of Simonton,Fort Bend,29.676603,-95.973393,4867964,Simonton city,census_gazetteer,15.98,9,9,4,5,0,44.4,False
+city-of-sinton--san-patricio,City of Sinton,San Patricio,28.037188,-97.501457,4868036,Sinton city,census_gazetteer,2.0,13,13,7,6,0,53.8,True
+town-of-skellytown--carson,Town of Skellytown,Carson,35.571018,-101.173044,4868120,Skellytown town,census_gazetteer,15.36,10,10,4,6,0,40.0,True
+city-of-slaton--lubbock,City of Slaton,Lubbock,33.445472,-101.650919,4868180,Slaton city,census_gazetteer,15.04,13,13,3,10,0,23.1,False
+city-of-smiley--gonzales,City of Smiley,Gonzales,29.271292,-97.637551,4868300,Smiley city,census_gazetteer,15.94,11,11,7,3,1,63.6,True
+city-of-smithville--bastrop,City of Smithville,Bastrop,30.00883,-97.151865,4868456,Smithville city,census_gazetteer,11.42,21,21,10,8,3,47.6,True
+city-of-smyer--hockley,City of Smyer,Hockley,33.587382,-102.163501,4868504,Smyer town,census_gazetteer,10.43,8,8,3,4,1,37.5,True
+city-of-snook--burleson,City of Snook,Burleson,30.491026,-96.472468,4868576,Snook city,census_gazetteer,8.91,11,11,2,9,0,18.2,True
+city-of-snyder--scurry,City of Snyder,Scurry,32.713561,-100.911902,4868624,Snyder city,census_gazetteer,2.13,21,21,7,10,4,33.3,True
+city-of-socorro--el-paso,City of Socorro,El Paso,31.638491,-106.25744,4868636,Socorro city,census_gazetteer,8.6,26,26,16,10,0,61.5,True
+city-of-somerset--bexar,City of Somerset,Bexar,29.228612,-98.65685,4868708,Somerset city,census_gazetteer,17.29,13,13,5,8,0,38.5,True
+city-of-somerville--burleson,City of Somerville,Burleson,30.345438,-96.530948,4868720,Somerville city,census_gazetteer,11.58,13,13,5,8,0,38.5,False
+city-of-sonora--sutton,City of Sonora,Sutton,30.570654,-100.641767,4868756,Sonora city,census_gazetteer,8.34,13,13,6,6,1,46.2,True
+city-of-sour-lake--hardin,City of Sour Lake,Hardin,30.137746,-94.404277,4868828,Sour Lake city,census_gazetteer,13.27,13,13,5,8,0,38.5,False
+city-of-south-frydek--austin,City of South Frydek,Austin,29.735151,-96.076937,4868978,South Frydek city,census_gazetteer,15.86,4,4,1,3,0,25.0,False
+city-of-south-houston--harris,City of South Houston,Harris,29.661024,-95.228361,4869020,South Houston city,census_gazetteer,16.78,17,17,6,9,2,35.3,False
+city-of-south-mountain--coryell,City of South Mountain,Coryell,31.439827,-97.679265,4869120,South Mountain town,census_gazetteer,7.77,6,4,1,3,0,25.0,False
+city-of-south-padre-island--cameron,City of South Padre Island,Cameron,26.120459,-97.170776,4869140,South Padre Island town,census_gazetteer,19.16,29,29,15,10,4,51.7,False
+city-of-southlake--tarrant-denton,City of Southlake,"Tarrant, Denton",32.954493,-97.148867,4869032,Southlake city,census_gazetteer,15.07,32,32,11,14,7,34.4,False
+city-of-southmayd--grayson,City of Southmayd,Grayson,33.623061,-96.708206,4869104,Southmayd city,census_gazetteer,1.87,10,10,4,6,0,40.0,True
+city-of-southside-place--harris,City of Southside Place,Harris,29.708686,-95.435483,4869272,Southside Place city,census_gazetteer,10.58,14,14,4,9,1,28.6,False
+city-of-spearman--hansford,City of Spearman,Hansford,36.198182,-101.194343,4869476,Spearman city,census_gazetteer,10.43,11,11,1,7,3,9.1,False
+city-of-splendora--montgomery,City of Splendora,Montgomery,30.22916,-95.159639,4869548,Splendora city,census_gazetteer,21.05,12,12,4,8,0,33.3,True
+city-of-spofford--kinney,City of Spofford,Kinney,29.173124,-100.411255,4869560,Spofford city,census_gazetteer,12.03,7,7,3,3,1,42.9,False
+city-of-spring-branch--comal,City of Spring Branch,Comal,29.876313,-98.408543,4869608,Spring Branch city,census_gazetteer,10.04,5,5,1,4,0,20.0,False
+city-of-spring-valley-village--harris,City of Spring Valley Village,Harris,29.789761,-95.504026,4869830,Spring Valley Village city,census_gazetteer,8.13,16,16,5,10,1,31.2,False
+town-of-springlake--lamb,Town of Springlake,Lamb,34.231621,-102.305734,4869764,Springlake town,census_gazetteer,11.5,8,7,1,6,0,14.3,False
+city-of-springtown--parker,City of Springtown,Parker,32.9693,-97.680424,4869800,Springtown city,census_gazetteer,15.15,18,18,8,9,1,44.4,False
+city-of-spur--dickens,City of Spur,Dickens,33.476582,-100.850215,4869848,Spur city,census_gazetteer,10.24,11,11,5,5,1,45.5,True
+town-of-st-paul--collin,Town of St. Paul,Collin,33.047486,-96.553391,4864220,St. Paul town,census_gazetteer,10.27,9,9,2,6,1,22.2,False
+city-of-stafford--fort-bend-harris,City of Stafford,"Fort Bend, Harris",29.623924,-95.567088,4869908,Stafford city,census_gazetteer,13.98,20,20,9,10,1,45.0,False
+city-of-stagecoach--montgomery,City of Stagecoach,Montgomery,30.141762,-95.700123,4869932,Stagecoach town,census_gazetteer,16.01,9,9,1,7,1,11.1,False
+city-of-stamford--jones-haskell,City of Stamford,"Jones, Haskell",33.046193,-99.597021,4869980,Stamford city,census_gazetteer,11.85,12,12,5,6,1,41.7,False
+city-of-stanton--martin,City of Stanton,Martin,32.131695,-101.792457,4870040,Stanton city,census_gazetteer,15.8,13,13,4,6,3,30.8,True
+city-of-staples--guadalupe,City of Staples,Guadalupe,29.762236,-97.824436,4870052,Staples city,census_gazetteer,14.49,7,7,4,3,0,57.1,True
+city-of-star-harbor--henderson,City of Star Harbor,Henderson,32.19305,-96.057035,4870076,Star Harbor city,census_gazetteer,11.98,7,7,1,5,1,14.3,False
+city-of-starbase--cameron,City of Starbase,Cameron,25.975196,-97.197805,4870070,Starbase city,census_gazetteer,19.56,7,7,3,3,1,42.9,False
+city-of-stephenville--erath,City of Stephenville,Erath,32.214544,-98.219885,4870208,Stephenville city,census_gazetteer,1.5,27,27,9,16,2,33.3,False
+city-of-sterling-city--sterling,City of Sterling City,Sterling,31.839175,-100.985878,4870232,Sterling City city,census_gazetteer,4.35,10,10,4,4,2,40.0,False
+city-of-stinnett--hutchinson,City of Stinnett,Hutchinson,35.823092,-101.44362,4870340,Stinnett city,census_gazetteer,4.63,12,12,5,6,1,41.7,False
+city-of-stockdale--wilson,City of Stockdale,Wilson,29.235974,-97.963888,4870376,Stockdale city,census_gazetteer,8.56,10,10,1,9,0,10.0,False
+city-of-stockton-bend--hood,City of Stockton Bend,Hood,32.476412,-97.763354,4870406,Stockton Bend city,census_gazetteer,5.11,8,8,0,8,0,0.0,False
+city-of-stratford--sherman,City of Stratford,Sherman,36.337568,-102.07603,4870544,Stratford city,census_gazetteer,10.65,13,12,5,7,0,41.7,False
+city-of-strawn--palo-pinto,City of Strawn,Palo Pinto,32.550793,-98.498077,4870580,Strawn city,census_gazetteer,17.42,13,13,5,7,1,38.5,False
+city-of-streetman--freestone-navarro,City of Streetman,"Freestone, Navarro",31.881835,-96.33257,4870604,Streetman town,census_gazetteer,13.99,6,6,4,1,1,66.7,True
+city-of-sudan--lamb,City of Sudan,Lamb,34.066414,-102.524194,4870772,Sudan city,census_gazetteer,10.08,14,14,4,9,1,28.6,False
+city-of-sugar-land--fort-bend,City of Sugar Land,Fort Bend,29.595555,-95.631159,4870808,Sugar Land city,census_gazetteer,9.66,88,88,45,27,16,51.1,True
+city-of-sullivan-city--hidalgo,City of Sullivan City,Hidalgo,26.275217,-98.564441,4870868,Sullivan City city,census_gazetteer,25.5,13,13,4,7,2,30.8,True
+city-of-sulphur-springs--hopkins,City of Sulphur Springs,Hopkins,33.131347,-95.594921,4870904,Sulphur Springs city,census_gazetteer,2.1,25,25,6,16,3,24.0,False
+city-of-sun-valley--lamar,City of Sun Valley,Lamar,33.670565,-95.428715,4871356,Sun Valley city,census_gazetteer,8.15,8,6,4,2,0,66.7,False
+city-of-sundown--hockley,City of Sundown,Hockley,33.457545,-102.490809,4871060,Sundown city,census_gazetteer,13.31,12,12,2,8,2,16.7,False
+town-of-sunnyvale--dallas,Town of Sunnyvale,Dallas,32.7988,-96.558482,4871156,Sunnyvale town,census_gazetteer,12.96,21,21,8,10,3,38.1,False
+city-of-sunray--moore,City of Sunray,Moore,36.018383,-101.824511,4871180,Sunray city,census_gazetteer,13.15,12,12,3,7,2,25.0,False
+city-of-sunrise-beach-village--llano,City of Sunrise Beach Village,Llano,30.586012,-98.418768,4871228,Sunrise Beach Village city,census_gazetteer,17.9,13,13,7,6,0,53.8,True
+city-of-sunset-valley--travis,City of Sunset Valley,Travis,30.225834,-97.815758,4871324,Sunset Valley city,census_gazetteer,7.5,15,15,5,9,1,33.3,False
+village-of-surfside-beach--brazoria,Village of Surfside Beach,Brazoria,28.955679,-95.283249,4871384,Surfside Beach city,census_gazetteer,17.28,12,12,6,6,0,50.0,True
+city-of-sweeny--brazoria,City of Sweeny,Brazoria,29.046373,-95.698548,4871492,Sweeny city,census_gazetteer,18.01,14,14,3,6,5,21.4,False
+city-of-sweetwater--nolan,City of Sweetwater,Nolan,32.469389,-100.408651,4871540,Sweetwater city,census_gazetteer,10.87,18,18,8,8,2,44.4,False
+city-of-taft--san-patricio,City of Taft,San Patricio,27.980038,-97.392827,4871684,Taft city,census_gazetteer,7.9,14,14,6,6,2,42.9,True
+city-of-tahoka--lynn,City of Tahoka,Lynn,33.163393,-101.794848,4871708,Tahoka city,census_gazetteer,1.72,19,19,7,11,1,36.8,False
+city-of-talco--titus,City of Talco,Titus,33.362882,-95.102269,4871732,Talco city,census_gazetteer,12.87,6,6,0,5,1,0.0,False
+city-of-talty--kaufman,City of Talty,Kaufman,32.694439,-96.400763,4871756,Talty city,census_gazetteer,8.57,12,12,5,7,0,41.7,False
+city-of-tatum--rusk-panola,City of Tatum,"Rusk, Panola",32.315847,-94.518858,4871924,Tatum city,census_gazetteer,16.31,11,10,2,6,2,20.0,False
+city-of-taylor--williamson,City of Taylor,Williamson,30.57203,-97.43038,4871948,Taylor city,census_gazetteer,11.67,31,31,12,15,4,38.7,False
+city-of-taylor-lake-village--harris,City of Taylor Lake Village,Harris,29.573837,-95.055422,4871960,Taylor Lake Village city,census_gazetteer,28.18,12,12,2,7,3,16.7,False
+city-of-taylor-landing--jefferson,City of Taylor Landing,Jefferson,29.866412,-94.129171,4871966,Taylor Landing city,census_gazetteer,1.48,5,5,2,3,0,40.0,False
+city-of-teague--freestone,City of Teague,Freestone,31.629487,-96.280818,4872020,Teague city,census_gazetteer,9.42,15,15,7,8,0,46.7,False
+city-of-tehuacana--limestone,City of Tehuacana,Limestone,31.743177,-96.540199,4872080,Tehuacana town,census_gazetteer,13.88,10,10,3,5,2,30.0,False
+city-of-temple--bell,City of Temple,Bell,31.104936,-97.388512,4872176,Temple city,census_gazetteer,7.15,63,63,38,14,11,60.3,True
+city-of-tenaha--shelby,City of Tenaha,Shelby,31.943709,-94.245706,4872188,Tenaha town,census_gazetteer,12.22,10,10,4,4,2,40.0,False
+city-of-terrell--kaufman,City of Terrell,Kaufman,32.73568,-96.28249,4872284,Terrell city,census_gazetteer,8.38,29,29,11,12,6,37.9,True
+city-of-terrell-hills--bexar,City of Terrell Hills,Bexar,29.477084,-98.447196,4872296,Terrell Hills city,census_gazetteer,4.81,12,12,4,8,0,33.3,True
+city-of-texarkana--bowie,City of Texarkana,Bowie,33.449204,-94.085008,4872368,Texarkana city,census_gazetteer,19.45,34,34,13,14,7,38.2,False
+city-of-texas-city--galveston,City of Texas City,Galveston,29.424942,-94.890026,4872392,Texas City city,census_gazetteer,13.11,29,29,9,12,8,31.0,False
+city-of-texhoma--sherman,City of Texhoma,Sherman,36.493701,-101.793765,4872464,Texhoma city,census_gazetteer,15.98,8,8,3,5,0,37.5,False
+city-of-texline--dallam,City of Texline,Dallam,36.376494,-103.018876,4872476,Texline town,census_gazetteer,24.45,12,12,6,6,0,50.0,False
+city-of-the-colony--denton,City of The Colony,Denton,33.089598,-96.903368,4872530,The Colony city,census_gazetteer,14.91,41,41,13,23,5,31.7,False
+village-of-the-hills--travis,Village of The Hills,Travis,30.34648,-97.986446,4872578,The Hills village,census_gazetteer,19.11,8,8,4,3,1,50.0,True
+town-of-thompsons--fort-bend,Town of Thompsons,Fort Bend,29.482885,-95.634923,4872740,Thompsons town,census_gazetteer,8.72,9,9,2,7,0,22.2,True
+city-of-thorndale--milam-williamson,City of Thorndale,"Milam, Williamson",30.614023,-97.206487,4872776,Thorndale city,census_gazetteer,18.0,12,12,1,10,1,8.3,False
+city-of-thornton--limestone,City of Thornton,Limestone,31.409957,-96.573614,4872788,Thornton town,census_gazetteer,9.58,10,10,6,3,1,60.0,False
+town-of-thorntonville--ward,Town of Thorntonville,Ward,31.578927,-102.922073,4872800,Thorntonville town,census_gazetteer,11.58,7,7,2,4,1,28.6,False
+city-of-thrall--williamson,City of Thrall,Williamson,30.588154,-97.297728,4872824,Thrall city,census_gazetteer,18.75,7,7,3,4,0,42.9,False
+city-of-three-rivers--live-oak,City of Three Rivers,Live Oak,28.466853,-98.177947,4872872,Three Rivers city,census_gazetteer,8.55,13,13,6,7,0,46.2,True
+city-of-throckmorton--throckmorton,City of Throckmorton,Throckmorton,33.182071,-99.179771,4872896,Throckmorton town,census_gazetteer,1.7,9,8,3,5,0,37.5,True
+village-of-tiki-island--galveston,Village of Tiki Island,Galveston,29.298245,-94.915325,4872989,Tiki Island village,census_gazetteer,4.66,12,12,3,9,0,25.0,False
+village-of-timbercreek-canyon--randall,Village of Timbercreek Canyon,Randall,35.05345,-101.818418,4873030,Timbercreek Canyon village,census_gazetteer,7.65,14,14,6,7,1,42.9,True
+city-of-timpson--shelby,City of Timpson,Shelby,31.906912,-94.397056,4873076,Timpson city,census_gazetteer,16.98,11,11,4,5,2,36.4,False
+city-of-tioga--grayson,City of Tioga,Grayson,33.472108,-96.915704,4873112,Tioga town,census_gazetteer,17.37,12,12,3,9,0,25.0,False
+city-of-tira--hopkins,City of Tira,Hopkins,33.329101,-95.536066,4873124,Tira town,census_gazetteer,12.56,9,9,4,3,2,44.4,False
+city-of-toco--lamar,City of Toco,Lamar,33.653889,-95.649495,4873196,Toco city,census_gazetteer,4.64,6,4,3,1,0,75.0,False
+city-of-todd-mission--grimes,City of Todd Mission,Grimes,30.260944,-95.829997,4873224,Todd Mission city,census_gazetteer,21.66,9,9,2,7,0,22.2,False
+city-of-tolar--hood,City of Tolar,Hood,32.390005,-97.920098,4873268,Tolar city,census_gazetteer,5.86,9,9,1,8,0,11.1,False
+city-of-tom-bean--grayson,City of Tom Bean,Grayson,33.520296,-96.484218,4873328,Tom Bean city,census_gazetteer,13.17,13,13,6,6,1,46.2,False
+city-of-tomball--harris-montgomery,City of Tomball,"Harris, Montgomery",30.095078,-95.619678,4873316,Tomball city,census_gazetteer,15.71,37,37,15,15,7,40.5,True
+city-of-tool--henderson,City of Tool,Henderson,32.280299,-96.17286,4873352,Tool city,census_gazetteer,19.25,14,14,4,9,1,28.6,True
+city-of-toyah--reeves,City of Toyah,Reeves,31.312498,-103.794612,4873496,Toyah town,census_gazetteer,4.84,7,6,5,1,0,83.3,True
+city-of-trent--taylor,City of Trent,Taylor,32.48841,-100.123336,4873580,Trent town,census_gazetteer,18.96,9,9,3,5,1,33.3,True
+city-of-trenton--fannin,City of Trenton,Fannin,33.426257,-96.344594,4873592,Trenton city,census_gazetteer,17.9,13,13,1,9,3,7.7,False
+city-of-trinidad--henderson,City of Trinidad,Henderson,32.160015,-96.109524,4873652,Trinidad city,census_gazetteer,15.41,13,13,6,6,1,46.2,True
+city-of-trinity--trinity,City of Trinity,Trinity,30.944452,-95.373563,4873664,Trinity city,census_gazetteer,16.83,11,11,1,8,2,9.1,False
+town-of-trophy-club--denton-tarrant,Town of Trophy Club,"Denton, Tarrant",32.992522,-97.172964,4873710,Trophy Club town,census_gazetteer,14.99,22,22,9,11,2,40.9,True
+city-of-troup--smith-cherokee,City of Troup,"Smith, Cherokee",32.145812,-95.12256,4873724,Troup city,census_gazetteer,17.92,15,15,6,7,2,40.0,True
+city-of-troy--bell,City of Troy,Bell,31.193975,-97.300295,4873748,Troy city,census_gazetteer,15.17,12,12,3,8,1,25.0,True
+city-of-tulia--swisher,City of Tulia,Swisher,34.537864,-101.774434,4873868,Tulia city,census_gazetteer,1.91,14,14,3,9,2,21.4,False
+city-of-turkey--hall,City of Turkey,Hall,34.393922,-100.895302,4873964,Turkey city,census_gazetteer,18.63,8,8,4,4,0,50.0,True
+city-of-tuscola--taylor,City of Tuscola,Taylor,32.21156,-99.798256,4874048,Tuscola city,census_gazetteer,8.0,9,8,3,4,1,37.5,False
+city-of-tye--taylor,City of Tye,Taylor,32.452233,-99.866585,4874132,Tye city,census_gazetteer,10.81,12,12,3,6,3,25.0,False
+city-of-tyler--smith,City of Tyler,Smith,32.317334,-95.306399,4874144,Tyler city,census_gazetteer,4.47,58,58,28,23,7,48.3,False
+city-of-uhland--caldwell-hays,City of Uhland,"Caldwell, Hays",29.964651,-97.786573,4874216,Uhland city,census_gazetteer,13.17,8,8,3,4,1,37.5,False
+city-of-uncertain--harrison,City of Uncertain,Harrison,32.69967,-94.135574,4874240,Uncertain city,census_gazetteer,17.41,7,7,6,1,0,85.7,True
+city-of-union-grove--upshur,City of Union Grove,Upshur,32.574983,-94.915088,4874312,Union Grove city,census_gazetteer,11.18,4,2,1,0,1,50.0,True
+city-of-union-valley--hunt,City of Union Valley,Hunt,32.946775,-96.241887,4874372,Union Valley city,census_gazetteer,15.24,6,6,2,2,2,33.3,True
+city-of-universal-city--bexar,City of Universal City,Bexar,29.552,-98.307577,4874408,Universal City city,census_gazetteer,14.64,35,35,15,18,2,42.9,True
+city-of-university-park--dallas,City of University Park,Dallas,32.848624,-96.79525,4874492,University Park city,census_gazetteer,5.72,34,34,15,15,4,44.1,False
+city-of-uvalde--uvalde,City of Uvalde,Uvalde,29.215184,-99.777215,4874588,Uvalde city,census_gazetteer,9.35,25,25,12,13,0,48.0,False
+city-of-valentine--jeff-davis,City of Valentine,Jeff Davis,30.588611,-104.495314,4874648,Valentine town,census_gazetteer,18.34,5,5,2,3,0,40.0,True
+city-of-valley-mills--bosque-mclennan,City of Valley Mills,"Bosque, McLennan",31.657218,-97.472484,4874732,Valley Mills city,census_gazetteer,17.58,12,12,3,8,1,25.0,False
+city-of-valley-view--cooke,City of Valley View,Cooke,33.477446,-97.15698,4874756,Valley View city,census_gazetteer,11.59,13,12,5,3,4,41.7,False
+city-of-van--van-zandt,City of Van,Van Zandt,32.523868,-95.63758,4874912,Van city,census_gazetteer,11.86,13,13,2,8,3,15.4,False
+city-of-van-alstyne--grayson,City of Van Alstyne,Grayson,33.421688,-96.583202,4874924,Van Alstyne city,census_gazetteer,15.0,21,21,7,9,5,33.3,False
+town-of-van-horn--culberson,Town of Van Horn,Culberson,31.04067,-104.834156,4875032,Van Horn town,census_gazetteer,33.37,12,12,4,7,1,33.3,False
+city-of-vega--oldham,City of Vega,Oldham,35.245302,-102.429247,4875188,Vega city,census_gazetteer,14.39,12,12,5,7,0,41.7,False
+city-of-venus--johnson-ellis,City of Venus,"Johnson, Ellis",32.405247,-97.104448,4875236,Venus city,census_gazetteer,15.3,12,12,5,6,1,41.7,True
+city-of-vernon--wilbarger,City of Vernon,Wilbarger,34.147664,-99.300427,4875308,Vernon city,census_gazetteer,5.46,16,16,6,7,3,37.5,True
+city-of-victoria--victoria,City of Victoria,Victoria,28.828528,-96.986015,4875428,Victoria city,census_gazetteer,2.4,49,49,26,20,3,53.1,False
+city-of-vidor--orange,City of Vidor,Orange,30.128139,-93.991733,4875476,Vidor city,census_gazetteer,5.98,14,14,7,6,1,50.0,True
+village-of-vinton--el-paso,Village of Vinton,El Paso,31.959455,-106.593517,4875668,Vinton village,census_gazetteer,24.75,14,14,7,6,1,50.0,True
+village-of-volente--travis,Village of Volente,Travis,30.445334,-97.907909,4875752,Volente village,census_gazetteer,19.22,9,9,3,5,1,33.3,False
+city-of-von-ormy--bexar,City of Von Ormy,Bexar,29.277391,-98.657373,4875764,Von Ormy city,census_gazetteer,14.43,5,5,1,4,0,20.0,False
+city-of-waco--mclennan,City of Waco,McLennan,31.557886,-97.190841,4876000,Waco city,census_gazetteer,0.75,79,79,45,26,8,57.0,False
+city-of-waelder--gonzales,City of Waelder,Gonzales,29.694496,-97.297848,4876024,Waelder city,census_gazetteer,19.74,13,13,7,6,0,53.8,True
+city-of-wake-village--bowie,City of Wake Village,Bowie,33.423839,-94.126966,4876096,Wake Village city,census_gazetteer,17.1,13,13,1,10,2,7.7,False
+city-of-waller--waller-harris,City of Waller,"Waller, Harris",30.06971,-95.927721,4876228,Waller city,census_gazetteer,5.06,13,13,5,8,0,38.5,False
+city-of-wallis--austin,City of Wallis,Austin,29.632021,-96.063517,4876240,Wallis city,census_gazetteer,21.82,10,10,5,5,0,50.0,False
+city-of-walnut-springs--bosque,City of Walnut Springs,Bosque,32.056979,-97.750568,4876348,Walnut Springs city,census_gazetteer,12.59,9,9,5,4,0,55.6,False
+city-of-warren-city--gregg-upshur,City of Warren City,"Gregg, Upshur",32.551254,-94.904911,4876576,Warren City city,census_gazetteer,6.84,9,8,2,6,0,25.0,False
+city-of-waskom--harrison,City of Waskom,Harrison,32.47663,-94.064559,4876636,Waskom city,census_gazetteer,18.72,12,12,3,8,1,25.0,False
+city-of-watauga--tarrant,City of Watauga,Tarrant,32.871799,-97.251488,4876672,Watauga city,census_gazetteer,7.26,30,30,11,15,4,36.7,False
+city-of-waxahachie--ellis,City of Waxahachie,Ellis,32.40248,-96.844493,4876816,Waxahachie city,census_gazetteer,4.74,40,40,18,16,6,45.0,False
+city-of-weatherford--parker,City of Weatherford,Parker,32.755397,-97.765731,4876864,Weatherford city,census_gazetteer,2.77,25,25,7,18,0,28.0,False
+village-of-webberville--travis,Village of Webberville,Travis,30.226071,-97.499593,4876924,Webberville village,census_gazetteer,11.47,4,4,1,3,0,25.0,False
+city-of-webster--harris,City of Webster,Harris,29.532323,-95.116485,4876948,Webster city,census_gazetteer,27.92,28,28,14,10,4,50.0,True
+city-of-weimar--colorado,City of Weimar,Colorado,29.70005,-96.777251,4877020,Weimar city,census_gazetteer,17.65,17,17,7,8,2,41.2,True
+city-of-weinert--haskell,City of Weinert,Haskell,33.3234,-99.673674,4877044,Weinert city,census_gazetteer,10.71,7,7,2,4,1,28.6,False
+city-of-weir--williamson,City of Weir,Williamson,30.676717,-97.59107,4877056,Weir city,census_gazetteer,2.08,9,9,1,7,1,11.1,False
+city-of-wellington--collingsworth,City of Wellington,Collingsworth,34.853813,-100.213982,4877152,Wellington city,census_gazetteer,8.36,9,9,2,7,0,22.2,False
+city-of-wellman--terry,City of Wellman,Terry,33.046934,-102.427495,4877164,Wellman city,census_gazetteer,9.99,8,8,2,5,1,25.0,False
+city-of-wells--cherokee,City of Wells,Cherokee,31.491559,-94.947319,4877176,Wells town,census_gazetteer,27.27,9,9,2,7,0,22.2,False
+city-of-weslaco--hidalgo,City of Weslaco,Hidalgo,26.160549,-97.987654,4877272,Weslaco city,census_gazetteer,20.24,44,44,16,24,4,36.4,False
+city-of-west--mclennan,City of West,McLennan,31.80311,-97.094614,4877332,West city,census_gazetteer,18.5,16,16,2,8,6,12.5,False
+city-of-west-columbia--brazoria,City of West Columbia,Brazoria,29.141926,-95.649452,4877416,West Columbia city,census_gazetteer,13.08,10,10,5,4,1,50.0,True
+city-of-west-lake-hills--travis,City of West Lake Hills,Travis,30.291636,-97.814164,4877632,West Lake Hills city,census_gazetteer,8.18,15,15,8,5,2,53.3,False
+city-of-west-orange--orange,City of West Orange,Orange,30.079272,-93.760109,4877752,West Orange city,census_gazetteer,8.35,14,14,4,10,0,28.6,True
+city-of-west-tawakoni--hunt,City of West Tawakoni,Hunt,32.899428,-96.035789,4877896,West Tawakoni city,census_gazetteer,15.72,10,10,1,5,4,10.0,False
+city-of-west-university-place--harris,City of West University Place,Harris,29.715442,-95.431628,4877956,West University Place city,census_gazetteer,10.07,26,26,11,15,0,42.3,True
+city-of-westbrook--mitchell,City of Westbrook,Mitchell,32.357073,-101.013259,4877380,Westbrook city,census_gazetteer,6.35,6,6,1,4,1,16.7,False
+town-of-westlake--tarrant-denton,Town of Westlake,"Tarrant, Denton",32.985218,-97.203687,4877620,Westlake town,census_gazetteer,15.58,23,23,9,11,3,39.1,False
+city-of-weston--collin,City of Weston,Collin,33.330038,-96.665863,4877740,Weston city,census_gazetteer,10.61,7,7,2,4,1,28.6,False
+city-of-weston-lakes--fort-bend,City of Weston Lakes,Fort Bend,29.657316,-95.931016,4877746,Weston Lakes city,census_gazetteer,13.19,9,9,4,5,0,44.4,False
+town-of-westover-hills--tarrant,Town of Westover Hills,Tarrant,32.743658,-97.41227,4877788,Westover Hills town,census_gazetteer,7.3,11,11,1,8,2,9.1,False
+city-of-westworth-village--tarrant,City of Westworth Village,Tarrant,32.761945,-97.423257,4878076,Westworth Village city,census_gazetteer,7.7,12,12,3,7,2,25.0,False
+city-of-wharton--wharton,City of Wharton,Wharton,29.317601,-96.102279,4878136,Wharton city,census_gazetteer,8.14,20,20,7,9,4,35.0,False
+city-of-wheeler--wheeler,City of Wheeler,Wheeler,35.441115,-100.275228,4878208,Wheeler city,census_gazetteer,3.57,14,14,6,5,3,42.9,False
+city-of-white-deer--carson,City of White Deer,Carson,35.433397,-101.175846,4878316,White Deer town,census_gazetteer,10.29,10,10,4,4,2,40.0,False
+city-of-white-oak--gregg,City of White Oak,Gregg,32.530045,-94.853928,4878436,White Oak city,census_gazetteer,3.73,19,19,3,11,5,15.8,False
+city-of-white-settlement--tarrant,City of White Settlement,Tarrant,32.755053,-97.460687,4878544,White Settlement city,census_gazetteer,9.92,28,28,13,14,1,46.4,True
+city-of-whiteface--cochran,City of Whiteface,Cochran,33.599563,-102.61337,4878328,Whiteface town,census_gazetteer,12.51,8,8,4,4,0,50.0,False
+city-of-whitehouse--smith,City of Whitehouse,Smith,32.221678,-95.220676,4878388,Whitehouse city,census_gazetteer,10.88,16,16,4,10,2,25.0,False
+city-of-whitesboro--grayson,City of Whitesboro,Grayson,33.65958,-96.903694,4878532,Whitesboro city,census_gazetteer,13.33,16,16,6,9,1,37.5,True
+city-of-whitewright--grayson-fannin,City of Whitewright,"Grayson, Fannin",33.511159,-96.394906,4878628,Whitewright town,census_gazetteer,17.59,14,14,4,9,1,28.6,True
+city-of-whitney--hill,City of Whitney,Hill,31.952447,-97.31977,4878664,Whitney town,census_gazetteer,11.29,10,10,7,3,0,70.0,True
+city-of-wichita-falls--wichita,City of Wichita Falls,Wichita,33.906654,-98.525848,4879000,Wichita Falls city,census_gazetteer,11.87,51,51,24,24,3,47.1,False
+city-of-wickett--ward,City of Wickett,Ward,31.567325,-103.005948,4879036,Wickett town,census_gazetteer,6.98,8,8,2,6,0,25.0,False
+city-of-willis--montgomery,City of Willis,Montgomery,30.434166,-95.484207,4879408,Willis city,census_gazetteer,9.42,16,16,8,7,1,50.0,False
+city-of-willow-park--parker,City of Willow Park,Parker,32.753942,-97.650172,4879492,Willow Park city,census_gazetteer,9.19,17,17,8,7,2,47.1,True
+city-of-wills-point--van-zandt,City of Wills Point,Van Zandt,32.709454,-96.004991,4879564,Wills Point city,census_gazetteer,14.28,16,16,5,8,3,31.2,False
+city-of-wilmer--dallas,City of Wilmer,Dallas,32.597428,-96.680905,4879576,Wilmer city,census_gazetteer,13.02,16,15,7,7,1,46.7,True
+city-of-wilson--lynn,City of Wilson,Lynn,33.31934,-101.727499,4879612,Wilson city,census_gazetteer,11.07,9,9,3,5,1,33.3,False
+city-of-wimberley--hays,City of Wimberley,Hays,29.984133,-98.090344,4879624,Wimberley city,census_gazetteer,6.46,15,15,7,6,2,46.7,True
+city-of-windcrest--bexar,City of Windcrest,Bexar,29.514831,-98.381341,4879672,Windcrest city,census_gazetteer,9.52,17,17,6,9,2,35.3,False
+town-of-windom--fannin,Town of Windom,Fannin,33.564799,-95.998519,4879684,Windom town,census_gazetteer,6.39,8,8,1,4,3,12.5,False
+city-of-windthorst--archer-clay,City of Windthorst,"Archer, Clay",33.576966,-98.434932,4879696,Windthorst town,census_gazetteer,14.77,8,8,3,4,1,37.5,True
+city-of-winfield--titus,City of Winfield,Titus,33.165434,-95.111225,4879720,Winfield city,census_gazetteer,8.96,7,7,5,2,0,71.4,True
+city-of-wink--winkler,City of Wink,Winkler,31.754497,-103.154117,4879768,Wink city,census_gazetteer,11.84,11,11,3,6,2,27.3,False
+city-of-winnsboro--wood-franklin,City of Winnsboro,"Wood, Franklin",32.955903,-95.290319,4879816,Winnsboro city,census_gazetteer,13.04,13,13,8,4,1,61.5,False
+city-of-winona--smith,City of Winona,Smith,32.493468,-95.175762,4879828,Winona town,census_gazetteer,9.89,9,9,2,5,2,22.2,True
+city-of-winters--runnels,City of Winters,Runnels,31.949127,-99.959308,4879876,Winters city,census_gazetteer,7.3,12,12,4,6,2,33.3,False
+city-of-wixon-valley--brazos,City of Wixon Valley,Brazos,30.764482,-96.318645,4879919,Wixon Valley city,census_gazetteer,7.51,7,6,3,3,0,50.0,True
+city-of-wolfe-city--hunt,City of Wolfe City,Hunt,33.368528,-96.071986,4879948,Wolfe City city,census_gazetteer,16.96,10,10,4,6,0,40.0,True
+city-of-wolfforth--lubbock,City of Wolfforth,Lubbock,33.50877,-102.005554,4879972,Wolfforth city,census_gazetteer,12.83,16,16,6,9,1,37.5,False
+city-of-woodbranch-village--montgomery,City of Woodbranch Village,Montgomery,30.181335,-95.183615,4880044,Woodbranch city,census_gazetteer_alias,20.72,9,9,3,4,2,33.3,False
+city-of-woodcreek--hays,City of Woodcreek,Hays,30.026646,-98.111526,4880058,Woodcreek city,census_gazetteer,5.47,9,9,5,3,1,55.6,False
+town-of-woodloch--montgomery,Town of Woodloch,Montgomery,30.217204,-95.413029,4880144,Woodloch town,census_gazetteer,7.78,9,8,2,5,1,25.0,False
+town-of-woodsboro--refugio,Town of Woodsboro,Refugio,28.237807,-97.32538,4880176,Woodsboro town,census_gazetteer,11.5,10,10,4,6,0,40.0,True
+city-of-woodson--throckmorton,City of Woodson,Throckmorton,33.014931,-99.053429,4880188,Woodson town,census_gazetteer,13.91,8,8,4,4,0,50.0,False
+city-of-woodville--tyler,City of Woodville,Tyler,30.774433,-94.422454,4880212,Woodville town,census_gazetteer,2.8,12,12,4,5,3,33.3,True
+city-of-woodway--mclennan,City of Woodway,McLennan,31.498334,-97.230789,4880224,Woodway city,census_gazetteer,4.05,20,20,8,10,2,40.0,True
+city-of-wortham--freestone,City of Wortham,Freestone,31.794862,-96.460855,4880296,Wortham town,census_gazetteer,19.64,11,11,4,6,1,36.4,True
+city-of-wylie--collin-rockwall-dallas,City of Wylie,"Collin, Rockwall, Dallas",33.029273,-96.52714,4880356,Wylie city,census_gazetteer,11.2,36,36,16,18,2,44.4,False
+city-of-yantis--wood,City of Yantis,Wood,32.92853,-95.577357,4880440,Yantis town,census_gazetteer,15.12,9,9,2,7,0,22.2,True
+city-of-yoakum--lavaca-dewitt,City of Yoakum,"Lavaca, DeWitt",29.293137,-97.146749,4880560,Yoakum city,census_gazetteer,14.79,17,17,7,9,1,41.2,True
+city-of-yorktown--dewitt,City of Yorktown,DeWitt,28.982808,-97.505032,4880584,Yorktown city,census_gazetteer,11.0,11,11,5,5,1,45.5,False
+city-of-zavalla--angelina,City of Zavalla,Angelina,31.158466,-94.418918,4880728,Zavalla city,census_gazetteer,13.07,12,12,7,3,2,58.3,True
