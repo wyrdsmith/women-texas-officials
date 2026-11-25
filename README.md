@@ -2,6 +2,8 @@
 
 A proof-of-concept interactive web map and data pipeline exploring municipal officials across **1,226 Texas cities** listed in the [Texas Municipal League (TML) Directory](https://www.tml.org).
 
+See it live at [https://twu.wyrdsmith.io](https://twu.wyrdsmith.io)
+
 ## Gender Classification
 
 Gender is inferred probabilistically from first names using U.S. Social Security Administration baby name statistics ([`mysoc-gender-detect`](https://github.com/mysociety/gender-detect), 95% confidence threshold) combined with high-precision rules for gendered honorifics (`Mr.`, `Mrs.`, `Ms.`, `Miss`), generational suffixes (`Jr.`, `Sr.`, `II`, `III`, `IV`), explicitly gendered job titles (such as *Alderwoman*, *Councilwoman*, and *Chairwoman*), accent folding, and initial-plus-middle-name patterns.
